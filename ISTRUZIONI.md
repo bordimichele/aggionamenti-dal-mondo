@@ -118,6 +118,8 @@ Sono i punti di partenza, non un recinto: se la notizia importante è altrove, s
 2. `npm test` deve passare.
 3. Un solo commit, con un messaggio tipo «Aggiornamento del 12 novembre 2026», poi `git push origin main`
    (Netlify pubblica da solo). Prima del push: `git pull --rebase origin main`.
+   Se nel frattempo un'altra attività ha pubblicato e `indice.json` o `archivio/` vanno in conflitto: tenere i
+   rapporti di entrambe, rifare `node scripts/indice.mjs` e chiudere il rebase con i file rigenerati.
 4. Se il push su `main` viene rifiutato: spingere un ramo `aggiornamento-<periodo>`, aprire una pull request con
    `gh api` e unirla con `gh api -X PUT repos/<proprietario>/<repo>/pulls/<numero>/merge`. Se nemmeno questo riesce,
    lasciare la pull request aperta e dirlo.
