@@ -59,8 +59,15 @@ h2.sezione::after{content:"";flex:1;height:2px;background:var(--c);opacity:.5}
 .sintesi{font-family:var(--serif);font-size:17px;color:var(--inchiostro);margin:8px 0 14px}
 .sintesi p{margin:0 0 .7em}
 
-article{background:var(--foglio);border:1px solid var(--riga);border-left:4px solid var(--c);border-radius:12px;padding:18px 18px 14px;margin:12px 0}
-article h3{font-family:var(--serif);font-size:22px;line-height:1.22;margin:0 0 4px;letter-spacing:-.01em}
+article{background:var(--foglio);border:1px solid var(--riga);border-left:4px solid var(--c);border-radius:12px;padding:14px 16px;margin:10px 0}
+article h3{font-family:var(--serif);font-size:20px;line-height:1.22;margin:0 0 8px;letter-spacing:-.01em}
+details.art summary{list-style:none;cursor:pointer}
+details.art summary::-webkit-details-marker{display:none}
+details.art summary .meta{margin:0;align-items:center}
+details.art[open] summary{margin-bottom:12px}
+.apri{margin-left:auto;border:1px solid var(--c);color:var(--c);border-radius:999px;padding:3px 12px;font-weight:700;font-size:12.5px}
+.apri::after{content:"Leggi ▾"}
+details.art[open] .apri::after{content:"Chiudi ▴"}
 .meta{font-size:12.5px;color:var(--tenue);margin:0 0 10px;display:flex;flex-wrap:wrap;gap:4px 10px}
 .meta b{color:var(--c);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
 .meta a{text-decoration:underline;text-underline-offset:2px}
@@ -180,11 +187,14 @@ function corpoArticolo(a, segna) {
     <p class="fonti">Fonti: ${fontiHtml(a.fonti)}</p>
     <div class="parole">${(a.parole || []).map((p) => `<button data-parola="${esc(p)}">${esc(p)}</button>`).join("")}</div>`;
 }
+// Una notizia: chiusa si vede solo il titolo; il tasto «Leggi» (o un tocco sul titolo) la apre.
 function articoloHtml(a, sezione) {
-  return `<article style="--c:var(--${sezione})">
-    <h3>${esc(a.titolo)}</h3>
-    <p class="meta"><b>${SEZIONI[sezione]}</b>${a.quando ? `<span>${esc(a.quando)}</span>` : ""}</p>
-    ${corpoArticolo(a)}</article>`;
+  return `<article style="--c:var(--${sezione})"><details class="art">
+    <summary>
+      <h3>${esc(a.titolo)}</h3>
+      <p class="meta"><b>${SEZIONI[sezione]}</b>${a.quando ? `<span>${esc(a.quando)}</span>` : ""}<span class="apri" aria-hidden="true"></span></p>
+    </summary>
+    ${corpoArticolo(a)}</details></article>`;
 }
 const vuoto = (titolo, testo) => `<div class="vuoto"><strong>${titolo}</strong>${testo}</div>`;
 
