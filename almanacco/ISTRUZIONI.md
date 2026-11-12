@@ -55,6 +55,7 @@ si apre, la categoria resta vuota: mai fonti di riserva prese altrove.
 {
   "tipo": "giorno",
   "periodo": "2026-11-12",
+  "aggiornamenti": ["07:24"],
   "sezioni": {
     "italia":   { "articoli": [ ARTICOLO, ... ] },
     "mondo":    { "articoli": [] },
@@ -77,13 +78,17 @@ Un ARTICOLO:
 }
 ```
 
-Le cinque categorie ci sono sempre, anche vuote. `indice.json` e `archivio/` **non si scrivono a mano**.
+Le cinque categorie ci sono sempre, anche vuote. `aggiornamenti` è l'elenco delle ore (a Roma, «HH:MM») in cui la
+rassegna è stata scritta o aggiornata: la prima quando nasce, poi una per ogni aggiornamento. L'app lo usa per dire
+«aggiornata alle…» e per capire che una ricerca chiesta da Michele è finita. `indice.json` e `archivio/` **non si
+scrivono a mano**.
 
 ## I passi
 
-1. La data è quella di oggi a Roma. Se `almanacco/notizie/giorni/<oggi>.json` c'è già, ci si ferma dicendolo.
+1. La data è quella di oggi a Roma. Se `almanacco/notizie/giorni/<oggi>.json` c'è già, non si riscrive: si fa
+   l'**aggiornamento** descritto qui sotto.
 2. Per ogni categoria: aprire i feed, scegliere le notizie, leggere gli articoli, scrivere.
-3. Scrivere il file del giorno.
+3. Scrivere il file del giorno, con `"aggiornamenti": ["<ora di adesso>"]`.
 4. `node scripts/indice.mjs almanacco/notizie` deve dire «Tutto a posto»; se elenca errori, correggerli.
 5. `npm test` deve passare.
 6. Un solo commit, con il messaggio «Rassegna dell'Almanacco del 12 novembre 2026». Poi `git pull --rebase origin main`
@@ -94,3 +99,20 @@ Le cinque categorie ci sono sempre, anche vuote. `indice.json` e `archivio/` **n
 
 Un giorno già pubblicato non si cancella e non si riscrive: è l'archivio di Michele. Si corregge solo un errore di
 fatto, dicendolo nel messaggio finale.
+
+## Aggiornamento durante il giorno
+
+Succede quando la rassegna di oggi c'è già: di solito l'ha chiesto Michele con «Aggiorna ora» nell'Almanacco (il
+messaggio dell'attività lo dice, con l'ora della richiesta).
+
+1. Leggere la rassegna di oggi: titoli e ore in `aggiornamenti` (l'ultima è il punto da cui cercare).
+2. Cercare, con le stesse fonti e le stesse regole, le notizie **uscite dopo l'ultimo aggiornamento** che valgono
+   davvero: fatti nuovi importanti, non variazioni minori di notizie già scritte. Di solito da 0 a 2 per categoria.
+   Un seguito importante di una notizia già scritta diventa una notizia nuova che dice che cosa è cambiato.
+3. **Aggiungerle in fondo** alla loro categoria. Le notizie già scritte non si toccano, non si riordinano e non si
+   tolgono (l'app riconosce le notizie lette dalla loro posizione).
+4. Aggiungere l'ora di adesso in fondo a `aggiornamenti` (se il campo manca, crearlo con l'ora di adesso). Si fa
+   **anche se non c'è niente di nuovo**: così l'app sa che il controllo è finito.
+5. Proseguire dal passo 4 dei «passi» (controllo, test, commit «Aggiornamento della rassegna dell'Almanacco del
+   12 novembre 2026, ore 14:05», pubblicazione). Nel messaggio finale: i titoli aggiunti, oppure «nessuna notizia
+   nuova importante».
