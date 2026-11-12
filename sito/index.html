@@ -126,13 +126,21 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const piano = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const paragrafi = (s, segna = (x) => esc(x)) => String(s ?? "").split(/\n\s*\n/).filter((p) => p.trim()).map((p) => `<p>${segna(p.trim())}</p>`).join("");
 
-function carica(percorso) {
-  if (!memoria.has(percorso)) {
-    memoria.set(percorso, fetch("data/" + percorso, { cache: "no-cache" }).then((r) => {
-      if (!r.ok) throw new Error("Non trovo " + percorso);
-      return r.json();
-    }).catch((e) => { memoria.delete(percorso); throw e; }));
+// I rapporti si leggono da GitHub, dove l'attività quotidiana li salva: così sono subito aggiornati senza
+// ripubblicare il sito (ogni pubblicazione su Netlify costa crediti). Se GitHub non risponde, si usa la copia del sito.
+const FONTI_DATI = ["https://raw.githubusercontent.com/bordimichele/aggionamenti-dal-mondo/main/sito/data/", "data/"];
+async function scarica(percorso) {
+  let errore = new Error("Non trovo " + percorso);
+  for (const base of FONTI_DATI) {
+    try {
+      const r = await fetch(base + percorso, { cache: "no-cache", signal: AbortSignal.timeout(8000) });
+      if (r.ok) return await r.json();
+    } catch (e) { errore = e; }
   }
+  throw errore;
+}
+function carica(percorso) {
+  if (!memoria.has(percorso)) memoria.set(percorso, scarica(percorso).catch((e) => { memoria.delete(percorso); throw e; }));
   return memoria.get(percorso);
 }
 

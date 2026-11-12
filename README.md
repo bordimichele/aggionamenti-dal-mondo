@@ -16,16 +16,25 @@ Le ricerche le fa Claude con le attività pianificate (nessuna chiave, nessun co
 |---|---|---|
 | Frontiere – ogni giorno | ogni mattina | cerca le novità e scrive il giorno |
 | Frontiere – report del mese | il primo del mese | scrive il report del mese finito; a gennaio anche quello dell'anno |
-| Frontiere – storico | ogni poche ore, finché serve | scrive i report dei due anni passati; poi si può spegnere |
 
-Ogni attività salva i rapporti in questo repository; Netlify pubblica il sito da solo a ogni salvataggio.
+Ogni attività salva i rapporti in questo repository e l'app li legge direttamente da qui (per questo il repository è
+pubblico: contiene solo notizie). Netlify ripubblica il sito solo quando cambia l'app, non a ogni rapporto: ogni
+pubblicazione costa 15 crediti Netlify e il piano gratuito ne ha 300 al mese.
+
+Lo storico dei due anni passati (`storico/da-fare.json`, parte «Storico» di `ISTRUZIONI.md`) è in pausa: l'attività
+che lo scriveva è stata eliminata. Per riprenderlo basta chiederlo a Claude.
 La procedura che Claude segue è in [`ISTRUZIONI.md`](ISTRUZIONI.md): per cambiare fonti, lunghezza o stile dei
 riassunti basta chiederlo a Claude, che aggiorna quel file.
 
 ## Netlify
 
-Collegare il repository a un sito Netlify nuovo: le impostazioni sono già in `netlify.toml` (cartella pubblicata:
-`sito`, nessun comando).
+Le impostazioni sono in `netlify.toml` (cartella pubblicata: `sito`, nessun comando, salta le pubblicazioni dei soli
+dati).
+
+## La rassegna dell'Almanacco
+
+La cartella `almanacco/notizie/` contiene la rassegna quotidiana della sezione Notizie del «Mio Almanacco», scritta
+dall'attività «Almanacco – rassegna del giorno» secondo `almanacco/ISTRUZIONI.md`. L'Almanacco la legge da qui.
 
 ## Sul computer
 

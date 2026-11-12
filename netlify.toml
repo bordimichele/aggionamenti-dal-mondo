@@ -1,6 +1,10 @@
 # Il sito è la cartella "sito" così com'è: nessuna costruzione, nessuna chiave.
 [build]
   publish = "sito"
+  # Ogni pubblicazione su Netlify costa crediti. I rapporti l'app li legge direttamente da GitHub, quindi quando
+  # cambiano solo i dati (sito/data, almanacco, storico) Netlify salta la pubblicazione. Si pubblica quando cambia
+  # l'app, oppure a mano ("Trigger deploy"), oppure al primo giro.
+  ignore = "[ -n \"$CACHED_COMMIT_REF\" ] && [ \"$CACHED_COMMIT_REF\" != \"$COMMIT_REF\" ] && git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)sito/data' ':(exclude)almanacco' ':(exclude)storico'"
 
 # Pagina e dati vanno sempre ricontrollati, così gli aggiornamenti si vedono subito
 [[headers]]

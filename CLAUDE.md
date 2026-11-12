@@ -6,3 +6,8 @@
 - I rapporti pubblicati sono l'archivio dell'utente: non si cancellano e non si riscrivono.
 - Le modifiche all'app (`sito/index.html`, `scripts/`) si provano con `npm test` e aprendo il sito su uno schermo da
   telefono prima di pubblicare. Nessun framework, nessuna costruzione, nessuna chiave.
+- L'app legge i dati da GitHub (`raw.githubusercontent.com`, `FONTI_DATI` in `sito/index.html`), con riserva sulla copia
+  del sito: per questo **il repository deve restare pubblico**. Netlify salta la pubblicazione quando cambiano solo i
+  dati (`ignore` in `netlify.toml`): ogni pubblicazione costa 15 crediti.
+- La cartella `almanacco/` contiene la rassegna quotidiana dell'Almanacco (un'altra app): ha la sua procedura in
+  `almanacco/ISTRUZIONI.md`.
