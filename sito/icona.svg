@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d1f29"/><stop offset="1" stop-color="#101116"/></linearGradient>
+    <linearGradient id="oro" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd27a"/><stop offset="1" stop-color="#e09a22"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#cielo)"/>
+  <circle cx="356" cy="150" r="30" fill="#f6f3ec"/>
+  <path d="M64 388 L206 148 L290 290 L340 222 L448 388 Z" fill="url(#oro)"/>
+  <path d="M206 148 L290 290 L262 328 L206 236 L160 300 L140 260 Z" fill="#fff3d6" opacity=".55"/>
+  <rect x="64" y="404" width="384" height="14" rx="7" fill="#f6f3ec" opacity=".9"/>
+</svg>
