@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // Controlla tutti i rapporti e ricostruisce l'indice e l'archivio per la ricerca.
-// Uso: node scripts/indice.mjs [cartella dei dati]   (se manca: sito/data)
+// Uso: node scripts/indice.mjs [cartella dei dati]   (se manca: sito/data, i dati di Frontiere)
+//      node scripts/indice.mjs almanacco/notizie     (la rassegna dell'Almanacco)
+// Le sezioni sono quelle di Frontiere, a meno che la cartella abbia un suo "sezioni.json" (un elenco di nomi).
 // Se un rapporto ha un errore lo dice in italiano ed esce con codice 1, senza toccare nulla.
 
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from "node:fs";
@@ -19,7 +21,7 @@ export const TESTO_MINIMO = 500;
 const testoPieno = (v) => typeof v === "string" && v.trim().length > 0;
 
 /** Restituisce l'elenco degli errori di un rapporto (vuoto se va bene). */
-export function controlla(rapporto, tipo, nomeFile) {
+export function controlla(rapporto, tipo, nomeFile, sezioni = SEZIONI) {
   const err = [];
   const dove = `${TIPI[tipo].cartella}/${nomeFile}`;
   const periodo = nomeFile.replace(/\.json$/, "");
@@ -29,8 +31,8 @@ export function controlla(rapporto, tipo, nomeFile) {
   if (tipo !== "giorno" && !testoPieno(rapporto.apertura)) err.push(`${dove}: manca "apertura" (il quadro generale del periodo)`);
   const sez = rapporto.sezioni;
   if (!sez || typeof sez !== "object") return [...err, `${dove}: manca "sezioni"`];
-  for (const nome of Object.keys(sez)) if (!SEZIONI.includes(nome)) err.push(`${dove}: sezione sconosciuta "${nome}"`);
-  for (const nome of SEZIONI) {
+  for (const nome of Object.keys(sez)) if (!sezioni.includes(nome)) err.push(`${dove}: sezione sconosciuta "${nome}"`);
+  for (const nome of sezioni) {
     const s = sez[nome];
     if (!s || !Array.isArray(s.articoli)) { err.push(`${dove}: manca la sezione "${nome}" con i suoi "articoli"`); continue; }
     if (tipo !== "giorno" && !testoPieno(s.sintesi)) err.push(`${dove} › ${nome}: manca "sintesi"`);
@@ -50,8 +52,19 @@ export function controlla(rapporto, tipo, nomeFile) {
   return err;
 }
 
+/** Le sezioni di una cartella di dati: quelle del suo "sezioni.json", se c'è, altrimenti quelle di Frontiere. */
+export function sezioniDi(dati) {
+  const f = join(dati, "sezioni.json");
+  if (!existsSync(f)) return SEZIONI;
+  const l = JSON.parse(readFileSync(f, "utf8"));
+  if (!Array.isArray(l) || !l.length || !l.every((x) => typeof x === "string" && /^[a-z]+$/.test(x))) {
+    throw new Error(`${f}: deve essere un elenco di nomi in minuscolo, es. ["italia", "mondo"]`);
+  }
+  return l;
+}
+
 /** Legge i rapporti, li controlla e scrive indice.json e archivio/*.json. Restituisce un riepilogo. */
-export function costruisci(dati) {
+export function costruisci(dati, sezioni = sezioniDi(dati)) {
   const errori = [];
   const indice = { giorni: [], mesi: [], anni: [], archivio: [], articoli: 0 };
   const archivio = new Map(); // nome del file → articoli
@@ -63,12 +76,12 @@ export function costruisci(dati) {
       let r;
       try { r = JSON.parse(readFileSync(join(dir, f), "utf8")); }
       catch (e) { errori.push(`${cartella}/${f}: il file non è un JSON valido (${e.message})`); continue; }
-      const err = controlla(r, tipo, f);
+      const err = controlla(r, tipo, f, sezioni);
       if (err.length) { errori.push(...err); continue; }
       indice[cartella].push(r.periodo);
       const file = tipo === "anno" ? r.periodo : r.periodo.slice(0, 7);
       if (!archivio.has(file)) archivio.set(file, []);
-      for (const sezione of SEZIONI) {
+      for (const sezione of sezioni) {
         r.sezioni[sezione].articoli.forEach((a, i) => {
           archivio.get(file).push({
             id: `${tipo}-${r.periodo}-${sezione}-${i + 1}`,

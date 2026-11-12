@@ -4,15 +4,15 @@ import assert from "node:assert/strict";
 import { mkdtempSync, mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
-import { costruisci, controlla, SEZIONI } from "../scripts/indice.mjs";
+import { costruisci, controlla, SEZIONI, sezioniDi } from "../scripts/indice.mjs";
 
 const articolo = (titolo) => ({
   titolo, testo: "Testo dettagliato. ".repeat(40), perche: "Cambia le cose.",
   fonti: [{ nome: "Nature", url: "https://www.nature.com/articles/x" }], parole: ["uno", "due", "tre"],
 });
-export const rapporto = (tipo, periodo) => ({
+export const rapporto = (tipo, periodo, sezioni = SEZIONI) => ({
   tipo, periodo, ...(tipo === "giorno" ? {} : { apertura: "Il quadro del periodo." }),
-  sezioni: Object.fromEntries(SEZIONI.map((s) => [s, { ...(tipo === "giorno" ? {} : { sintesi: "Sintesi." }), articoli: [articolo(`${s} ${periodo}`)] }])),
+  sezioni: Object.fromEntries(sezioni.map((s) => [s, { ...(tipo === "giorno" ? {} : { sintesi: "Sintesi." }), articoli: [articolo(`${s} ${periodo}`)] }])),
 });
 function cartella(rapporti) {
   const d = mkdtempSync(join(tmpdir(), "frontiere-"));
@@ -48,4 +48,19 @@ test("rifiuta i rapporti sbagliati senza toccare l'indice", () => {
   const { errori } = costruisci(d);
   assert.equal(errori.length, 3);
   assert.ok(!existsSync(join(d, "indice.json")));
+});
+
+test("una cartella con il suo sezioni.json usa le sue sezioni (la rassegna dell'Almanacco)", () => {
+  const SEZ = ["italia", "mondo", "economia", "tech", "clima"];
+  const d = cartella([["giorni", rapporto("giorno", "2026-11-12", SEZ)]]);
+  writeFileSync(join(d, "sezioni.json"), JSON.stringify(SEZ));
+  assert.deepEqual(sezioniDi(d), SEZ);
+  const { errori, indice } = costruisci(d);
+  assert.deepEqual(errori, []);
+  assert.equal(indice.articoli, 5);
+  const art = JSON.parse(readFileSync(join(d, "archivio", "2026-11.json"), "utf8"));
+  assert.deepEqual(art.map((a) => a.sezione), SEZ);
+  // un rapporto con le sezioni di Frontiere qui è sbagliato
+  writeFileSync(join(d, "giorni", "2026-11-13.json"), JSON.stringify(rapporto("giorno", "2026-11-13")));
+  assert.ok(costruisci(d).errori.some((e) => e.includes('sezione sconosciuta "medicina"')));
 });
