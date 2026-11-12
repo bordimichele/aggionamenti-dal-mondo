@@ -1,0 +1,11 @@
+{
+  "name": "frontiere",
+  "private": true,
+  "description": "Frontiere: le novità di tecnologia, medicina, scienza e AI, ogni giorno, con report mensili e annuali",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "indice": "node scripts/indice.mjs",
+    "test": "node --test"
+  }
+}

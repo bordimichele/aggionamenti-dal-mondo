@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14151a" media="(prefers-color-scheme: dark)">
+<title>Frontiere</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314151a'/%3E%3Cpath d='M14 46 L28 22 L37 36 L43 28 L52 46 Z' fill='%23f2b84b'/%3E%3C/svg%3E">
+<style>
+:root{
+  --carta:#f6f3ec; --foglio:#fffdf8; --inchiostro:#1b1c20; --tenue:#62646d; --riga:#e2ddd0; --oro:#b8801c;
+  --tecnologia:#1f5fbf; --medicina:#c2334d; --scienza:#1f7a4d; --ai:#6b3fc4;
+  --serif: "Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --sans: system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --carta:#14151a; --foglio:#1c1e25; --inchiostro:#ecebe6; --tenue:#9a9ca6; --riga:#2d3039; --oro:#f2b84b;
+    --tecnologia:#74a8ff; --medicina:#ff8196; --scienza:#5fd198; --ai:#b596ff; }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--carta);color:var(--inchiostro);font-family:var(--sans);line-height:1.55}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:inherit}
+.pagina{max-width:760px;margin:0 auto;padding:0 18px calc(48px + env(safe-area-inset-bottom))}
+
+header.testata{padding:calc(22px + env(safe-area-inset-top)) 0 14px;border-bottom:3px double var(--inchiostro)}
+.testata h1{font-family:var(--serif);font-size:clamp(34px,9vw,52px);line-height:1;margin:0;letter-spacing:-.02em}
+.testata p{margin:6px 0 0;color:var(--tenue);font-size:14px}
+
+nav.viste{position:sticky;top:0;z-index:5;background:var(--carta);display:flex;gap:4px;padding:10px 0;border-bottom:1px solid var(--riga)}
+nav.viste button{flex:1;border:0;background:none;padding:9px 4px;border-radius:8px;font-weight:600;font-size:15px;color:var(--tenue)}
+nav.viste button[aria-current="page"]{background:var(--inchiostro);color:var(--carta)}
+
+.barra{display:flex;align-items:center;gap:8px;margin:16px 0 4px}
+.barra select{flex:1;min-width:0;padding:10px 12px;border:1px solid var(--riga);border-radius:10px;background:var(--foglio);font-weight:600}
+.barra button{width:44px;height:44px;border:1px solid var(--riga);border-radius:10px;background:var(--foglio);font-size:18px}
+.barra button:disabled{opacity:.35;cursor:default}
+
+.filtri{display:flex;gap:6px;overflow-x:auto;padding:10px 0 6px;scrollbar-width:none}
+.filtri::-webkit-scrollbar{display:none}
+.filtri button{flex:none;border:1px solid var(--riga);background:var(--foglio);border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;color:var(--tenue)}
+.filtri button[aria-pressed="true"]{border-color:var(--c,var(--inchiostro));color:var(--c,var(--inchiostro));box-shadow:inset 0 0 0 1px var(--c,var(--inchiostro))}
+
+.apertura{font-family:var(--serif);font-size:19px;line-height:1.6;margin:18px 0 6px;padding:0 0 18px;border-bottom:1px solid var(--riga)}
+.apertura p{margin:0 0 .8em}
+h2.sezione{display:flex;align-items:center;gap:10px;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--c);margin:30px 0 4px}
+h2.sezione::after{content:"";flex:1;height:2px;background:var(--c);opacity:.5}
+.sintesi{font-family:var(--serif);font-size:17px;color:var(--inchiostro);margin:8px 0 14px}
+.sintesi p{margin:0 0 .7em}
+
+article{background:var(--foglio);border:1px solid var(--riga);border-left:4px solid var(--c);border-radius:12px;padding:18px 18px 14px;margin:12px 0}
+article h3{font-family:var(--serif);font-size:22px;line-height:1.22;margin:0 0 4px;letter-spacing:-.01em}
+.meta{font-size:12.5px;color:var(--tenue);margin:0 0 10px;display:flex;flex-wrap:wrap;gap:4px 10px}
+.meta b{color:var(--c);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+.meta a{text-decoration:underline;text-underline-offset:2px}
+.testo p{margin:0 0 .85em;font-size:16.5px}
+.perche{margin:12px 0;padding:10px 12px;border-radius:8px;background:color-mix(in srgb,var(--c) 9%,transparent);font-size:15px}
+.perche strong{color:var(--c)}
+.fonti{font-size:13.5px;color:var(--tenue);margin:10px 0 0}
+.fonti a{color:var(--inchiostro);text-underline-offset:2px}
+.parole{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0}
+.parole button{border:0;background:color-mix(in srgb,var(--tenue) 14%,transparent);border-radius:6px;padding:3px 9px;font-size:12.5px;color:var(--tenue)}
+
+.cerca{position:relative;margin:16px 0 0}
+.cerca input{width:100%;padding:14px 44px 14px 16px;border:2px solid var(--inchiostro);border-radius:12px;background:var(--foglio);font-size:17px}
+.cerca input:focus{outline:3px solid color-mix(in srgb,var(--oro) 55%,transparent);outline-offset:1px}
+.cerca button{position:absolute;right:6px;top:50%;translate:0 -50%;width:36px;height:36px;border:0;background:none;font-size:18px;color:var(--tenue)}
+.conto{font-size:13.5px;color:var(--tenue);margin:10px 0 0}
+details.esito{background:var(--foglio);border:1px solid var(--riga);border-left:4px solid var(--c);border-radius:12px;margin:10px 0;padding:0 16px}
+details.esito summary{list-style:none;cursor:pointer;padding:14px 0}
+details.esito summary::-webkit-details-marker{display:none}
+details.esito summary h3{font-family:var(--serif);font-size:19px;line-height:1.25;margin:0 0 4px}
+details.esito .anteprima{font-size:14.5px;color:var(--tenue);margin:6px 0 0}
+details.esito[open] .anteprima{display:none}
+details.esito .corpo{padding:0 0 14px}
+mark{background:color-mix(in srgb,var(--oro) 38%,transparent);color:inherit;border-radius:3px;padding:0 1px}
+.altri{display:block;width:100%;margin:14px 0;padding:12px;border:1px solid var(--riga);border-radius:10px;background:var(--foglio);font-weight:600}
+
+.vuoto{text-align:center;color:var(--tenue);padding:48px 12px}
+.vuoto strong{display:block;font-family:var(--serif);font-size:22px;color:var(--inchiostro);margin-bottom:6px}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid var(--riga);font-size:12.5px;color:var(--tenue)}
+:focus-visible{outline:3px solid color-mix(in srgb,var(--oro) 70%,transparent);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="pagina">
+  <header class="testata">
+    <h1>Frontiere</h1>
+    <p>Tecnologia, medicina, scienza e AI: le novità che contano, ogni giorno.</p>
+  </header>
+  <nav class="viste" aria-label="Viste">
+    <button data-vista="giorno">Oggi</button>
+    <button data-vista="mese">Mese</button>
+    <button data-vista="anno">Anno</button>
+    <button data-vista="archivio">Archivio</button>
+  </nav>
+  <main id="contenuto" aria-live="polite"></main>
+  <footer id="piede"></footer>
+</div>
+
+<script>
+"use strict";
+const SEZIONI = { tecnologia: "Tecnologia", medicina: "Medicina", scienza: "Scienza", ai: "AI" };
+const VISTE = { giorno: "giorni", mese: "mesi", anno: "anni" };
+const NOMI_TIPO = { giorno: "Giornaliero", mese: "Report del mese", anno: "Report dell'anno" };
+const PER_PAGINA = 30;
+
+const stato = { vista: "giorno", periodo: null, sezione: "tutte", q: "", tipo: "tutti", mostrati: PER_PAGINA };
+let indice = null;
+let archivio = null;
+const memoria = new Map();
+
+const $ = (s, r = document) => r.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const piano = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const paragrafi = (s, segna = (x) => esc(x)) => String(s ?? "").split(/\n\s*\n/).filter((p) => p.trim()).map((p) => `<p>${segna(p.trim())}</p>`).join("");
+
+function carica(percorso) {
+  if (!memoria.has(percorso)) {
+    memoria.set(percorso, fetch("data/" + percorso, { cache: "no-cache" }).then((r) => {
+      if (!r.ok) throw new Error("Non trovo " + percorso);
+      return r.json();
+    }).catch((e) => { memoria.delete(percorso); throw e; }));
+  }
+  return memoria.get(percorso);
+}
+
+function nomePeriodo(tipo, p) {
+  if (tipo === "anno") return p;
+  const [a, m, g] = p.split("-").map(Number);
+  const d = new Date(Date.UTC(a, m - 1, g || 1));
+  const opz = tipo === "mese" ? { month: "long", year: "numeric" } : { weekday: "long", day: "numeric", month: "long", year: "numeric" };
+  const t = new Intl.DateTimeFormat("it-IT", { ...opz, timeZone: "UTC" }).format(d);
+  return t.charAt(0).toUpperCase() + t.slice(1);
+}
+
+/* ---------- indirizzi: #giorno/2026-11-12 · #mese/2026-10 · #anno/2025 · #archivio/parole ---------- */
+function leggiIndirizzo() {
+  const [vista, ...resto] = decodeURIComponent(location.hash.slice(1)).split("/");
+  const valore = resto.join("/");
+  if (vista === "archivio") { stato.vista = "archivio"; stato.q = valore; }
+  else if (VISTE[vista]) { stato.vista = vista; stato.periodo = valore || null; }
+  stato.mostrati = PER_PAGINA;
+}
+function vai(vista, valore = "") {
+  const h = "#" + vista + (valore ? "/" + encodeURIComponent(valore) : "");
+  if (location.hash === h) disegna(); else location.hash = h;
+}
+
+/* ---------- pezzi comuni ---------- */
+function filtriSezione() {
+  const b = (id, nome, c) => `<button data-sezione="${id}" aria-pressed="${stato.sezione === id}"${c ? ` style="--c:var(--${id})"` : ""}>${nome}</button>`;
+  return `<div class="filtri" role="group" aria-label="Sezioni">${b("tutte", "Tutte")}${Object.entries(SEZIONI).map(([id, n]) => b(id, n, true)).join("")}</div>`;
+}
+function fontiHtml(fonti) {
+  return (fonti || []).filter((f) => /^https:\/\//.test(f.url)).map((f) => `<a href="${esc(f.url)}" target="_blank" rel="noopener noreferrer">${esc(f.nome)}</a>`).join(" · ");
+}
+function corpoArticolo(a, segna) {
+  return `<div class="testo">${paragrafi(a.testo, segna)}</div>
+    <div class="perche"><strong>Perché conta.</strong> ${segna ? segna(a.perche) : esc(a.perche)}</div>
+    <p class="fonti">Fonti: ${fontiHtml(a.fonti)}</p>
+    <div class="parole">${(a.parole || []).map((p) => `<button data-parola="${esc(p)}">${esc(p)}</button>`).join("")}</div>`;
+}
+function articoloHtml(a, sezione) {
+  return `<article style="--c:var(--${sezione})">
+    <h3>${esc(a.titolo)}</h3>
+    <p class="meta"><b>${SEZIONI[sezione]}</b>${a.quando ? `<span>${esc(a.quando)}</span>` : ""}</p>
+    ${corpoArticolo(a)}</article>`;
+}
+const vuoto = (titolo, testo) => `<div class="vuoto"><strong>${titolo}</strong>${testo}</div>`;
+
+/* ---------- giorno, mese, anno ---------- */
+async function disegnaRapporto() {
+  const tipo = stato.vista, elenco = indice[VISTE[tipo]];
+  const main = $("#contenuto");
+  if (!elenco.length) {
+    const cosa = { giorno: "Il primo aggiornamento arriva con la prossima ricerca quotidiana.", mese: "Il primo report mensile arriva a inizio mese.", anno: "Il report dell'anno arriva a inizio gennaio." }[tipo];
+    main.innerHTML = vuoto("Ancora niente qui", cosa);
+    return;
+  }
+  if (!elenco.includes(stato.periodo)) stato.periodo = elenco[0];
+  const i = elenco.indexOf(stato.periodo);
+  const barra = `<div class="barra">
+    <button data-passo="1" aria-label="Precedente"${i === elenco.length - 1 ? " disabled" : ""}>‹</button>
+    <select id="periodo" aria-label="Scegli il periodo">${elenco.map((p) => `<option value="${p}"${p === stato.periodo ? " selected" : ""}>${nomePeriodo(tipo, p)}</option>`).join("")}</select>
+    <button data-passo="-1" aria-label="Successivo"${i === 0 ? " disabled" : ""}>›</button>
+  </div>${filtriSezione()}`;
+  main.innerHTML = barra + `<p class="conto">Carico…</p>`;
+  let r;
+  const chiesto = stato.periodo;
+  try { r = await carica(`${VISTE[tipo]}/${chiesto}.json`); }
+  catch { main.innerHTML = barra + vuoto("Non riesco a caricare", "Controlla la connessione e riprova."); return; }
+  if (stato.vista !== tipo || stato.periodo !== chiesto) return;
+
+  let html = "";
+  if (r.apertura && stato.sezione === "tutte") html += `<div class="apertura">${paragrafi(r.apertura)}</div>`;
+  let quanti = 0;
+  for (const id of Object.keys(SEZIONI)) {
+    if (stato.sezione !== "tutte" && stato.sezione !== id) continue;
+    const s = r.sezioni?.[id];
+    if (!s || (!s.articoli?.length && !s.sintesi)) continue;
+    quanti += s.articoli.length;
+    html += `<h2 class="sezione" style="--c:var(--${id})">${SEZIONI[id]}</h2>`;
+    if (s.sintesi) html += `<div class="sintesi">${paragrafi(s.sintesi)}</div>`;
+    html += s.articoli.map((a) => articoloHtml(a, id)).join("");
+  }
+  if (!quanti) html += vuoto("Nessuna novità di rilievo", "In questa sezione non c'è nulla da segnalare per questo periodo.");
+  main.innerHTML = barra + html;
+}
+
+/* ---------- archivio e ricerca ---------- */
+async function caricaArchivio() {
+  if (archivio) return archivio;
+  const pezzi = await Promise.all(indice.archivio.map((f) => carica(`archivio/${f}.json`)));
+  archivio = pezzi.flat().map((a) => ({
+    ...a,
+    _titolo: piano(a.titolo), _parole: piano((a.parole || []).join(" | ")),
+    _tutto: piano([SEZIONI[a.sezione], a.titolo, a.testo, a.perche, a.quando, (a.parole || []).join(" "), (a.fonti || []).map((f) => f.nome).join(" ")].join(" \n ")),
+  }));
+  return archivio;
+}
+function cercaArticoli(tutti, q, sezione, tipo) {
+  const parole = piano(q).split(/\s+/).filter(Boolean);
+  const esiti = [];
+  for (const a of tutti) {
+    if (sezione !== "tutte" && a.sezione !== sezione) continue;
+    if (tipo !== "tutti" && a.tipo !== tipo) continue;
+    let punti = 0, ok = true;
+    for (const p of parole) {
+      if (!a._tutto.includes(p)) { ok = false; break; }
+      punti += (a._titolo.includes(p) ? 5 : 0) + (a._parole.includes(p) ? 3 : 0) + 1;
+    }
+    if (ok) esiti.push({ a, punti });
+  }
+  esiti.sort((x, y) => y.punti - x.punti || y.a.periodo.localeCompare(x.a.periodo));
+  return { esiti: esiti.map((e) => e.a), parole };
+}
+function evidenzia(parole) {
+  if (!parole.length) return (s) => esc(s);
+  return (s) => {
+    const testo = String(s ?? ""), basso = piano(testo);
+    if (basso.length !== testo.length) return esc(testo); // caratteri particolari: niente evidenziazione, testo intatto
+    const segni = new Array(testo.length).fill(false);
+    for (const p of parole) for (let i = basso.indexOf(p); i !== -1; i = basso.indexOf(p, i + p.length)) segni.fill(true, i, i + p.length);
+    let out = "", dentro = false;
+    for (let i = 0; i < testo.length; i++) {
+      if (segni[i] !== dentro) { out += segni[i] ? "<mark>" : "</mark>"; dentro = segni[i]; }
+      out += esc(testo[i]);
+    }
+    return out + (dentro ? "</mark>" : "");
+  };
+}
+function anteprima(a, parole) {
+  const testo = a.testo.replace(/\s+/g, " ");
+  const basso = piano(testo);
+  let da = 0;
+  if (basso.length === testo.length) for (const p of parole) { const i = basso.indexOf(p); if (i > 60) { da = testo.lastIndexOf(" ", i - 50) + 1; break; } if (i !== -1) break; }
+  const pezzo = testo.slice(da, da + 190);
+  return (da ? "… " : "") + pezzo + (da + 190 < testo.length ? "…" : "");
+}
+function disegnaEsiti() {
+  const { esiti, parole } = cercaArticoli(archivio, stato.q, stato.sezione, stato.tipo);
+  const segna = evidenzia(parole);
+  const box = $("#esiti");
+  if (!archivio.length) { box.innerHTML = vuoto("L'archivio è ancora vuoto", "Si riempie da solo a ogni aggiornamento."); return; }
+  const conto = parole.length
+    ? `${esiti.length} ${esiti.length === 1 ? "articolo trovato" : "articoli trovati"} per «${esc(stato.q.trim())}»`
+    : `${esiti.length} ${esiti.length === 1 ? "articolo" : "articoli"} in archivio, dal più recente`;
+  if (!esiti.length) { box.innerHTML = `<p class="conto">${conto}</p>` + vuoto("Nessun risultato", "Prova con meno parole o con un sinonimo."); return; }
+  box.innerHTML = `<p class="conto">${conto}</p>` + esiti.slice(0, stato.mostrati).map((a) => `
+    <details class="esito" style="--c:var(--${a.sezione})" id="${esc(a.id)}">
+      <summary>
+        <h3>${segna(a.titolo)}</h3>
+        <p class="meta"><b>${SEZIONI[a.sezione]}</b><span>${NOMI_TIPO[a.tipo]} · ${nomePeriodo(a.tipo, a.periodo)}</span></p>
+        <p class="anteprima">${segna(anteprima(a, parole))}</p>
+      </summary>
+      <div class="corpo">${corpoArticolo(a, segna)}
+        <p class="meta" style="margin-top:12px"><a href="#${a.tipo}/${a.periodo}">Apri ${a.tipo === "giorno" ? "la giornata" : "il report"} completo</a></p>
+      </div>
+    </details>`).join("") + (esiti.length > stato.mostrati ? `<button class="altri" data-altri>Mostra altri (${esiti.length - stato.mostrati})</button>` : "");
+}
+async function disegnaArchivio() {
+  const main = $("#contenuto");
+  const tipi = [["tutti", "Tutto"], ["giorno", "Giornalieri"], ["mese", "Mensili"], ["anno", "Annuali"]];
+  main.innerHTML = `
+    <div class="cerca"><input id="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="Cerca nell'archivio: es. batterie, CRISPR, fusione" value="${esc(stato.q)}" aria-label="Cerca nell'archivio">
+      <button data-pulisci aria-label="Cancella la ricerca"${stato.q ? "" : " hidden"}>✕</button></div>
+    ${filtriSezione()}
+    <div class="filtri" role="group" aria-label="Tipo di report" style="padding-top:0">${tipi.map(([id, n]) => `<button data-tipo="${id}" aria-pressed="${stato.tipo === id}">${n}</button>`).join("")}</div>
+    <div id="esiti"><p class="conto">Carico l'archivio…</p></div>`;
+  try { await caricaArchivio(); }
+  catch { $("#esiti").innerHTML = vuoto("Non riesco a caricare l'archivio", "Controlla la connessione e riprova."); return; }
+  if (stato.vista === "archivio" && $("#esiti")) disegnaEsiti();
+}
+
+/* ---------- disegno e comandi ---------- */
+function disegna() {
+  document.querySelectorAll("nav.viste button").forEach((b) => b.toggleAttribute("aria-current", false));
+  $(`nav.viste button[data-vista="${stato.vista}"]`).setAttribute("aria-current", "page");
+  return stato.vista === "archivio" ? disegnaArchivio() : disegnaRapporto();
+}
+
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  const d = b.dataset;
+  if (d.vista) vai(d.vista, d.vista === "archivio" ? stato.q : "");
+  else if (d.sezione) { stato.sezione = d.sezione; stato.mostrati = PER_PAGINA; stato.vista === "archivio" ? (aggiornaFiltri(), disegnaEsiti()) : disegna(); }
+  else if (d.tipo) { stato.tipo = d.tipo; stato.mostrati = PER_PAGINA; aggiornaFiltri(); disegnaEsiti(); }
+  else if (d.passo) { const l = indice[VISTE[stato.vista]]; vai(stato.vista, l[l.indexOf(stato.periodo) + Number(d.passo)]); }
+  else if (d.parola) { stato.sezione = "tutte"; stato.tipo = "tutti"; vai("archivio", d.parola); window.scrollTo(0, 0); }
+  else if ("altri" in d) { stato.mostrati += PER_PAGINA; disegnaEsiti(); }
+  else if ("pulisci" in d) { stato.q = ""; history.replaceState(null, "", "#archivio"); disegnaArchivio().then(() => $("#q")?.focus()); }
+});
+function aggiornaFiltri() {
+  document.querySelectorAll("[data-sezione]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.sezione === stato.sezione));
+  document.querySelectorAll("[data-tipo]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.tipo === stato.tipo));
+}
+document.addEventListener("change", (e) => { if (e.target.id === "periodo") vai(stato.vista, e.target.value); });
+let attesa;
+document.addEventListener("input", (e) => {
+  if (e.target.id !== "q") return;
+  stato.q = e.target.value; stato.mostrati = PER_PAGINA;
+  $("[data-pulisci]").hidden = !stato.q;
+  clearTimeout(attesa);
+  attesa = setTimeout(() => {
+    history.replaceState(null, "", "#archivio" + (stato.q.trim() ? "/" + encodeURIComponent(stato.q.trim()) : ""));
+    if (archivio) disegnaEsiti();
+  }, 150);
+});
+window.addEventListener("hashchange", () => { leggiIndirizzo(); disegna(); });
+
+(async function avvia() {
+  try { indice = await carica("indice.json"); }
+  catch { $("#contenuto").innerHTML = vuoto("Non riesco a caricare i dati", "Controlla la connessione e riapri la pagina."); return; }
+  if (indice.aggiornato) {
+    const quando = new Intl.DateTimeFormat("it-IT", { dateStyle: "long", timeStyle: "short" }).format(new Date(indice.aggiornato));
+    $("#piede").textContent = `Ultimo aggiornamento: ${quando} · ${indice.articoli} articoli in archivio. Riassunti scritti da Claude a partire dalle fonti indicate: per i dettagli apri sempre l'articolo originale.`;
+  }
+  leggiIndirizzo();
+  disegna();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+# Il sito è la cartella "sito" così com'è: nessuna costruzione, nessuna chiave.
+[build]
+  publish = "sito"
+
+# Pagina e dati vanno sempre ricontrollati, così gli aggiornamenti si vedono subito
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "no-cache"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+    X-Robots-Tag = "noindex"
