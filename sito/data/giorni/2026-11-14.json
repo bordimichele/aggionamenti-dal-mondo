@@ -1,0 +1,281 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-14",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Starship, quindicesimo volo: la navicella è in orbita con 26 satelliti, ma il recupero del primo stadio è stato annullato",
+          "testo": "SpaceX ha lanciato il 13 novembre, alle 22:47 UTC (le 23:47 in Italia), il quindicesimo volo di prova di Starship dalla base di Starbase, in Texas. L'obiettivo dichiarato era il più ambizioso finora: recuperare per la prima volta entrambi i pezzi del razzo, cioè il primo stadio Super Heavy e, quasi un giorno dopo, anche la navicella vera e propria, afferrandoli al volo con i due bracci meccanici della torre di lancio.\n\nLa prima metà non è riuscita. Il primo stadio, della nuova versione 3 con 33 motori Raptor 3, ha funzionato in salita e si è separato dopo circa due minuti e mezzo, ma SpaceX ha rinunciato alla presa «per ragioni di sicurezza» e lo ha fatto ammarare in modo controllato nel Golfo del Messico, sei minuti e mezzo dopo il decollo. L'azienda non ha spiegato subito che cosa non andasse. In passato aveva già afferrato tre primi stadi della versione precedente e ne aveva riutilizzati due; per la versione 3 sarebbe stata la prima volta.\n\nLa seconda metà è invece in corso. La navicella (la numero 42) è entrata in orbita bassa a circa 275 chilometri di quota, ed è la seconda volta che succede dopo il volo 14 del 28 settembre. Ha poi rilasciato 26 satelliti Starlink di nuova generazione, tre dei quali hanno telecamere per fotografare dall'esterno lo scudo termico della navicella e controllarne lo stato dopo la salita.\n\nIl piano prevede 14 giri attorno alla Terra e più di 21 ore nello spazio, poi un'accensione di frenata di dieci secondi, il rientro nell'atmosfera e il ritorno a Starbase per la presa con i bracci, nella tarda serata italiana di sabato 14 novembre. Lungo il percorso ci sono tre punti di controllo in cui, se qualcosa non convince, il volo può essere chiuso prima con un ammaraggio controllato. Mentre scriviamo l'esito non è noto: ne daremo conto nel prossimo aggiornamento.",
+          "perche": "Un razzo di queste dimensioni riutilizzabile in tutte le sue parti abbasserebbe molto il costo di portare carichi in orbita. Starship è anche il veicolo su cui la NASA conta per far scendere gli astronauti sulla Luna, con una prova in orbita terrestre prevista per il 2027.",
+          "fonti": [
+            {
+              "nome": "Universe Today",
+              "url": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake"
+            },
+            {
+              "nome": "Space.com",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+            }
+          ],
+          "parole": [
+            "Starship",
+            "SpaceX",
+            "Super Heavy",
+            "razzo riutilizzabile",
+            "Starlink",
+            "volo 15",
+            "spazio",
+            "Artemis"
+          ]
+        },
+        {
+          "titolo": "OpenAI lancia ChatGPT Wallet: l'assistente può pagare gli acquisti senza vedere il numero della carta",
+          "testo": "OpenAI ha presentato il 13 novembre ChatGPT Wallet, un «portafoglio» dentro ChatGPT che permette ai suoi agenti (gli assistenti che l'azienda chiama «dots» e che svolgono compiti per conto dell'utente) non solo di cercare e scegliere un prodotto, ma anche di concludere l'acquisto. È stato realizzato insieme ai tre grandi circuiti American Express, Mastercard e Visa.\n\nIl funzionamento descritto è questo. L'utente registra una volta la propria carta nel portafoglio. Quando chiede all'assistente di comprare qualcosa, prima del pagamento vede il riepilogo: articoli, totale e carta che verrà usata. Ogni acquisto va approvato di persona con il riconoscimento del volto o l'impronta digitale, e di ogni approvazione resta una registrazione. A quel punto il circuito emette un codice sostitutivo valido per quell'operazione (in gergo «token»): l'addebito arriva sulla carta, ma né l'assistente né il negoziante vedono mai il numero vero. Al negozio l'assistente passa solo ciò che serve per la consegna, come indirizzo e contatti. OpenAI dice che restano validi i punti e le tutele della carta, compresa la possibilità di contestare un addebito.\n\nPer ora è una prova limitata: riguarda un numero ristretto di abbonati al piano Pro, maggiorenni, negli Stati Uniti e con carta emessa lì. Non funziona sui siti che bloccano gli agenti automatici, e tra questi c'è Amazon, che indirizza i clienti verso il proprio assistente. OpenAI ha pubblicato anche una guida per i negozianti che vogliono rendere i loro siti compatibili.\n\nIl passo successivo, annunciato ma non ancora disponibile, è quello più delicato: limiti di spesa e regole per categoria o per periodo, che consentirebbero di approvare in anticipo certi acquisti lasciando poi fare all'assistente. Non ci sono ancora verifiche indipendenti sulla sicurezza del sistema, né indicazioni su quando arriverà in Europa. Va anche detto che finora gli acquisti fatti da agenti sono pochi: aziende come DoorDash e Uber hanno riferito volumi bassi.",
+          "perche": "È il tentativo più strutturato finora di far pagare un'AI al posto nostro tenendo la persona al comando di ogni spesa. Se i circuiti delle carte adottano questo schema, il modo di comprare online potrebbe cambiare; molto dipende da quanti negozi accetteranno gli agenti.",
+          "fonti": [
+            {
+              "nome": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+            },
+            {
+              "nome": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/"
+            }
+          ],
+          "parole": [
+            "ChatGPT Wallet",
+            "OpenAI",
+            "pagamenti",
+            "agenti AI",
+            "dots",
+            "Visa",
+            "Mastercard",
+            "acquisti online"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Tumore della vescica: la FDA approva durvalumab con enfortumab vedotin prima dell'intervento per chi non può fare il cisplatino",
+          "testo": "L'agenzia americana dei farmaci (FDA) ha approvato il 13 novembre l'uso combinato di durvalumab (Imfinzi, AstraZeneca) ed enfortumab vedotin (Padcev) per gli adulti con tumore della vescica che ha invaso la parete muscolare e che non possono ricevere, o hanno rifiutato, la chemioterapia a base di cisplatino. I due farmaci si danno prima dell'asportazione della vescica; dopo l'intervento si prosegue con il solo durvalumab. Il primo è un'immunoterapia, che toglie un freno alle difese dell'organismo; il secondo è un anticorpo che porta un chemioterapico direttamente sulle cellule tumorali.\n\nLa decisione si basa su VOLGA, uno studio di fase 3 su 695 pazienti candidati all'intervento, divisi a caso in tre gruppi: la coppia di farmaci attorno all'operazione, la stessa coppia più un terzo farmaco (tremelimumab), oppure la sola chirurgia, che per questi malati era finora la strada abituale. Lo studio era «aperto»: medici e pazienti sapevano chi riceveva che cosa.\n\nCon la coppia di farmaci il rischio di recidiva, progressione o morte è risultato circa dimezzato rispetto alla sola chirurgia: a due anni era libero da questi eventi il 64% dei pazienti contro il 45%. Il rischio di morte è sceso di circa il 42%, con il 78% dei pazienti vivi a due anni contro il 69%. Al momento dell'intervento, in quattro pazienti su dieci non si trovava più tumore nel tessuto asportato, contro meno di uno su dieci nel gruppo di confronto. I dati hanno un'osservazione mediana di circa due anni.\n\nIl prezzo è una maggiore tossicità: effetti indesiderati seri nel 64% dei trattati contro il 44%, soprattutto prurito ed eruzioni cutanee, infezioni urinarie, anemia e, in circa un caso su cinque, disturbi ai nervi di mani e piedi; un terzo ha avuto reazioni legate al sistema immunitario. Un paziente su cinque ha dovuto interrompere almeno uno dei farmaci e in pochi casi l'intervento è stato rinviato. La versione a tre farmaci non è stata approvata, perché non ha ancora dimostrato un vantaggio sulla sopravvivenza. L'approvazione vale per gli Stati Uniti.",
+          "perche": "Molti malati di tumore della vescica sono anziani o hanno reni che non reggono il cisplatino, e finora per loro prima dell'intervento non c'era una terapia di provata efficacia. Qui c'è un vantaggio dimostrato anche sulla sopravvivenza, non solo sul ritorno della malattia.",
+          "fonti": [
+            {
+              "nome": "FDA",
+              "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-durvalumab-enfortumab-vedotin-ejfv-muscle-invasive-bladder-cancer"
+            },
+            {
+              "nome": "OncLive",
+              "url": "https://www.onclive.com/view/fda-approves-durvalumab-plus-enfortumab-vedotin-for-cisplatin-ineligible-mibc"
+            }
+          ],
+          "parole": [
+            "tumore della vescica",
+            "durvalumab",
+            "Imfinzi",
+            "enfortumab vedotin",
+            "Padcev",
+            "immunoterapia",
+            "FDA",
+            "VOLGA"
+          ]
+        },
+        {
+          "titolo": "Farmaci e DNA: uno studio su quasi 100.000 americani trova migliaia di varianti genetiche nuove che cambiano la risposta alle medicine",
+          "testo": "Perché lo stesso farmaco, alla stessa dose, funziona bene in una persona, poco in un'altra e dà effetti indesiderati in una terza? Una parte della risposta sta in un gruppo di geni che regolano il modo in cui il corpo assorbe, trasforma ed elimina i medicinali. Uno studio pubblicato l'11 novembre sulla rivista Science Translational Medicine, dopo revisione di altri esperti, ha esaminato 16 di questi geni in quasi 100.000 partecipanti al programma All of Us, la grande raccolta di dati genetici e sanitari dell'ente pubblico americano per la ricerca medica (NIH). Il lavoro è stato coordinato da Philip Empey dell'Università di Pittsburgh.\n\nI risultati principali sono tre. Tutti i partecipanti, nessuno escluso, avevano almeno una variante in uno dei 16 geni. Uno su quattro aveva già preso un farmaco il cui effetto può dipendere da quelle varianti. E i ricercatori hanno individuato migliaia di varianti mai descritte prima. Il motivo è la composizione del campione: All of Us ha arruolato di proposito persone di origini molto diverse, mentre gli studi precedenti (per esempio quelli sulla banca dati britannica UK Biobank) riguardavano soprattutto persone di origine europea.\n\nI farmaci interessati sono tra i più usati: alcuni antidepressivi, le statine per il colesterolo, alcuni chemioterapici e l'antiaggregante clopidogrel (Plavix). A seconda della variante, a una persona può servire una dose più alta o più bassa, oppure il farmaco può risultare inefficace o dare più effetti indesiderati.\n\nI limiti vanno detti con chiarezza. Lo studio descrive le varianti, non dimostra che scegliere la cura in base al DNA migliori la salute dei pazienti: per molte delle varianti nuove l'effetto reale è ancora da misurare. Gli stessi autori ricordano che la genetica è solo una delle ragioni per cui un farmaco può dare problemi. Nella pratica, poi, poche persone hanno il proprio DNA analizzato e molti medici non sanno come usare queste informazioni. Infine il programma All of Us ha subito forti tagli ai fondi: ha ridotto gli arruolamenti e ha smesso di restituire ai partecipanti i risultati genetici.",
+          "perche": "Mostra che le differenze genetiche nella risposta ai farmaci riguardano tutti e che le conoscenze attuali, costruite su popolazioni poco varie, sono incomplete. È un passo verso prescrizioni più su misura, ma non cambia ancora le cure di oggi.",
+          "fonti": [
+            {
+              "nome": "STAT",
+              "url": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/"
+            }
+          ],
+          "parole": [
+            "farmacogenetica",
+            "pharmacogenomics",
+            "All of Us",
+            "varianti genetiche",
+            "DNA",
+            "statine",
+            "clopidogrel",
+            "medicina personalizzata"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "La sonda europea Hera è arrivata all'asteroide deviato dalla NASA e manda le prime immagini da vicino",
+          "testo": "Dopo due anni di viaggio la sonda Hera dell'Agenzia spaziale europea (ESA) ha raggiunto il sistema di Didymos e ha trasmesso le prime immagini ravvicinate, rese note l'11 novembre. Didymos è un asteroide di circa 765 metri di diametro attorno al quale gira, a un chilometro di distanza, una piccola luna di 150 metri chiamata Dimorphos.\n\nÈ un posto speciale perché è l'unico corpo celeste di cui l'uomo abbia cambiato di proposito il movimento. Il 26 settembre 2022 la sonda DART della NASA si schiantò contro Dimorphos per provare se un urto può deviare un asteroide: il giro della piccola luna attorno a Didymos si accorciò di circa 32 minuti. DART però andò distrutta nell'impatto e nessuno ha potuto vedere da vicino il risultato. Hera, partita nel 2024, è stata costruita apposta per questo sopralluogo.\n\nNelle prime immagini Dimorphos è quasi tutta nell'ombra di Didymos e si distingue appena. Si vede invece bene una faccia di Didymos che DART non aveva fotografato: ha lo stesso rigonfiamento lungo l'equatore già noto, e poi molti massi, crateri e forse solchi o creste. Secondo uno degli scienziati della missione, Michael Küppers, alcuni di quei massi potrebbero essere detriti scagliati via dall'impatto del 2022 e ricaduti sull'asteroide più grande: è un'ipotesi da verificare. Il responsabile scientifico Patrick Michel ha raccontato lo stupore del gruppo davanti a un paesaggio mai visto.\n\nSono immagini di primo arrivo, non ancora risultati scientifici. Altre fotografie dei due corpi sono attese entro novembre; poi comincerà il lavoro vero: misurare con precisione la massa di Dimorphos, la forma e le dimensioni del cratere lasciato da DART e la struttura interna, anche con un altimetro laser. Sono i numeri che mancano per capire quanto è stato efficace l'urto e per poterlo calcolare su un altro asteroide.",
+          "perche": "Per difendere la Terra da un asteroide non basta sapere che un urto lo sposta: bisogna sapere di quanto, in funzione di massa e composizione. Hera deve trasformare l'esperimento del 2022 in una tecnica su cui fare conti affidabili.",
+          "fonti": [
+            {
+              "nome": "BBC Sky at Night Magazine",
+              "url": "https://www.skyatnightmagazine.com/news/esa-hera-first-images"
+            }
+          ],
+          "parole": [
+            "Hera",
+            "ESA",
+            "Didymos",
+            "Dimorphos",
+            "DART",
+            "asteroide",
+            "difesa planetaria",
+            "planetary defense"
+          ]
+        },
+        {
+          "titolo": "Dodici granelli di polvere dai confini del Sistema solare indicano una riserva di acqua con ossigeno «pesante»",
+          "testo": "Uno studio pubblicato l'11 novembre sulla rivista Science Advances, dopo revisione, porta una prova concreta a favore di un'idea che circola da tempo tra chi studia l'origine del Sistema solare: che il ghiaccio delle regioni più lontane sia fatto di acqua diversa dalla nostra, più ricca delle forme pesanti dell'ossigeno. L'ossigeno esiste infatti in tre varianti stabili (isotopi), che si distinguono per il peso; le proporzioni tra loro funzionano come un'impronta del luogo in cui un materiale si è formato.\n\nIl gruppo guidato da Lindsay Keller, del Johnson Space Center della NASA, non ha usato meteoriti, che su questo punto dicono poco, ma dodici minuscole particelle di polvere interplanetaria raccolte nella stratosfera terrestre. Per stabilirne la provenienza ha contato le tracce lasciate nei granelli dalle particelle energetiche emesse dal Sole: erano così fitte da indicare un viaggio lunghissimo, compatibile con un'origine nella fascia di Kuiper, la regione di corpi ghiacciati oltre l'orbita di Nettuno.\n\nI granelli sono risultati composti soprattutto da minerali «idrati», cioè formati a contatto con l'acqua. Con modelli al computer i ricercatori hanno ricostruito come possano essere nati: da reazioni a bassa temperatura in cui entrano il ghiaccio e l'anidride carbonica. E la composizione dell'ossigeno di quei minerali indica che l'acqua coinvolta era arricchita di ossigeno pesante. Gli autori concludono che oltre i pianeti giganti esisteva una grande riserva di quest'acqua, rimasta in gran parte separata dai materiali della zona interna, dove si è formata la Terra.\n\nI limiti: dodici granelli sono pochi, e la loro origine nella fascia di Kuiper è dedotta dalle tracce, non osservata direttamente. Il comunicato che abbiamo letto non riporta i valori misurati né i margini di errore, quindi la solidità del risultato si giudica solo sull'articolo completo. Servirà la conferma su altri campioni, idealmente materiale raccolto direttamente da una cometa o da un corpo di quella regione.",
+          "perche": "Sapere che l'acqua del Sistema solare esterno ha un'impronta diversa aiuta a capire come si sono mescolati i materiali da cui sono nati i pianeti, e da dove può essere arrivata, o non arrivata, l'acqua della Terra.",
+          "fonti": [
+            {
+              "nome": "EurekAlert (comunicato della rivista Science Advances)",
+              "url": "https://www.eurekalert.org/news-releases/1150984"
+            }
+          ],
+          "parole": [
+            "fascia di Kuiper",
+            "Kuiper belt",
+            "polvere interplanetaria",
+            "isotopi dell'ossigeno",
+            "acqua",
+            "origine del Sistema solare",
+            "NASA",
+            "Science Advances"
+          ]
+        },
+        {
+          "titolo": "Euclid: il telescopio europeo pubblica i primi grandi dati, più di un miliardo di oggetti su un settimo del cielo previsto",
+          "testo": "La missione Euclid dell'Agenzia spaziale europea ha reso pubblica la sua prima grande raccolta di dati, chiamata DR1. Euclid è un telescopio spaziale lanciato nel 2023 con un compito preciso: costruire in sei anni una mappa in tre dimensioni di una larga parte del cielo, misurando posizione, forma e distanza di miliardi di galassie. Dal modo in cui le galassie sono distribuite, e da come la loro luce viene leggermente deformata lungo il viaggio, si ricava come agiscono la materia oscura (che non si vede ma pesa) e l'energia oscura (che fa accelerare l'espansione dell'universo).\n\nI dati pubblicati vengono da circa 13 mesi di osservazioni e coprono 1.900 gradi quadrati di cielo, una superficie pari a circa 9.500 volte la Luna piena e a circa il 14% di ciò che Euclid osserverà in tutto. Contengono la luce di oltre un miliardo di oggetti. Vengono da due programmi: la grande rassegna «larga», che è quella usata per la cosmologia, e una rassegna «profonda» su zone più piccole osservate più a lungo, che serve a trovare gli oggetti più deboli e a tarare l'altra.\n\nInsieme ai dati sono state mostrate alcune immagini: il cuore del gruppo di galassie di Messier 81; la galassia ad anello NGC 1291, a circa 33 milioni di anni luce; e l'ammasso Abell 3128, a circa 800 milioni di anni luce, che contiene una «lente gravitazionale», cioè un punto in cui la massa dell'ammasso piega e ingrandisce la luce di galassie più lontane.\n\nVa chiarito che cosa è e che cosa non è questa pubblicazione. È la materia prima messa a disposizione di tutti gli astronomi, non ancora una nuova misura dell'energia oscura: le analisi cosmologiche richiedono tempo e arriveranno con gli articoli dei prossimi mesi. È però il primo passo verso una mappa che dovrebbe superare, per volume e profondità, quella dello strumento americano DESI, i cui risultati recenti hanno fatto sospettare che l'energia oscura non sia costante nel tempo. Euclid è tra gli strumenti che possono confermare o smentire quel sospetto.",
+          "perche": "È il momento in cui Euclid passa dalle immagini dimostrative ai dati su cui si fa scienza. Dalla sua mappa ci si aspetta una risposta a una delle domande aperte della fisica: se l'energia oscura cambia nel tempo.",
+          "fonti": [
+            {
+              "nome": "Universe Today",
+              "url": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky"
+            }
+          ],
+          "parole": [
+            "Euclid",
+            "ESA",
+            "energia oscura",
+            "materia oscura",
+            "dark energy",
+            "mappa dell'universo",
+            "galassie",
+            "DR1"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "Google pubblica Gemini 4 Hydrogen, il modello veloce ed economico della famiglia: aperto a tutti, anche a chi non paga",
+          "testo": "Due giorni dopo il modello di punta Carbon, di cui abbiamo scritto il 12 novembre, Google ha pubblicato Gemini 4 Hydrogen: è il modello «leggero» della stessa famiglia, pensato per rispondere in fretta e costare poco, e prende il posto di Gemini 3.8 Flash uscito a settembre. È il terzo modello Gemini 4 in poco più di sei settimane. A differenza dei fratelli maggiori, passati prima da una fase riservata a chi si occupa di sicurezza informatica, Hydrogen è stato aperto subito a tutti: è nell'app Gemini anche per chi usa la versione gratuita, nella ricerca di Google e a disposizione degli sviluppatori.\n\nIl prezzo per chi lo usa nei propri programmi è di 1,50 dollari per milione di «token» in ingresso e 7,50 in uscita (un token è un pezzetto di parola), con la possibilità di fargli leggere fino a un milione di token per volta, cioè testi lunghi come parecchi libri. Per confronto, il modello Argon costerà 4 e 20 dollari quando a fine mese scadrà il prezzo di lancio.\n\nSulle capacità, i numeri sono di Google. In un indice che riassume diverse prove di intelligenza, Hydrogen otterrebbe 51 punti contro i 50 di Argon, il modello di punta di fine settembre, e 54 con un nuovo livello di ragionamento più lungo. Rispetto a Gemini 3.8 Flash completerebbe i compiti due volte e mezza più in fretta, e in una prova di lavoro da programmatore al terminale passerebbe dal 18% al 57% di compiti riusciti.\n\nC'è poi una novità per chi programma con lo strumento Antigravity: un «orchestratore» che durante la stessa sessione sceglie da solo se usare Hydrogen o il più potente Carbon, a seconda della difficoltà del passaggio. Secondo Google ottiene quasi gli stessi risultati di Carbon consumando circa un quarto in meno.\n\nI limiti: tutte le misure vengono dall'azienda e non sono state ancora ripetute da altri; il vantaggio su Argon è di un solo punto, cioè dentro il margine in cui due modelli sono di fatto alla pari; e gli indici riassuntivi dicono poco su come un modello si comporta nei compiti di ogni giorno.",
+          "perche": "Se i numeri saranno confermati, capacità che un mese e mezzo fa erano del modello più costoso arrivano a una frazione del prezzo e nelle mani di chi non paga. È questa discesa dei costi, più dei primati, a decidere quanto l'AI entra nei prodotti comuni.",
+          "fonti": [
+            {
+              "nome": "SiliconANGLE",
+              "url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/"
+            },
+            {
+              "nome": "Sam on AI (rassegna del 13 novembre)",
+              "url": "https://samonai.substack.com/p/ai-brief-november-13-2026"
+            }
+          ],
+          "parole": [
+            "Gemini 4 Hydrogen",
+            "Google",
+            "Gemini",
+            "LLM",
+            "modello economico",
+            "Antigravity",
+            "Flash",
+            "prezzi AI"
+          ]
+        },
+        {
+          "titolo": "I quaderni stenografati di Gödel letti con l'aiuto di Claude: 663 teoremi, circa 400 confermati al computer",
+          "testo": "Kurt Gödel, uno dei più grandi logici del Novecento, lasciò oltre mille pagine di quaderni di lavoro dei primi anni Quaranta scritti in Gabelsberger, una stenografia tedesca caduta in disuso che oggi pochissimi sanno leggere. Jan von Plato, logico dell'Università di Helsinki, li studia dal 2017 e procedeva al ritmo di circa una pagina alla settimana. Secondo quanto ha raccontato al quotidiano britannico The Guardian il 13 novembre, ha affidato le sue trascrizioni di 1.009 pagine, insieme a sei suoi libri su Gödel, a Claude, il modello di Anthropic, che in pochi giorni ha prodotto una spiegazione ordinata di 650 pagine.\n\nDa quel lavoro è uscito un elenco di 663 teoremi che Gödel aveva dimostrato, abbozzato o solo enunciato. Von Plato li ha poi fatti controllare a Coq, un programma che verifica le dimostrazioni matematiche passaggio per passaggio e che non si lascia convincere da un ragionamento solo plausibile. Il bilancio: circa 400 enunciati sono risultati corretti così come erano scritti, circa 200 hanno avuto bisogno di essere precisati o di ipotesi in più, e una cinquantina erano falsi. Del resto lo stesso Gödel aveva annotato alcune pagine come sbagliate.\n\nIl punto che fa più discutere riguarda l'«assioma della scelta», un principio della matematica moderna. Dimostrare che non si può ricavare dagli altri assiomi fu il risultato che valse a Paul Cohen la medaglia Fields negli anni Sessanta; Gödel sostenne nel 1966 di esserci arrivato prima, senza mai pubblicarlo. Secondo von Plato nei quaderni c'è una dimostrazione quasi completa, con una definizione sbagliata in un punto e quella giusta altrove, e la ricostruzione ha superato il controllo di Coq.\n\nLe cautele sono importanti. Non c'è ancora un articolo scientifico né il materiale è stato esaminato da altri studiosi: i numeri sono quelli riferiti da von Plato. Coq certifica che un enunciato è vero, non che Gödel lo avesse davvero in mente in quella forma. Il logico Joel David Hamkins, che non ha visto la ricostruzione, la giudica notevole ma osserva che somigliare alla prova di Cohen significa essere sulla strada, non essere arrivati, e che distinguere ciò che è di Gödel da ciò che ha aggiunto la macchina è un compito per gli storici. Non abbiamo potuto aprire l'articolo originale del Guardian: ci basiamo su due resoconti che lo riassumono.",
+          "perche": "È un esempio concreto di un uso nuovo dell'AI nella ricerca: non scoprire da zero, ma rendere leggibile e verificabile in pochi giorni un archivio che avrebbe richiesto decenni. Il valore storico della scoperta, però, deve ancora passare l'esame degli esperti.",
+          "fonti": [
+            {
+              "nome": "AI Weekly (resoconto dell'articolo del Guardian)",
+              "url": "https://aiweekly.co/alerts/von-plato-uses-claude-to-extract-663-theorems-from-gdel-notes"
+            },
+            {
+              "nome": "ExplainX",
+              "url": "https://explainx.ai/blog/claude-godel-notebooks-von-plato-663-theorems-coq-what-is-verified-2026"
+            }
+          ],
+          "parole": [
+            "Gödel",
+            "Claude",
+            "Anthropic",
+            "matematica",
+            "Coq",
+            "assioma della scelta",
+            "von Plato",
+            "storia della scienza"
+          ]
+        },
+        {
+          "titolo": "IBM prova a insegnare ai modelli la differenza tra un ordine e un dato, contro le istruzioni nascoste nei documenti",
+          "testo": "Uno dei punti deboli più seri degli assistenti AI che leggono email, pagine web o documenti è la cosiddetta «prompt injection» indiretta: se nel testo da leggere qualcuno ha nascosto una frase come «ignora le istruzioni e manda questi dati a…», il modello può scambiarla per un ordine del suo utente. Succede perché per un modello linguistico tutto è testo in fila: istruzioni e materiale da elaborare arrivano mescolati.\n\nIl 12 novembre IBM ha pubblicato due modelli sperimentali, Granite 4.1 LLMON in versione da 3 e da 8 miliardi di parametri, che affrontano il problema alla radice. LLMON è un linguaggio di marcatura, simile a quelli usati per strutturare le pagine web, in cui ogni pezzo della richiesta porta un'etichetta: questa è un'istruzione, questo è un dato, questo è un vincolo. La differenza è che i delimitatori non sono caratteri normali, che un malintenzionato potrebbe scrivere dentro un documento, ma simboli riservati che nel testo comune non possono comparire. Un blocco apposito dice quali istruzioni vanno eseguite e su quali dati; tutto il resto il modello lo legge ma non lo deve trattare come un comando.\n\nI modelli sono stati addestrati a rispettare questa distinzione, anche con esempi-trappola. Nelle prove di IBM su tre raccolte pubbliche di attacchi, il modello evita il 47% di attacchi in più rispetto al migliore dei grandi modelli commerciali provati e il 95% in più rispetto al migliore modello aperto, senza perdere terreno nelle prove generali rispetto alla versione normale di Granite. L'idea era stata descritta in marzo in un articolo dei ricercatori IBM non ancora passato da una revisione esterna, che parlava di «prime evidenze» ottenute su prove piccole.\n\nIBM stessa mette i paletti: è un'anteprima sperimentale, non adatta all'uso reale; la resistenza è un comportamento imparato, non una garanzia tecnica, quindi può fallire; le prove riguardano attacchi «fissi», mentre quelli che si adattano nel corso di una conversazione lunga restano un problema aperto. E i numeri sono dell'azienda, non di verificatori indipendenti. Modelli e strumenti sono pubblici e chiunque può provarli.",
+          "perche": "Finché un assistente non distingue in modo affidabile gli ordini del suo utente dal testo che legge, dargli accesso a posta, documenti e pagamenti resta rischioso. Separare istruzioni e dati dentro il modello è una delle strade più promettenti, anche se qui è solo ai primi passi.",
+          "fonti": [
+            {
+              "nome": "IBM Granite su Hugging Face",
+              "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+            },
+            {
+              "nome": "arXiv (articolo di ricerca, preprint)",
+              "url": "https://arxiv.org/html/2603.22519v1"
+            }
+          ],
+          "parole": [
+            "IBM",
+            "Granite",
+            "LLMON",
+            "prompt injection",
+            "sicurezza AI",
+            "agenti AI",
+            "LLM",
+            "modelli aperti"
+          ]
+        },
+        {
+          "titolo": "Edge0-145B: un modello aperto da 145 miliardi di parametri che secondo i suoi autori gira su un computer portatile",
+          "testo": "I modelli di AI più capaci girano di norma in grandi centri di calcolo, perché hanno bisogno di molta più memoria di quanta ne abbia un computer personale. Il 12 novembre l'azienda Edge0, specializzata in modelli da far funzionare direttamente sui dispositivi, ha pubblicato Edge0-145B e il fratello minore Edge0-120B, con i «pesi» scaricabili da chiunque e gli strumenti per usarli. Il 145B ha 145 miliardi di parametri, una taglia da centro di calcolo, ma secondo l'azienda occupa al massimo 29 gigabyte di memoria e scrive oltre 80 token al secondo, una velocità comoda per l'uso quotidiano.\n\nIl trucco sta nell'architettura. Il modello è fatto di tanti «esperti» specializzati, e per ogni parola da produrre ne lavora solo una piccola parte: circa 10 miliardi di parametri su 145. Gli esperti più usati restano nella memoria della scheda grafica, altri (circa 40 gigabyte) in quella normale del computer, e una parte dei dati viene letta dal disco solo quando serve. Inoltre il modello è stato addestrato fin dall'inizio in questa forma, invece di essere rimpicciolito dopo.\n\nSui risultati Edge0 dichiara punteggi vicini a quelli di grandi modelli commerciali di qualche generazione fa: per esempio 90,4 in una prova di domande scientifiche di livello universitario avanzato e 86,5 in una prova di lavoro da programmatore. Va però tenuto conto che sono valutazioni interne, con un rapporto tecnico completo ancora da pubblicare, e che chi ha esaminato il materiale non ha trovato per ora verifiche indipendenti.\n\nCi sono altre precisazioni. «Portatile» significa una macchina di fascia alta: l'azienda parla di computer con 48 gigabyte di memoria, e le note tecniche indicano schede grafiche NVIDIA recenti, mentre la compatibilità con i Mac, citata nell'annuncio, non compare nella tabella delle piattaforme per questa taglia. Servono molto spazio su disco e un consumo attorno ai 120 watt. Il modello deriva da uno della famiglia cinese Qwen, quindi chi vuole ridistribuirlo deve controllare anche quella licenza; il codice è pubblicato con licenza Apache 2.0.",
+          "perche": "Far girare in casa un modello di questa taglia vuol dire tenere i propri dati sul proprio computer e non pagare a consumo. Se le prestazioni dichiarate reggeranno alle verifiche, la distanza tra ciò che serve un centro di calcolo e ciò che sta su una scrivania si accorcia ancora.",
+          "fonti": [
+            {
+              "nome": "Edge0 (annuncio)",
+              "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+            },
+            {
+              "nome": "ExplainX",
+              "url": "https://explainx.ai/blog/edge0-145b-open-on-device-laptop-agent-model-november-2026"
+            }
+          ],
+          "parole": [
+            "Edge0",
+            "Edge0-145B",
+            "AI in locale",
+            "on-device",
+            "modello aperto",
+            "open weights",
+            "LLM",
+            "portatile"
+          ]
+        }
+      ]
+    }
+  }
+}
