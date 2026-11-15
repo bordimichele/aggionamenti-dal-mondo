@@ -1,0 +1,213 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-15",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Starship, quindicesimo volo: la navicella rientra dall'orbita e viene presa al volo dalla torre di lancio, per la prima volta",
+          "testo": "È il seguito della notizia di ieri, e questa volta la novità è grossa. La navicella Starship partita dal Texas la sera del 13 novembre (ora americana) è tornata al punto di partenza dopo 14 giri intorno alla Terra ed è stata afferrata in aria dai due bracci meccanici della torre di lancio, quelli che SpaceX chiama «bacchette». La presa è avvenuta il 14 novembre alle 15:20 ora del Texas, le 22:20 in Italia, dopo un volo durato in tutto circa 22 ore e mezza.\n\nFinora SpaceX era riuscita a riprendere così soltanto il primo stadio, il grande razzo Super Heavy che spinge la navicella nella prima parte della salita: tre volte, in voli precedenti. Lo stadio superiore è un problema molto più difficile, perché torna dall'orbita a velocità enormi, deve sopportare il calore del rientro nell'atmosfera e poi arrivare con precisione di pochi metri sulla torre. Non era mai successo che un veicolo tornato dall'orbita venisse recuperato direttamente sulla rampa da cui era partito: lo Space Shuttle, in trent'anni e 133 rientri, atterrava su una pista come un aliante.\n\nIl volo non è stato però un successo completo. Il primo stadio (il Booster 22) non è tornato alla torre come previsto: il suo sistema di guida ha giudicato di trovarsi nella posizione sbagliata e lo ha deviato verso un ammaraggio nel Golfo. SpaceX sta ancora cercando la causa. Quindi l'obiettivo dichiarato, una missione orbitale in cui tutto il razzo viene recuperato, non è stato raggiunto. Durante il volo la navicella ha comunque rilasciato i 26 satelliti Starlink di nuova generazione di cui abbiamo scritto ieri, troppo grandi per i razzi Falcon.\n\nRestano cose che le fonti non dicono: in che stato è lo scudo termico della navicella e quanto lavoro servirà prima di farla volare di nuovo, che è il vero banco di prova della riutilizzabilità. E resta da dimostrare il rifornimento di carburante in orbita, indispensabile per la versione di Starship che la NASA ha scelto per far scendere gli astronauti sulla Luna a partire dal 2028.",
+          "perche": "Un razzo che si recupera per intero e riparte in fretta è la condizione per abbassare davvero il costo di andare nello spazio. Con questa presa SpaceX ha mostrato che la parte più difficile, il ritorno dello stadio superiore, è possibile; manca ancora farlo insieme al primo stadio e poi rivolare.",
+          "fonti": [
+            {
+              "nome": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/"
+            },
+            {
+              "nome": "Aviation Week",
+              "url": "https://aviationweek.com/space/operations-safety/starship-flight-15-ends-first-ship-tower-catch"
+            }
+          ],
+          "parole": [
+            "Starship",
+            "SpaceX",
+            "razzo riutilizzabile",
+            "Mechazilla",
+            "Super Heavy",
+            "Starlink V3",
+            "spazio"
+          ]
+        },
+        {
+          "titolo": "Tesla mette in vendita il Cybercab, l'auto senza volante né pedali: 29.990 dollari, ma solo su invito e solo ad Austin",
+          "testo": "Tesla ha cominciato a vendere a privati il Cybercab, la sua piccola auto a due posti progettata per guidare da sola: non ha volante, né acceleratore, né pedale del freno. Tra il 13 e il 14 novembre alcuni clienti scelti hanno ricevuto un invito ad «accesso anticipato» per ordinarla, e l'azienda ha mostrato le schermate della pagina d'acquisto dal suo profilo dedicato al servizio Robotaxi. Il prezzo è 29.990 dollari, con un acconto di 1.000 dollari; le consegne sono indicate entro la fine di dicembre. Elon Musk a febbraio aveva promesso un Cybercab sotto i 30.000 dollari consegnato entro il 2026.\n\nLe condizioni sono però molto strette. L'auto funziona soltanto dentro l'area in cui Tesla offre già il servizio di taxi senza conducente: oggi la città di Austin, in Texas, in una zona di circa 700 chilometri quadrati, e Tesla dice che controllerà la posizione del veicolo per far rispettare il confine. Per farla muovere serve un abbonamento obbligatorio da 299 dollari al mese (il primo è compreso), che include il programma di guida autonoma senza supervisione, la connessione, l'assistenza stradale e il cambio di gomme e parabrezza. L'uso è solo personale: chi la compra non può metterla a fare il taxi, né noleggiarla, né usarla per consegne.\n\nDalle carte depositate presso l'ente americano per l'ambiente, riportate dai siti specializzati, risulta una batteria di circa 48 chilowattora, un motore da 163 chilowatt sulle ruote anteriori e un'autonomia reale stimata attorno ai 470-480 chilometri; Tesla lavora a una batteria più piccola, da 40 chilowattora.\n\nI limiti di questa notizia vanno detti. Le informazioni vengono da email e schermate diffuse da clienti e da Tesla sui social, e da siti che seguono l'azienda: non c'è un listino pubblico. Non si sa quante auto saranno consegnate; a ottobre Tesla stessa parlava di un progetto pilota «piccolo», con quasi tutta la produzione destinata alla propria flotta di taxi. Inoltre l'autorità americana per la sicurezza stradale (NHTSA) sta verificando se sia valida la certificazione con cui Tesla dichiara il Cybercab conforme alle norme federali, scritte pensando ad auto con comandi manuali.",
+          "perche": "È la prima volta che un'auto senza alcun comando per il guidatore viene venduta a privati. Per ora è più un esperimento sorvegliato che un prodotto di massa, ma sposta la guida autonoma dal servizio taxi all'auto di proprietà.",
+          "fonti": [
+            {
+              "nome": "Tesla Oracle",
+              "url": "https://teslaoracle.com/2026/11/14/tesla-puts-steering-less-cybercab-on-sale-for-29990-before-the-end-of-2026-as-musk-promised"
+            },
+            {
+              "nome": "Basenor",
+              "url": "https://www.basenor.com/blogs/news/tesla-cybercab-goes-personal-liquid-silver-40-kwh-pack-confirmed"
+            },
+            {
+              "nome": "Motor1",
+              "url": "https://motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/"
+            }
+          ],
+          "parole": [
+            "Tesla",
+            "Cybercab",
+            "guida autonoma",
+            "robotaxi",
+            "FSD",
+            "auto senza volante",
+            "Austin"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Reni: la FDA approva obinutuzumab (Gazyva), il primo farmaco per la nefropatia membranosa primitiva",
+          "testo": "Il 13 novembre la FDA, l'agenzia americana dei farmaci, ha approvato obinutuzumab (nome commerciale Gazyva, di Genentech, gruppo Roche) per gli adulti con nefropatia membranosa primitiva a rischio di peggioramento. È il primo medicinale autorizzato espressamente per questa malattia: finora, né negli Stati Uniti né in Europa, esisteva una cura approvata, e i medici usavano farmaci nati per altro.\n\nLa nefropatia membranosa primitiva è una malattia rara in cui il sistema immunitario attacca i glomeruli, i minuscoli filtri del rene. I filtri danneggiati lasciano passare le proteine nelle urine; ne derivano gonfiori, pressione alta, colesterolo alto, stanchezza e, col tempo, un danno progressivo. Secondo l'azienda, fino a tre pazienti su dieci non curati arrivano all'insufficienza renale nell'arco di dieci anni. Obinutuzumab è un anticorpo che si dà in vena ed elimina i linfociti B, le cellule che producono gli anticorpi responsabili dell'attacco; è già in uso per alcuni tumori del sangue e per la nefrite da lupus.\n\nL'approvazione si basa sullo studio MAJESTY, di fase 3, già pubblicato sul New England Journal of Medicine: 142 adulti assegnati a caso a obinutuzumab oppure a tacrolimus in compresse, un immunosoppressore usato «fuori indicazione», e seguiti per due anni. Alla fine la remissione completa, cioè la quasi scomparsa delle proteine dalle urine con funzione renale stabile, c'era nel 37% dei trattati con obinutuzumab contro il 6% del gruppo di confronto.\n\nI limiti: lo studio era «aperto» (medici e pazienti sapevano chi prendeva che cosa) e non ha dimostrato che il farmaco rallenti la perdita di funzione del rene o eviti la dialisi nel lungo periodo; su questo punto il confronto non è risultato significativo. Gli effetti indesiderati gravi sono stati poco più frequenti con obinutuzumab (17% contro 14%); i più comuni sono reazioni durante l'infusione, infezioni respiratorie e calo dei globuli bianchi. La scheda del farmaco porta due avvertenze in evidenza: possibile riattivazione dell'epatite B e una rara, grave infezione del cervello. Roche ha fatto sapere che i dati sono in corso di presentazione anche all'agenzia europea.",
+          "perche": "Una malattia renale rara che può portare alla dialisi ha per la prima volta una cura approvata, sostenuta da uno studio di confronto diretto e non solo dall'abitudine clinica.",
+          "fonti": [
+            {
+              "nome": "HCPLive",
+              "url": "https://www.hcplive.com/view/fda-approves-obinutuzumab-gazyva-for-primary-membranous-nephropathy"
+            },
+            {
+              "nome": "Pharmacally",
+              "url": "https://pharmacally.com/fda-approves-obinutuzumab-primary-membranous-nephropathy/"
+            }
+          ],
+          "parole": [
+            "obinutuzumab",
+            "Gazyva",
+            "nefropatia membranosa",
+            "reni",
+            "FDA",
+            "Roche",
+            "proteinuria",
+            "MAJESTY"
+          ]
+        },
+        {
+          "titolo": "Ipoglicemie gravi causate da tumori: l'anticorpo ersodetug supera l'obiettivo nello studio decisivo, ma su soli 16 pazienti",
+          "testo": "L'azienda americana Rezolute ha comunicato il 13 novembre i primi risultati dello studio di fase 3 upLIFT sul suo farmaco sperimentale ersodetug. La malattia in questione è rara e pesante: alcuni tumori, come gli insulinomi del pancreas ma anche tumori del fegato o sarcomi, producono insulina o sostanze simili in quantità incontrollata. Lo zucchero nel sangue crolla di continuo e certi pazienti sono costretti a restare in ospedale attaccati a una flebo di glucosio giorno e notte.\n\nErsodetug è un anticorpo che si lega al recettore dell'insulina, la «serratura» sulle cellule, in un punto diverso da quello dell'insulina stessa, e ne smorza l'attivazione eccessiva. Così funziona qualunque sia la sostanza prodotta dal tumore. Nello studio sono entrati 16 pazienti dipendenti dalla flebo di glucosio (12 con insulinoma, 4 con altri tumori), tutti trattati con un'infusione alla settimana per otto settimane in aggiunta alle cure abituali. Non c'era un gruppo di confronto.\n\nL'obiettivo era che almeno la metà circa dei pazienti riducesse di almeno il 50% il fabbisogno di glucosio in vena: per la significatività statistica ne servivano 9 su 16. Alla valutazione del 5 novembre erano già 13 su 16, circa l'81%, e 12 avevano potuto sospendere del tutto la flebo. Tre pazienti stanno ancora completando le otto settimane. Un paziente si è ritirato ed è morto una settimana dopo per l'avanzare del tumore; è contato tra chi non ha risposto. L'azienda non segnala problemi di sicurezza attribuiti al farmaco.\n\nVa letta per quello che è: un comunicato dell'azienda con dati preliminari, non uno studio pubblicato e rivisto da altri scienziati. I numeri sono piccoli, come è inevitabile per una malattia così rara, e manca un gruppo di controllo. I risultati completi sono attesi per metà dicembre; Rezolute conta di incontrare la FDA nei primi mesi del 2027 e di chiedere l'approvazione nel corso dello stesso anno. Il farmaco è in studio anche per l'iperinsulinismo congenito dei bambini.",
+          "perche": "Per chi vive attaccato a una flebo di glucosio a causa di un tumore non esiste una cura specifica: poter tornare a casa cambia la vita, anche se il farmaco non agisce sul tumore.",
+          "fonti": [
+            {
+              "nome": "Rezolute (comunicato, GlobeNewswire)",
+              "url": "https://www.globenewswire.com/news-release/2026/11/13/3402451/0/en/rezolute-announces-positive-results-from-the-phase-3-uplift-study-in-tumor-hyperinsulinism.html"
+            }
+          ],
+          "parole": [
+            "ersodetug",
+            "Rezolute",
+            "iperinsulinismo",
+            "insulinoma",
+            "ipoglicemia",
+            "anticorpo",
+            "fase 3"
+          ]
+        },
+        {
+          "titolo": "Anemia falciforme: Novo Nordisk chiede a FDA ed EMA di approvare etavopivat, una compressa al giorno",
+          "testo": "Il 13 novembre Novo Nordisk ha presentato alle agenzie dei farmaci di Stati Uniti (FDA) ed Europa (EMA) la domanda di approvazione per etavopivat, una compressa da prendere una volta al giorno per adolescenti e adulti con anemia falciforme. È un passaggio formale ma importante: da qui parte l'esame delle autorità, con una decisione attesa nel 2027.\n\nNell'anemia falciforme un difetto ereditario dell'emoglobina fa sì che i globuli rossi si deformino a forma di falce, si rompano facilmente e ostruiscano i piccoli vasi sanguigni, causando anemia e crisi di dolore molto forti, spesso da ricovero. Etavopivat non corregge il gene: attiva un enzima dei globuli rossi, la piruvato chinasi. Secondo l'azienda questo ha due effetti: l'emoglobina trattiene meglio l'ossigeno, e quindi tende meno a deformare la cellula, e il globulo rosso ha più energia a disposizione, quindi resiste più a lungo.\n\nLa domanda si fonda sullo studio HIBISCUS, i cui risultati principali erano stati annunciati ad aprile: nella parte di fase 3, 385 pazienti dai 12 anni in su, con almeno due crisi dolorose nell'anno precedente, hanno preso per un anno etavopivat o un placebo, continuando le cure abituali. Con il farmaco le crisi sono state il 27% in meno e la prima crisi è arrivata circa quattro mesi più tardi. Dopo sei mesi l'emoglobina era salita in modo netto (più di 1 grammo per decilitro) nel 48,7% dei trattati contro il 7,2% del gruppo placebo. Un'analisi esplorativa indica anche meno trasfusioni.\n\nI limiti: i dati completi non sono ancora stati pubblicati su una rivista scientifica né presentati a un congresso; quel che si conosce viene dai comunicati dell'azienda. Una riduzione delle crisi del 27% è un beneficio reale ma parziale, lontano da quello delle terapie geniche, che però sono complesse, costosissime e disponibili per pochi. Un farmaco concorrente dello stesso tipo, mitapivat di Agios, è già all'esame della FDA, che ha rinviato la decisione al febbraio 2027.",
+          "perche": "Una semplice compressa, se approvata, sarebbe una cura alla portata di molti più malati rispetto alle terapie geniche, soprattutto nei Paesi dove l'anemia falciforme è più diffusa.",
+          "fonti": [
+            {
+              "nome": "HCPLive",
+              "url": "https://www.hcplive.com/view/etavopivat-submitted-to-fda-after-27-voc-reduction-in-phase-3-scd-trial"
+            }
+          ],
+          "parole": [
+            "etavopivat",
+            "anemia falciforme",
+            "Novo Nordisk",
+            "sickle cell",
+            "FDA",
+            "EMA",
+            "piruvato chinasi"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Un segnale radio ogni otto minuti: viene da una stella morta che gira attorno a una stella simile al Sole",
+          "testo": "Un gruppo di astronomi australiani ha rintracciato l'origine di uno dei segnali radio più strani scoperti negli ultimi anni e ha trovato una coppia inattesa: una nana bianca, cioè il resto compatto di una stella spenta, in orbita attorno a una stella molto simile al Sole. Lo studio, guidato da Sam McSweeney del centro ICRAR dell'Università Curtin, è stato pubblicato il 12 novembre sulla rivista Nature Astronomy dopo revisione.\n\nL'oggetto, a più di 5.000 anni luce da noi, ha la sigla GPM J071507-114153 e appartiene ai «transienti radio a lungo periodo»: sorgenti che emettono un lampo radio a intervalli regolari di minuti o ore, molto più lenti di quelli delle pulsar. Il primo fu scoperto nel 2022 dallo stesso gruppo e oggi se ne conosce circa una dozzina. Questo lampeggia ogni 7,9 minuti, ma solo per circa 6 ore ogni 32; poi tace. Nei pochi casi chiariti finora, la compagna della nana bianca era sempre una nana rossa, una stella piccola e fredda.\n\nPer arrivarci sono serviti tre strumenti: il radiotelescopio MWA in Australia occidentale (oltre cento ore di dati elaborati con un supercalcolatore), il radiotelescopio sudafricano MeerKAT per fissare la posizione esatta e l'osservatorio Keck alle Hawaii per riconoscere il tipo di stella, che ha una massa tra 0,89 e 1,07 volte quella del Sole. I lampi sono così regolari che i ricercatori hanno potuto usarli come un orologio: le piccole variazioni del ritmo rivelano il moto orbitale della nana bianca, ed è la prima volta che si misura direttamente in un sistema di questo tipo. Ne segue che il segnale nasce dalla nana bianca o dalle sue immediate vicinanze, cosa che finora non era chiara.\n\nC'è un risultato in più: i lampi fanno da sonda per la stella compagna. Cambiando forma e intensità hanno rivelato brillamenti sulla stella simile al Sole e, in un caso, il passaggio della nana bianca dietro una regione di forte campo magnetico, probabilmente un grande arco di gas caldo. Restano aperte diverse domande: come esattamente si produce l'emissione e perché si accende e si spegne. E se anche stelle come il Sole possono ospitare questi sistemi, nella Galassia potrebbero essercene molti più di quanto si pensasse.",
+          "perche": "Chiarisce chi produce uno dei segnali più misteriosi dell'astronomia recente e mostra che il fenomeno non riguarda solo le stelle piccole e fredde; in più offre un modo nuovo per studiare le tempeste magnetiche di una stella come il Sole.",
+          "fonti": [
+            {
+              "nome": "Sci.News",
+              "url": "https://www.sci.news/astronomy/long-period-transient-white-dwarf-sun-like-star-15195.html"
+            },
+            {
+              "nome": "Tech Times",
+              "url": "https://www.techtimes.com/articles/330580/20261112/dead-stars-radio-clockwork-found-orbiting-sun-like-star-first-proof-long-period-transients.htm"
+            }
+          ],
+          "parole": [
+            "nana bianca",
+            "segnali radio",
+            "transienti a lungo periodo",
+            "ICRAR",
+            "MWA",
+            "Nature Astronomy",
+            "stella simile al Sole"
+          ]
+        },
+        {
+          "titolo": "Filmati nel grafene gli elettroni che «saltano» un intervallo di energia proibito sotto la spinta della luce",
+          "testo": "Fisici delle università di Ratisbona e Marburgo e del centro di ricerca di Jülich, in Germania, sono riusciti a riprendere, quasi fotogramma per fotogramma, un fenomeno quantistico previsto da quasi un secolo: elettroni che passano da una banda di energia a un'altra attraversando l'intervallo «proibito» che le separa. Il lavoro è uscito sulla rivista Nature dopo revisione (primo autore Vincent Eggers); l'università di Ratisbona lo aveva annunciato a fine ottobre e in questi giorni è stato ripreso dai siti di divulgazione, per questo ne parliamo ora.\n\nIn un solido gli elettroni non possono avere un'energia qualsiasi: si muovono dentro «bande» permesse, separate da intervalli vietati. I ricercatori usano l'immagine di un ascensore che dal primo piano si ritrova al ventesimo senza passare da quelli in mezzo. Il passaggio, chiamato transizione di Landau-Zener-Majorana, avviene quando un campo elettrico spinge l'elettrone verso l'intervallo abbastanza in fretta. Ciò che conta, spiegano gli autori, è proprio la velocità con cui l'elettrone ci arriva: è una cosa diversa dal classico «effetto tunnel» attraverso una barriera nello spazio.\n\nPer vederlo hanno usato grafene purissimo, un foglio di carbonio spesso un solo atomo preparato a Jülich in una forma «ruotata» che rende il fenomeno più leggibile. Un impulso di luce molto intenso fornisce il campo elettrico che accelera gli elettroni; un microscopio a fotoemissione misura, a intervalli più brevi di una singola oscillazione della luce, l'energia e la direzione di moltissimi elettroni insieme. Il risultato più netto: con campi abbastanza forti la probabilità del salto arriva fino al 100%, anche quando le due bande sono chiaramente separate. Le riprese mostrano anche come gli urti con il reticolo di atomi disturbino via via il moto ordinato degli elettroni.\n\nÈ ricerca di base, e i limiti vanno detti: non c'è alcun dispositivo, e il risultato riguarda il grafene in condizioni di laboratorio. L'idea di fondo, guidare gli elettroni con le oscillazioni rapidissime della luce invece che con una tensione elettrica, potrebbe un giorno portare a elettronica molto più veloce di quella attuale, ma per ora è una prospettiva. Gli autori dicono che il metodo si può applicare ad altri materiali quantistici.",
+          "perche": "Vedere direttamente come e quando gli elettroni cambiano banda è il primo passo per imparare a comandarli con la luce: è la base, ancora lontana dalle applicazioni, di un'elettronica molto più rapida.",
+          "fonti": [
+            {
+              "nome": "Università di Ratisbona",
+              "url": "https://www.uni-regensburg.de/en/research/home/news/latest-news/28-10-2026_a-quantum-elevator-in-slow-motion-video"
+            },
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm"
+            }
+          ],
+          "parole": [
+            "grafene",
+            "elettroni",
+            "Landau-Zener",
+            "fisica quantistica",
+            "Nature",
+            "laser ultraveloci",
+            "Jülich",
+            "Regensburg"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "Google: squadre di agenti AI hanno risolto problemi matematici aperti e scritto milioni di righe di dimostrazioni verificate al computer",
+          "testo": "Il 13 novembre Google Research ha pubblicato un lungo resoconto di quello che ricercatori dell'azienda e di varie università (tra cui MIT, Carnegie Mellon, Columbia) hanno ottenuto con «/teamwork», una funzione di Antigravity, il suo ambiente di lavoro per agenti AI. L'idea è far lavorare insieme, per ore o giorni, decine di agenti basati sui modelli Gemini 4, ciascuno con un compito: chi propone soluzioni, chi le critica, chi le controlla. Le persone fissano il problema e i criteri per dire che è risolto.\n\nTre accorgimenti, secondo Google, fanno la differenza. Primo: ogni proposta deve passare un «falsificatore» esterno che non si lascia convincere a parole, per esempio Lean 4, un programma che controlla le dimostrazioni matematiche passo per passo, oppure una batteria di test o un simulatore. Secondo: ogni agente vede solo i documenti che gli servono, e chi verifica non conosce il ragionamento di chi ha prodotto il risultato. Terzo: i modi di lavorare sono descritti a parole e scelti caso per caso.\n\nI risultati dichiarati sono molti. In matematica: la dimostrazione generale della congettura di Courtade-Kumar, proposta nel 2013 nella teoria dell'informazione; un nuovo limite per una congettura di Tarjan del 1985 su una struttura di dati; un algoritmo che chiude una questione aperta a un importante congresso del 2024. Nella verifica formale: la trascrizione in Lean, senza intervento umano, delle congetture di Weil (dimostrate da Deligne nel 1974), con circa 1,8 milioni di righe e 28.800 chiamate ad agenti. In chimica: 30 agenti che ricavano la struttura di una molecola dai dati di risonanza magnetica indovinano al primo tentativo nel 95% dei casi di prova. Nel software: un decodificatore video di 170.000 righe riscritto in Rust, identico nei risultati e più veloce del 20-30% dell'originale.\n\nLe cautele sono importanti. Quasi tutto è raccontato da chi l'ha fatto: la garanzia indipendente c'è solo dove un verificatore automatico ha detto sì, e anche lì resta da controllare che l'enunciato verificato sia quello giusto. Formalizzare una dimostrazione già nota non è scoprire un teorema nuovo. Gli esperti umani hanno comunque riletto, semplificato e corretto i risultati. Google apre gli strumenti agli utenti di Antigravity e offre sei mesi di accesso gratuito a 10.000 ricercatori; altre funzioni arriveranno nelle prossime settimane.",
+          "perche": "È il segnale più ampio finora che gruppi di agenti AI, se affiancati da controlli automatici severi, possono dare contributi verificabili alla ricerca e non solo scrivere codice. Quanto di tutto questo reggerà al vaglio di altri matematici si vedrà nei prossimi mesi.",
+          "fonti": [
+            {
+              "nome": "Google Research",
+              "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+            },
+            {
+              "nome": "Interesting Engineering",
+              "url": "https://interestingengineering.com/ai-robotics/google-antigravity-multi-agent-research"
+            }
+          ],
+          "parole": [
+            "Google",
+            "Antigravity",
+            "agenti AI",
+            "Gemini 4",
+            "Lean",
+            "dimostrazioni matematiche",
+            "congetture di Weil",
+            "multi-agente"
+          ]
+        }
+      ]
+    }
+  }
+}
