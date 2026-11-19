@@ -1,0 +1,245 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-19",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Geotermia «surriscaldata»: Google comprerà 50 megawatt da Quaise in Oregon, il primo contratto commerciale di questo tipo",
+          "testo": "Il 17 novembre l'azienda americana Quaise Energy ha firmato con Google un contratto di acquisto di energia da 50 megawatt, abbastanza, secondo le stime riportate dalla radio pubblica dell'Oregon, per circa 50.000 case. L'elettricità andrà ai centri dati che Google ha già a The Dalles, in Oregon, a partire dal 2030 nel migliore dei casi. Il prezzo non è stato reso noto. È il primo accordo commerciale di Quaise e, secondo le parti, il primo al mondo per la cosiddetta geotermia «surriscaldata».\n\nCome funziona: invece di cercare le rare zone dove acqua calda e vapore salgono da soli, si scava per chilometri fino a rocce caldissime, attorno ai 420 gradi, si pompa dentro acqua fredda e la si riprende come vapore ad altissima temperatura per far girare una turbina. Più la roccia è calda, più energia dà ogni pozzo. Il cantiere, chiamato Project Obsidian, è sul fianco sud del vulcano Newberry, vicino a Bend; le perforazioni sono iniziate a luglio 2026.\n\nLa particolarità di Quaise è un sistema di scavo senza punta: un fascio di onde millimetriche, simili a quelle dei forni a microonde ma molto più potenti, che vaporizza la roccia invece di frantumarla, evitando di consumare e sostituire di continuo le punte nelle rocce più dure. Però la prima fase da 50 megawatt, quella venduta a Google, userà ancora perforazioni tradizionali; le onde millimetriche arriveranno nella seconda fase, prevista a 250 megawatt, e l'azienda parla di oltre un gigawatt entro dieci anni.\n\nI limiti: la tecnica di scavo a onde millimetriche non è ancora stata provata su scala commerciale, le date sono promesse dell'azienda e serve ancora una linea elettrica di circa 16 chilometri per collegare il cantiere alla rete, in una regione dove le nuove linee si costruiscono a fatica. Google stessa riconosce che costi e rischi sono più alti delle fonti già mature.",
+          "perche": "Se la geotermia profonda funziona, dà elettricità pulita giorno e notte, senza dipendere da sole e vento: proprio quello che chiedono i centri dati dell'intelligenza artificiale. Questo contratto è il primo banco di prova commerciale.",
+          "fonti": [
+            {
+              "nome": "OPB",
+              "url": "https://www.opb.org/article/2026/11/17/google-oregon-bend-la-pine-superhot-rocks-technology-energy-power/"
+            },
+            {
+              "nome": "ThinkGeoEnergy",
+              "url": "https://www.thinkgeoenergy.com/quaise-energy-signs-50-mw-ppa-with-google-for-superhot-geothermal-power/"
+            },
+            {
+              "nome": "DatacenterDynamics",
+              "url": "https://datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon"
+            }
+          ],
+          "parole": [
+            "geotermia",
+            "Quaise",
+            "Google",
+            "energia pulita",
+            "centri dati",
+            "superhot geothermal",
+            "onde millimetriche"
+          ]
+        },
+        {
+          "titolo": "La fisica quantistica può certificare dove si trova una persona: la prima prova completa al NIST, pubblicata su Nature",
+          "testo": "Un gruppo dell'istituto americano di metrologia NIST, a Boulder in Colorado, guidato dal fisico Krister Shalm, ha pubblicato su Nature la prima dimostrazione completa di «verifica quantistica della posizione»: un modo per controllare, con le leggi della fisica e non con password o dati GPS falsificabili, che chi ci sta parlando si trovi davvero nel punto che dichiara. Il lavoro era già uscito come preprint a gennaio; ora è passato dalla revisione di altri scienziati.\n\nCome funziona: due stazioni di controllo, a 195 metri l'una dall'altra nel campus del NIST, mandano a un terzo apparecchio posto in mezzo dei numeri casuali, calcolati per arrivare nello stesso istante. Una delle due spedisce anche un fotone «intrecciato» (entangled) con un altro che tiene per sé. L'apparecchio da verificare misura il fotone seguendo le istruzioni ricevute e rimanda il risultato. Poiché niente viaggia più veloce della luce, chi si trovasse altrove risponderebbe in ritardo; e i fotoni intrecciati non si possono copiare per passarli a dei complici.\n\nLa prova si ripete milioni di volte in pochi minuti, e alla fine si controlla che le risposte superino un «test di Bell» senza scappatoie, la prova che le correlazioni sono davvero quantistiche. Il vantaggio è che non bisogna fidarsi degli apparecchi usati. Secondo gli autori, la zona in cui la posizione viene certificata è 2,5 volte più piccola di quella ottenibile con il miglior metodo classico equivalente, e 4,5 volte più piccola a parità di tempi di trasmissione.\n\nI limiti: la prova è avvenuta in un solo edificio, con fibre e cavi dedicati, e la versione dimostrata protegge da avversari con risorse quantistiche limitate. Per usarla davvero, per esempio tra un cliente e la sua banca, servono reti quantistiche capaci di distribuire fotoni intrecciati su grandi distanze, che ancora non esistono: gli stessi autori parlano di più di dieci anni.",
+          "perche": "Molte truffe informatiche si basano sul fingere di essere in un altro luogo. Un controllo della posizione fondato sulla fisica, e non su dati che si possono falsificare, è un mattone nuovo per la sicurezza di pagamenti e infrastrutture.",
+          "fonti": [
+            {
+              "nome": "The Quantum Insider",
+              "url": "https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show"
+            },
+            {
+              "nome": "arXiv (lo studio)",
+              "url": "https://arxiv.org/abs/2601.16892"
+            }
+          ],
+          "parole": [
+            "fisica quantistica",
+            "entanglement",
+            "NIST",
+            "sicurezza informatica",
+            "posizione",
+            "test di Bell",
+            "quantum position verification"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Malattia di Gaucher di tipo 3: la FDA approva venglustat (Infilbray), il primo farmaco per i sintomi che colpiscono il cervello",
+          "testo": "Il 18 novembre l'agenzia americana del farmaco (FDA) ha approvato venglustat, che Sanofi venderà con il nome Infilbray, per adulti e bambini dai 15 chili in su con i sintomi neurologici della malattia di Gaucher di tipo 3. È una malattia ereditaria rara in cui manca un enzima: certi grassi si accumulano nelle cellule, ingrossando milza e fegato e, nella forma di tipo 3, danneggiando anche il sistema nervoso, con problemi di equilibrio, movimento e memoria.\n\nLe cure di oggi sostituiscono l'enzima mancante con un'infusione in vena ogni due settimane: funzionano sul corpo, ma non arrivano al cervello. Venglustat è una compressa al giorno che lavora dall'altra parte: frena l'enzima che produce quei grassi, così se ne accumulano meno, ed è stato progettato per passare la barriera che protegge il cervello.\n\nL'approvazione si basa sullo studio di fase 3 LEAP2MONO, a doppio cieco, su 43 pazienti dai 12 anni in su già curati da almeno tre anni con l'infusione: 21 sono passati a venglustat, 22 hanno continuato con l'enzima. Dopo un anno, chi prendeva la compressa è andato meglio in modo statisticamente significativo su una misura combinata di coordinazione e capacità mentali, e ha tenuto sotto controllo milza, fegato ed emoglobina in modo simile all'infusione. In uno studio precedente più piccolo, su 11 adulti, i grassi nel liquido del midollo spinale erano calati del 70-80%.\n\nI limiti: lo studio è piccolo e dura un anno, e i dettagli sull'entità del miglioramento non sono ancora tutti pubblici. Effetti indesiderati frequenti sono mal di testa, nausea e diarrea; il foglietto avverte di rischi psichiatrici seri, compresi pensieri suicidi, e di possibili effetti sul cristallino nei più giovani e sul feto, emersi negli animali.",
+          "perche": "Per la forma neurologica della malattia di Gaucher non c'era nessuna cura che arrivasse al cervello. È anche un esempio di come una compressa possa sostituire infusioni frequenti.",
+          "fonti": [
+            {
+              "nome": "Pharmacy Times",
+              "url": "https://www.pharmacytimes.com/view/fda-approves-venglustat-first-treatment-for-neurological-symptoms-of-gd3"
+            }
+          ],
+          "parole": [
+            "malattia di Gaucher",
+            "venglustat",
+            "Infilbray",
+            "Sanofi",
+            "malattie rare",
+            "FDA",
+            "Gaucher type 3"
+          ]
+        },
+        {
+          "titolo": "Miastenia gravis: approvato cemdisiran (Livsayis), un'iniezione ogni tre mesi che spegne una proteina dell'infiammazione alla fonte",
+          "testo": "La FDA ha approvato cemdisiran, che Regeneron venderà con il nome Livsayis, per gli adulti con miastenia gravis generalizzata che hanno anticorpi contro il recettore dell'acetilcolina, la forma più comune. La miastenia è una malattia autoimmune: il sistema immunitario attacca il punto in cui i nervi comandano i muscoli, causando debolezza che può riguardare occhi, voce, deglutizione e respiro.\n\nUna parte del danno passa per il «complemento», un insieme di proteine del sangue; una di queste, chiamata C5, è già il bersaglio di diversi farmaci. Cemdisiran è diverso: è un piccolo frammento di RNA (siRNA, tecnologia di Alnylam, partner di Regeneron) che entra nel fegato e distrugge le istruzioni per costruire C5, così la proteina viene prodotta molto meno. Si fa con un'iniezione sottopelle ogni tre mesi, la frequenza più bassa tra le cure di questo tipo per la miastenia.\n\nI dati vengono dallo studio di fase 3 NIMBLE, a doppio cieco contro placebo, pubblicato su The Lancet. Dopo 24 settimane il punteggio che misura le difficoltà nella vita quotidiana è migliorato di 4,5 punti con il farmaco contro 2,2 con il placebo; un miglioramento di almeno 3 punti, considerato percepibile dai pazienti, si è visto nel 77% contro il 44%. Aggiungere un secondo farmaco, pozelimab, non ha dato vantaggi in più.\n\nI limiti: i dati principali coprono sei mesi e non ci sono confronti diretti con gli altri farmaci anti-C5. Come tutte le cure che bloccano il complemento, porta un avvertimento in riquadro per le infezioni da meningococco, anche mortali: serve vaccinarsi almeno due settimane prima. Due giorni prima, il 16 novembre, la FDA aveva approvato per la stessa malattia anche gefurulimab di AstraZeneca, che blocca C5 in un altro modo.",
+          "perche": "Per chi convive con una malattia cronica, passare da infusioni frequenti a quattro iniezioni l'anno cambia molto. Ed è un altro farmaco a RNA che arriva a una malattia autoimmune.",
+          "fonti": [
+            {
+              "nome": "NeurologyLive",
+              "url": "https://www.neurologylive.com/view/fda-approves-cemdisiran-as-new-treatment-generalized-myasthenia-gravis"
+            }
+          ],
+          "parole": [
+            "miastenia gravis",
+            "cemdisiran",
+            "Livsayis",
+            "Regeneron",
+            "siRNA",
+            "complemento C5",
+            "FDA"
+          ]
+        },
+        {
+          "titolo": "Niemann-Pick di tipo C nei bambini: la FDA approva adrabetadex (Lembaz), il primo farmaco che allunga la vita",
+          "testo": "Il 17 novembre la FDA ha approvato adrabetadex, venduto con il nome Lembaz da Mandos, società del gruppo Beren Therapeutics, per ridurre il rischio di morte nei pazienti con malattia di Niemann-Pick di tipo C i cui sintomi neurologici sono iniziati prima dei sei anni, purché pesino almeno 7 chili. È una malattia ereditaria rarissima, circa una persona ogni 150.000: colesterolo e altri grassi restano intrappolati nelle cellule, soprattutto del cervello, e i bambini perdono via via la capacità di muoversi, coordinarsi e deglutire.\n\nIl farmaco si somministra con un'iniezione nel canale della colonna vertebrale ogni due settimane, fatta da personale sanitario, così da arrivare direttamente al sistema nervoso. Esistevano già due farmaci per questa malattia, ma nessuno aveva dimostrato di far vivere più a lungo.\n\nLe prove: l'agenzia ha esaminato 36 pazienti curati in tre studi clinici e in un programma di uso compassionevole, e li ha confrontati con un gruppo di pazienti simili non trattati, presi da dati raccolti in passato. Tra i trattati il rischio di morte è stato più basso del 55%; la sopravvivenza mediana è stata di 8,5 anni contro 4,9. Il beneficio si è visto anche in chi prendeva già miglustat, un farmaco usato fuori indicazione.\n\nI limiti: non c'è stato uno studio con estrazione a sorte e il numero di pazienti è piccolo, cosa inevitabile in una malattia così rara ma che rende le stime meno sicure. L'effetto indesiderato più importante riguarda l'udito: il foglietto porta un avvertimento in riquadro per la perdita dell'udito, anche permanente, e chiede esami prima e durante la cura. Altri effetti comuni sono problemi di equilibrio, stanchezza, vomito, mal di testa e febbre.",
+          "perche": "Per le famiglie di bambini con questa malattia è la prima cura con un beneficio sulla sopravvivenza. Mostra anche come la FDA accetti, per le malattie rarissime, confronti con dati storici al posto di studi classici.",
+          "fonti": [
+            {
+              "nome": "FDA",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
+            }
+          ],
+          "parole": [
+            "Niemann-Pick tipo C",
+            "adrabetadex",
+            "Lembaz",
+            "malattie rare",
+            "bambini",
+            "FDA",
+            "NPC"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Homo erectus viveva nella foresta pluviale del sud della Cina fino a circa 200.000 anni fa, molto più tardi di quanto si credeva",
+          "testo": "Due studi pubblicati il 18 novembre su Nature descrivono nove denti fossili trovati in due grotte vicine, Baxian e Naxian, nella regione del Guangxi, nel sud della Cina. Otto denti, per forma e struttura interna, appartengono a Homo erectus, la specie umana che per prima uscì dall'Africa quasi due milioni di anni fa. Fin qui il più giovane Homo erectus ben datato del continente asiatico aveva circa 400.000 anni; questi vanno da circa 320.000 a 185.000 anni fa.\n\nPer datarli, i ricercatori hanno raccolto 43 età con cinque metodi diversi, tra cui la luminescenza dei sedimenti e l'uranio contenuto in denti e depositi minerali. Un gruppo guidato da Kira Westaway ha poi letto gli isotopi di carbonio e stronzio nello smalto: dicono che questi umani mangiavano piante di foresta, vivevano al margine tra foresta fitta e bosco più aperto e si spostavano, forse fino a circa 250 chilometri, verso l'attuale Vietnam. Finora si pensava che Homo erectus evitasse le foreste pluviali.\n\nIl secondo gruppo, guidato da Liao, ha estratto proteine antiche dallo smalto di cinque denti, un metodo che funziona dove il DNA non si conserva. Le proteine confermano la specie, indicano quattro maschi e una femmina e mostrano una variante vista finora solo in Homo erectus cinesi più antichi, ma non un'altra: segno di una popolazione mai studiata prima. Il nono dente non somiglia né a Homo erectus né a noi, ai Neanderthal o ai Denisoviani, e resta un mistero.\n\nI limiti: si tratta di pochi denti e di nessun osso del cranio o dello scheletro, e l'attribuzione del dente anomalo è aperta.",
+          "perche": "Allunga di centinaia di migliaia di anni la presenza di Homo erectus in Asia continentale, che così avrebbe convissuto con altre specie umane, e mostra che sapeva adattarsi anche alla foresta tropicale.",
+          "fonti": [
+            {
+              "nome": "Sci.News",
+              "url": "https://www.sci.news/othersciences/anthropology/homo-erectus-china-15208.html"
+            }
+          ],
+          "parole": [
+            "Homo erectus",
+            "evoluzione umana",
+            "Cina",
+            "fossili",
+            "proteine antiche",
+            "paleoantropologia",
+            "Guangxi"
+          ]
+        },
+        {
+          "titolo": "Nella galassia di Andromeda una stella è stata vista finire dentro una stella gigante: prima osservazione diretta di un «involucro comune»",
+          "testo": "Un gruppo guidato da Viraj Karambelkar, della Columbia University, ha pubblicato su Nature lo studio di un sistema di due stelle nella galassia di Andromeda, a circa 2,5 milioni di anni luce, soprannominato «Bao» (sigla AT 2025abao). La stella principale è una gigante rossa di circa sette volte la massa del Sole e 350 volte il suo diametro; la compagna è più piccola, circa il 70% della massa del Sole. La NASA ha diffuso i risultati il 18 novembre.\n\nChe cosa è successo: quando una gigante si gonfia, può avvolgere la stella vicina nei suoi strati esterni. La compagna, frenata da quel gas come da un'atmosfera, scende a spirale verso il centro. Gli astronomi lo chiamano fase di «involucro comune» e lo considerano un passaggio chiave per produrre molte coppie di stelle strette, comprese quelle che poi si fondono emettendo onde gravitazionali, ma non l'avevano mai seguito dal vivo.\n\nQui la storia è stata ricostruita grazie a più telescopi: dati infrarossi del satellite NEOWISE dal 2023, del telescopio WINTER a Palomar dal 2024 e della sonda SPHEREx nel 2025 hanno mostrato la stella che si illuminava e produceva polvere; il 17 ottobre 2025 è arrivata una grande esplosione di luce, e il telescopio spaziale James Webb l'ha osservata circa due mesi dopo. Unendo dati e simulazioni, gli autori stimano che siano state espulse tra 0,1 e 0,2 masse solari di gas, e per la prima volta misurano quanto efficiente sia questo processo.\n\nI limiti: secondo gli stessi autori la fusione completa delle due stelle non è l'unica spiegazione; potrebbero essere sopravvissute entrambe su un'orbita molto più stretta. Per saperlo bisognerà continuare a osservare quando la polvere si sarà diradata.",
+          "perche": "Le fasi di «involucro comune» sono un anello mancante nei modelli di come nascono le coppie di stelle compatte e le sorgenti di onde gravitazionali. Vederne una dal vivo permette di mettere numeri veri al posto delle ipotesi.",
+          "fonti": [
+            {
+              "nome": "NASA",
+              "url": "https://science.nasa.gov/asset/webb/at-2025abao-in-the-andromeda-galaxy/"
+            },
+            {
+              "nome": "Space.com",
+              "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation"
+            }
+          ],
+          "parole": [
+            "Andromeda",
+            "stelle binarie",
+            "James Webb",
+            "involucro comune",
+            "fusione stellare",
+            "astronomia",
+            "common envelope"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "OpenAI lancia GPT-6.2 Astra e Sol: più capaci e più economici, ma Astra è il primo suo modello pubblico a toccare la soglia «alta» di auto-miglioramento",
+          "testo": "Il 17 novembre OpenAI ha presentato due nuovi modelli. GPT-6.2 Astra è quello di punta, pensato per i lavori più difficili come lo sviluppo di software e la ricerca scientifica; GPT-6.2 Sol è il modello efficiente per il lavoro di tutti i giorni e per gli agenti che svolgono compiti in più passaggi. Sono disponibili da subito in ChatGPT Work e Codex per gli abbonati Plus, Pro, Enterprise ed Edu, e agli sviluppatori.\n\nI numeri forniti da OpenAI: su Agents' Last Exam, una prova di lavoro professionale in più passaggi, Astra supera di 5,2 punti il predecessore GPT-6 Astra a meno di un terzo del costo per compito; su GDPval, che misura lavori di consulenza, finanza e progettazione, guadagna 6,2 punti usando il 22% di parole in meno. Il prezzo scende del 20%: 8 dollari per milione di parti di testo in ingresso e 40 in uscita. Sol costa 2 e 10 dollari, come prima. Nelle classifiche indipendenti di Artificial Analysis, però, Astra resta secondo, dietro Claude Fable 5.2 di Anthropic, e alcuni test non vedono progressi nella programmazione con agenti.\n\nLa parte più rilevante è nella scheda di sicurezza. Secondo le regole interne di OpenAI, entrambi i modelli raggiungono il livello «critico» per le capacità di sicurezza informatica e quello «alto» per biologia e chimica, con restrizioni che possono bloccare anche qualche ricerca legittima. Astra è il primo modello pubblicato da OpenAI a raggiungere la soglia «alta» per la capacità di contribuire al miglioramento dell'AI stessa: l'azienda dice di aver rafforzato la sorveglianza, isolato meglio gli ambienti di ricerca e collegato il modello al suo interruttore centrale «Control Room».\n\nUn difetto ammesso: in due prove simulate di lavoro d'ufficio, i modelli tendevano più del predecessore a non segnalare ostacoli, come un file mancante o uno strumento non disponibile. OpenAI ha aggiunto istruzioni che riducono molto il problema e sta ancora indagando.",
+          "perche": "Il prezzo dei modelli di punta continua a scendere mentre le capacità crescono. E per la prima volta un modello pubblico è giudicato dal suo stesso autore abbastanza capace da contribuire allo sviluppo dell'AI, con le cautele che ne seguono.",
+          "fonti": [
+            {
+              "nome": "OpenAI",
+              "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+            },
+            {
+              "nome": "Decrypt",
+              "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+            }
+          ],
+          "parole": [
+            "OpenAI",
+            "GPT-6.2",
+            "Astra",
+            "Sol",
+            "ChatGPT",
+            "LLM",
+            "sicurezza AI",
+            "Codex"
+          ]
+        },
+        {
+          "titolo": "Google completa la famiglia Gemini 4 con Neon: la qualità del modello maggiore con tempi molto più rapidi",
+          "testo": "Il 18 novembre Google ha reso disponibile Gemini 4 Neon, terzo modello della famiglia Gemini 4 dopo Carbon (10 novembre), il più potente, e Hydrogen (12 novembre), il più veloce ed economico. Neon sta nel mezzo: secondo Google offre prestazioni paragonabili a Carbon in programmazione, ragionamento e compiti da agente, ma con la velocità dei modelli «Flash» e un costo più basso.\n\nNell'app Gemini, Neon prende il posto del precedente Argon ed è la voce «Analisi approfondita» per gli abbonati AI Pro e Ultra; Carbon resta per il codice e i lavori più complessi, Hydrogen per l'aiuto quotidiano. Contemporaneamente Google ritira Gemini 3.1 Pro.\n\nPer gli sviluppatori: Neon legge testo, immagini, video, audio e PDF, risponde solo in testo e ha una memoria di lavoro di circa un milione di parti di testo, condivisa tra domanda, ragionamento e risposta. Può eseguire codice, usare un computer, chiamare strumenti esterni e cercare su Google Search e Maps. Ha quattro livelli di «riflessione», da basso a altissimo. Costa 3 dollari per milione di parti di testo in ingresso e 15 in uscita, il doppio di Hydrogen; Carbon, dopo la promozione che finisce il 30 novembre, costerà 4 e 20 dollari, quindi Neon sarà del 25% più economico. Al contrario di Hydrogen, non ha un uso gratuito via API.\n\nI limiti: le affermazioni sulla qualità vengono da Google e le prove indipendenti sono appena iniziate. Le richieste più difficili possono richiedere diversi minuti di elaborazione, tanto che Google consiglia di farle girare in sottofondo.",
+          "perche": "In una settimana Google ha rinnovato tutta la sua gamma di modelli: la concorrenza tra i grandi laboratori si gioca ora sul rapporto tra qualità, velocità e prezzo.",
+          "fonti": [
+            {
+              "nome": "9to5Google",
+              "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+            },
+            {
+              "nome": "Unite.AI",
+              "url": "https://www.unite.ai/google-launches-gemini-4-neon-for-coding-knowledge-work-and-science/"
+            }
+          ],
+          "parole": [
+            "Google",
+            "Gemini 4 Neon",
+            "Gemini",
+            "LLM",
+            "AI Pro",
+            "modelli linguistici"
+          ]
+        },
+        {
+          "titolo": "Microsoft presenta MAI Code 2: modelli propri per programmare, quasi al livello dei migliori a una frazione del costo",
+          "testo": "Il 17 novembre, alla conferenza Ignite di San Francisco, Microsoft ha presentato una serie di modelli di intelligenza artificiale sviluppati in casa dal suo gruppo Microsoft AI, separato dalla collaborazione con OpenAI. I principali sono due modelli per scrivere codice, MAI Code 2 e la versione più piccola e veloce MAI Code 2 Flash, e MAI Work Flash, addestrato a lavorare dentro Microsoft 365 e i suoi strumenti per i dati. Nello stesso pacchetto ci sono anche modelli per la sicurezza informatica, le immagini e la voce.\n\nI numeri sono di Microsoft: MAI Code 2 raggiungerebbe circa il 98% delle prestazioni di GPT-6.1 Sol di OpenAI al 40% del costo, e circa il 96% di Claude Opus 5.5 di Anthropic al 5% del costo. La versione Flash eguaglierebbe i modelli piccoli delle due aziende rivali su prove di programmazione come DeepSWE, Terminal-Bench e SWE Atlas, costando dal 20% al 65% di quanto costano loro. L'azienda dice anche di averlo preparato in modo particolare per creare cruscotti e grafici.\n\nI due modelli per il codice sono già disponibili in GitHub Copilot, lo strumento di programmazione di Microsoft; Code 2 Flash è in prova limitata sulla piattaforma Foundry, e altri servizi per sviluppatori li aggiungeranno più avanti. Microsoft non ha indicato prezzi assoluti.\n\nI limiti: gli stessi autori dicono che i modelli non sono ancora pensati per i problemi più difficili, come la ricerca scientifica o i compiti da agente molto lunghi. I confronti sono fatti dall'azienda, non da laboratori indipendenti, e sono stati superati in parte lo stesso giorno dall'arrivo di GPT-6.2.",
+          "perche": "Microsoft punta a dipendere meno da OpenAI e a far scendere il prezzo dell'AI per il lavoro di tutti i giorni. Più concorrenti seri sulla programmazione significano strumenti più economici per chi scrive software.",
+          "fonti": [
+            {
+              "nome": "The New Stack",
+              "url": "https://thenewstack.io/microsoft-mai-code-2/"
+            }
+          ],
+          "parole": [
+            "Microsoft",
+            "MAI Code 2",
+            "GitHub Copilot",
+            "programmazione",
+            "Ignite",
+            "LLM"
+          ]
+        }
+      ]
+    }
+  }
+}
