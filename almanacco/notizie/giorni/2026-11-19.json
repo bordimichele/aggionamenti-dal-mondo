@@ -1,0 +1,474 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-19",
+  "aggiornamenti": [
+    "07:30"
+  ],
+  "sezioni": {
+    "italia": {
+      "articoli": [
+        {
+          "titolo": "Legge sull'antisemitismo, Emanuele Fiano lascia il Pd",
+          "testo": "Emanuele Fiano, uno dei volti più conosciuti del Partito democratico a Milano e da sempre impegnato sulla memoria della Shoah, ha annunciato mercoledì mattina che lascia il partito. Lo ha detto in diretta su Telelombardia, commosso fino alle lacrime, spiegando che la scelta è dolorosa ma definitiva. Il motivo è il voto contrario del Pd alla legge contro l'antisemitismo, approvata martedì dalla Camera.\n\nFiano ha raccontato di aver saputo che il partito avrebbe votato no mentre visitava il campo di sterminio di Birkenau, e ha definito quella decisione un limite che per lui non si poteva superare. La segretaria Elly Schlein lo aveva chiamato la sera prima del voto per convincerlo a restare: secondo Fiano la telefonata è stata cordiale e Schlein si è detta dispiaciuta, ma la sua decisione non è cambiata.\n\nLa legge è passata con 147 sì, 93 no e 5 astenuti. Adotta la definizione di antisemitismo dell'IHRA, l'alleanza internazionale per la memoria dell'Olocausto, e punta su scuola e odio in rete. Hanno votato contro M5s, Avs e la maggior parte del Pd; alcuni deputati riformisti del Pd, tra cui Piero Fassino, non hanno seguito l'indicazione del partito.\n\nIl sindaco di Milano Giuseppe Sala ha detto che l'uscita era in parte attesa, se ne è rammaricato e ha chiesto di rispettarla. Il direttore del Museo della Brigata Ebraica di Milano, Davide Romano, ha espresso solidarietà a Fiano e accusato il centrosinistra di essersi fatto trascinare da posizioni filopalestinesi; il ministro degli Esteri israeliano Gideon Sa'ar si è congratulato con governo e Parlamento. Fiano non ha detto se entrerà in un altro partito.",
+          "perche": "Perché conta: è il segno più visibile di quanto la legge sull'antisemitismo abbia diviso il Pd, proprio mentre il centrosinistra lavora a un programma comune.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/fiano-lascia-il-pd-per-il-no-alla-legge-sullantisemitismo_b854c8dc-2532-421f-9fe8-18b364801c1f.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/ddl-antisemitismo-le-lacrime-di-fiano-lascio-il-pd-_ad0d5ec9-32e1-477a-8239-fc0659fef573.html"
+            }
+          ],
+          "parole": [
+            "Emanuele Fiano",
+            "Pd",
+            "Elly Schlein",
+            "antisemitismo",
+            "IHRA",
+            "Camera"
+          ]
+        },
+        {
+          "titolo": "Futuro Nazionale, la procura di Roma apre un fascicolo dopo un esposto sulla legge Scelba",
+          "testo": "La procura di Roma ha aperto un fascicolo su Futuro Nazionale, il partito di estrema destra fondato dal generale Roberto Vannacci, oggi europarlamentare. La notizia l'ha data Repubblica ed è stata poi riportata dall'ANSA e dal Post. Per ora non ci sono indagati né un reato ipotizzato: il fascicolo è stato iscritto nel cosiddetto «modello 45», il registro delle segnalazioni da valutare prima di decidere se aprire una vera indagine. Secondo l'ANSA è stato affidato ai magistrati che si occupano di terrorismo.\n\nTutto nasce da un esposto presentato il 28 agosto dal Sindacato dei militari, guidato da Luca Comellini. Il sindacato sostiene che il partito violi la legge Scelba del 1952, che punisce la ricostituzione del partito fascista. Nel programma di Futuro Nazionale vede tratti del fascismo storico: la retorica della superiorità nazionale, un'idea gerarchica e non pluralista della società, il discredito delle istituzioni di garanzia e l'esaltazione del capo. Contesta anche le proposte di schierare stabilmente i militari nelle «zone rosse» delle città con compiti di polizia giudiziaria e di introdurre l'educazione militare obbligatoria nelle scuole.\n\nL'avvocato di Vannacci, Giorgio Carta, definisce le accuse del tutto infondate: il partito, dice, agisce dentro la Costituzione e non vuole far rinascere il partito fascista, sciolto più di ottant'anni fa. Ricorda che altri esposti di Comellini contro Vannacci sono stati archiviati e legge nell'iscrizione a modello 45 il segno che anche i magistrati considerano deboli le accuse.\n\nC'è anche un secondo filone: la procura militare di Roma, su un altro esposto dello stesso sindacato, sta valutando la posizione di alcuni militari in servizio che hanno ruoli nel partito. Secondo Carta né Vannacci né il partito sono coinvolti in quella verifica.",
+          "perche": "Perché conta: riguarda un partito nuovo e molto discusso; per ora è solo una verifica preliminare, non un'accusa.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/futuro-nazionale-viola-la-legge-scelba-la-procura-di-roma-apre-un-fascicolo_a3af0102-2a85-40ca-9ff0-e03b981a65b6.html"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/secondo-repubblica-la-procura-di-roma-ha-aperto-unindagine-senza-ipotesi-di-reato-su-futuro-nazionale/"
+            }
+          ],
+          "parole": [
+            "Futuro Nazionale",
+            "Roberto Vannacci",
+            "legge Scelba",
+            "procura di Roma",
+            "Sindacato dei militari"
+          ]
+        },
+        {
+          "titolo": "Bayesian, l'inchiesta britannica: la barca aveva un punto debole che l'equipaggio non conosceva",
+          "testo": "Il Marine Accident Investigation Branch (MAIB), l'ente del ministero dei Trasporti britannico che indaga sugli incidenti delle navi con bandiera del Regno Unito, ha pubblicato il rapporto finale sul naufragio del Bayesian, dopo quello preliminare di maggio. Il veliero affondò il 19 agosto 2024 davanti a Porticello, vicino a Palermo: morirono sette persone, tra cui l'imprenditore britannico Mike Lynch, proprietario della barca.\n\nSecondo il MAIB lo yacht aveva una vulnerabilità nella struttura che gli studi di stabilità alla base del suo libretto di istruzioni non avevano individuato: senza vele e con la deriva sollevata, una raffica molto violenta poteva rovesciarlo, e l'equipaggio non ne era a conoscenza. Le raffiche di quella notte, scrive l'ente, erano quasi certamente abbastanza forti da superare il limite oltre il quale la barca non poteva più raddrizzarsi. Il rapporto critica anche le indicazioni troppo generiche del libretto su come prepararsi a una tempesta all'ancora, le informazioni meteo carenti a disposizione dell'equipaggio e l'assenza di istruzioni specifiche per le tempeste forti. L'acqua entrata a bordo, invece, non avrebbe contribuito al ribaltamento: è arrivata quando la barca era già su un fianco.\n\nLe conclusioni sono diverse da quelle verso cui sembra andare l'inchiesta penale italiana. La procura di Termini Imerese non ha ancora chiuso le indagini: il comandante e due membri dell'equipaggio sono indagati per naufragio e omicidio colposo plurimo e, secondo indiscrezioni non confermate, i consulenti dei magistrati attribuiscono a loro la responsabilità. Il rapporto britannico, di fatto, li scagiona.",
+          "perche": "Perché conta: è la ricostruzione ufficiale più completa finora di uno dei naufragi più gravi degli ultimi anni nei mari italiani, e peserà sul processo che potrebbe nascere in Italia.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/bayesian-ente-governativo-inglese-scagiona-lequipaggio_052f3026-e9d5-44af-ad04-9fd95dc469d2.html"
+            }
+          ],
+          "parole": [
+            "Bayesian",
+            "Porticello",
+            "Mike Lynch",
+            "MAIB",
+            "Termini Imerese",
+            "naufragio"
+          ]
+        },
+        {
+          "titolo": "Vicenza, condannati i genitori di Francesco Gianello, morto per un tumore curato con l'argilla",
+          "testo": "La Corte d'Assise di Vicenza ha condannato in primo grado a due anni di carcere per omicidio colposo i genitori di Francesco Gianello, un ragazzo di 14 anni morto all'inizio del 2024 per un tumore. Invece delle cure indicate dai medici, che i genitori avevano rifiutato, il ragazzo era stato trattato con antinfiammatori e impacchi di argilla: in pratica la malattia non è mai stata curata.\n\nI genitori seguivano le teorie di Ryke Geerd Hamer, un medico tedesco secondo cui il cancro si potrebbe curare intervenendo sulla psiche. Hamer fu radiato dall'ordine dei medici e accusato di negligenza per la morte di diversi pazienti; le sue idee non hanno alcuna base scientifica.\n\nAll'inizio l'accusa era di omicidio volontario. All'udienza preliminare la difesa ha chiesto di trasformarla in omicidio colposo e il giudice ha accolto la richiesta. Il processo si è svolto con il rito abbreviato, che prevede lo sconto di un terzo della pena: da qui la condanna a due anni.\n\nL'omicidio colposo è il reato di chi causa la morte di una persona senza volerlo, per negligenza, imprudenza o imperizia, oppure per non aver preso le precauzioni necessarie a evitare i rischi per quella persona. La sentenza è di primo grado e può essere impugnata in appello.",
+          "perche": "Perché conta: è uno dei casi più gravi degli ultimi anni di cure rifiutate in nome di teorie antiscientifiche, e la sentenza dice che i genitori ne rispondono penalmente.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/francesco-gianello-condanna-genitori/"
+            }
+          ],
+          "parole": [
+            "Francesco Gianello",
+            "Vicenza",
+            "Hamer",
+            "omicidio colposo",
+            "medicina alternativa"
+          ]
+        },
+        {
+          "titolo": "Anticorruzione, il governo sceglie il professore Morzenti Pellegrini dopo il passo indietro di Altieri",
+          "testo": "Il Consiglio dei ministri ha indicato Remo Morzenti Pellegrini come nuovo presidente dell'ANAC, l'Autorità nazionale anticorruzione, l'ente indipendente che vigila su appalti pubblici, trasparenza e prevenzione della corruzione nelle amministrazioni. Morzenti Pellegrini ha 70 anni ed è professore di diritto amministrativo all'Università di Bergamo, di cui è stato rettore fino al 2021. È vicepresidente della Scuola nazionale dell'amministrazione e presiede la fondazione della CRUI, la conferenza dei rettori delle università italiane.\n\nLa scelta arriva dopo un pasticcio. In un primo momento il governo aveva indicato Trifone Altieri, esponente della Lega proposto proprio dal partito di Salvini. Le opposizioni avevano protestato con forza: l'incarico dovrebbe essere indipendente e la legge vieta di nominare presidente chi abbia avuto ruoli di partito nei tre anni precedenti, mentre Altieri nel 2024 era responsabile Difesa della Lega. Una decina di giorni fa Altieri ha rinunciato.\n\nPerché la nomina diventi definitiva servono i voti favorevoli dei due terzi dei membri delle commissioni parlamentari competenti, poi un decreto del presidente della Repubblica. La maggioranza qualificata richiesta significa che, nei fatti, serve un consenso più ampio di quello della sola maggioranza di governo.",
+          "perche": "Perché conta: l'ANAC controlla appalti e spesa pubblica; dopo le polemiche il governo ha scelto un tecnico invece di un politico.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/remo-morzenti-pellegrini-nominato-presidente-anac/"
+            }
+          ],
+          "parole": [
+            "ANAC",
+            "Remo Morzenti Pellegrini",
+            "Trifone Altieri",
+            "anticorruzione",
+            "Lega"
+          ]
+        }
+      ]
+    },
+    "mondo": {
+      "articoli": [
+        {
+          "titolo": "Shenzhen, Trump e Putin si parlano per 40 minuti prima del primo vertice a tre con Xi",
+          "testo": "Questa mattina presto, ora italiana, a Shenzhen, nel sud della Cina, Donald Trump e Vladimir Putin hanno avuto un incontro di circa 40 minuti a margine del vertice dell'APEC, l'organizzazione per la cooperazione economica dei paesi dell'Asia e del Pacifico. È il loro settimo incontro di persona e il primo dall'Alaska nel 2025, quando i colloqui sulla guerra in Ucraina finirono senza accordo. Con Putin c'erano il ministro degli Esteri Lavrov, il ministro delle Finanze Siluanov, il consigliere Ushakov e l'inviato Dmitriev; con Trump il segretario di Stato Rubio e il segretario al Tesoro Bessent. Poco prima i tre leader erano apparsi insieme nella foto di gruppo del vertice.\n\nPer le 7.30 italiane era previsto il primo incontro della storia tra i capi di Stati Uniti, Russia e Cina; quando è stata scritta questa rassegna non se ne conoscevano ancora i risultati. Non c'è un ordine del giorno ufficiale. La Casa Bianca vuole parlare della guerra con l'Iran e di un accordo sulle armi nucleari: il trattato New START tra Stati Uniti e Russia è scaduto a febbraio e Trump ne vuole uno nuovo che includa la Cina, mentre Xi è contrario perché la Cina ha molte meno testate. L'Ucraina è ufficialmente esclusa, ma secondo l'ANSA Trump vuole parlarne comunque.\n\nMercoledì Xi aveva ricevuto Putin definendo i rapporti tra i due paesi «saldi come una montagna» e parlando di un ordine mondiale multipolare; poi aveva accolto Trump in aeroporto con un abbraccio e onori militari. Trump, in un'intervista a Fox News, ha dato la colpa a Barack Obama per l'avvicinamento tra Russia e Cina.\n\nGli analisti citati dal Post e da Al Jazeera non si aspettano accordi importanti: per tutti e tre conta soprattutto mostrarsi insieme. Putin può dimostrare di non essere isolato, Trump presentarsi come protagonista della diplomazia dopo la sconfitta alle elezioni di metà mandato, Xi ottenere un successo d'immagine da padrone di casa.",
+          "perche": "Perché conta: dalle decisioni di queste tre potenze dipendono la guerra in Ucraina, quella con l'Iran e i prezzi dell'energia che pesano anche sulle bollette italiane.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/19/trump-putin-xi-jinping-incontro-cina/"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/trump-colpa-di-obama-se-russia-e-cina-si-sono-avvicinate_680d36cf-b289-4efc-9eaa-1bb683447fcf.html"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+            }
+          ],
+          "parole": [
+            "Trump",
+            "Putin",
+            "Xi Jinping",
+            "Shenzhen",
+            "APEC",
+            "New START"
+          ]
+        },
+        {
+          "titolo": "Ucraina, i Volenterosi si riuniscono a Berlino. Meloni: niente soldati italiani",
+          "testo": "Oggi a Berlino, nella sede del governo tedesco, si riunisce la «coalizione dei Volenterosi», i paesi che sostengono l'Ucraina e preparano le garanzie per la sua sicurezza dopo la guerra. Presiedono il cancelliere tedesco Friedrich Merz, il presidente francese Emmanuel Macron e il primo ministro britannico Andy Burnham; partecipano 37 paesi, il segretario generale della NATO Mark Rutte e Volodymyr Zelensky. Sono attesi anche gli inviati americani Steve Witkoff e Jared Kushner, che incontreranno gli ucraini e la nuova squadra negoziale europea: Germania, Francia, Regno Unito, Italia e Polonia, con von der Leyen e Costa.\n\nSi lavora su due tavoli. Germania, Francia e Regno Unito si occupano della parte militare, cioè di una forza multinazionale da schierare in Ucraina dopo la fine dei combattimenti. Il gruppo a cinque, con Italia e Polonia, prepara la linea politica per i futuri negoziati con Stati Uniti e Russia. Il governo Meloni ha ripetuto che l'Italia non manderà truppe sul terreno: partecipa alla diplomazia, non alla forza multinazionale.\n\nZelensky chiede soprattutto difesa aerea per l'inverno: missili per i sistemi Patriot e IRIS-T e altri 40 caccia F-16. Germania e Norvegia hanno promesso 300 milioni di dollari ciascuna per comprare armi americane per Kyiv; il polacco Donald Tusk ha detto invece che per ora Varsavia non aggiungerà soldi a quel programma. Ci sono state tensioni anche con il Pentagono: il sottosegretario Elbridge Colby ha sostenuto che gli attacchi ucraini in profondità in Russia servono a poco, e il ministro della Difesa tedesco Boris Pistorius gli ha risposto in modo durissimo.\n\nIl vertice cade nello stesso giorno dell'incontro tra Trump, Putin e Xi a Shenzhen. Mosca, finora, non ha accettato che gli europei partecipino al prossimo round di trattative.",
+          "perche": "Perché conta: a Berlino si decide quanto l'Europa, Italia compresa, è disposta a spendere e a impegnarsi per la sicurezza dell'Ucraina.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/volenterosi-a-berlino-sulle-garanzie-per-kiev.-roma-non-manderemo-truppe_e12db7a9-644d-4b5e-9c5c-f22b4db48772.html"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence"
+            }
+          ],
+          "parole": [
+            "Ucraina",
+            "Volenterosi",
+            "Berlino",
+            "Merz",
+            "Zelensky",
+            "Meloni",
+            "garanzie di sicurezza"
+          ]
+        },
+        {
+          "titolo": "Golfo, l'Iran attacca Kuwait e Bahrein dopo un raid americano. Una portaerei Usa lascia la regione",
+          "testo": "La guerra tra Stati Uniti e Iran, cominciata il 28 febbraio con gli attacchi americani e israeliani, è tornata a scaldarsi. Martedì gli Stati Uniti hanno colpito una base di lancio di missili dei Pasdaran sull'isola di Qeshm, nello stretto di Hormuz, in risposta a un attacco iraniano contro un radar americano in Bahrein. Il giorno dopo l'Iran ha lanciato droni contro una base aerea usata dagli americani in Kuwait, che ha attivato la difesa aerea per la prima volta da settembre, e contro il Bahrein, che ospita la Quinta flotta americana e ha subito quattro attacchi in sei giorni. È stata presa di mira anche una nave della compagnia petrolifera degli Emirati mentre attraversava Hormuz.\n\nLa marina iraniana sostiene inoltre che tre petroliere hanno preso fuoco dopo aver urtato delle mine a est dello stretto; la notizia viene da Teheran e non è stata verificata in modo indipendente. L'esercito iraniano dice anche di aver abbattuto un drone americano MQ-9.\n\nArabia Saudita, Qatar, Kuwait, Emirati, Lega Araba e Consiglio di cooperazione del Golfo hanno condannato gli attacchi iraniani; il Qatar, che media tra le parti, parla di un'escalation pericolosa per la diplomazia. Il capo dell'esercito iraniano Amir Hatami ha avvertito che la risposta a ogni passo falso americano sarà ancora più dura.\n\nIntanto la portaerei USS George Washington ha lasciato il Medio Oriente per nuove missioni in Asia e nel Pacifico, ha detto la flotta americana del Pacifico: nella regione restano la George H.W. Bush e la Theodore Roosevelt, arrivata lunedì.",
+          "perche": "Perché conta: dallo stretto di Hormuz passa una parte enorme del petrolio mondiale; ogni nuovo attacco pesa sui prezzi dell'energia in Italia.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/portaerei-statunitense-medio-oriente-george-washington/"
+            }
+          ],
+          "parole": [
+            "Iran",
+            "Stati Uniti",
+            "Hormuz",
+            "Kuwait",
+            "Bahrein",
+            "Qeshm",
+            "portaerei"
+          ]
+        },
+        {
+          "titolo": "Gaza, Israele avvia la prima operazione di terra dall'inizio della tregua",
+          "testo": "Mercoledì l'esercito israeliano ha cominciato una nuova operazione nel centro della Striscia di Gaza: secondo i giornalisti di Al Jazeera, carri armati si sono mossi vicino alla strada Salah al-Din, a est del campo profughi di Nuseirat e a nord di quello di Bureij, con colpi di artiglieria e di droni. È la prima spinta di terra dall'inizio della tregua di ottobre 2025. L'esercito ha ordinato agli abitanti della parte nord di Nuseirat di andarsene, e molte famiglie sono fuggite.\n\nIsraele dice che l'operazione serve a «eliminare una minaccia» per i suoi soldati vicino alla cosiddetta «linea gialla», il confine fissato dalla tregua che separa la parte della Striscia occupata da Israele dal resto, e che si riserva di intervenire a Gaza ogni volta che lo ritenga necessario.\n\nSecondo i medici degli ospedali locali, nell'operazione sono stati uccisi tre palestinesi; un altro è morto in un attacco aereo su al-Mughraqa e altri due in attacchi di droni a Gaza City e Deir el-Balah. Il ministero della Salute di Gaza, controllato da Hamas, conta sette morti e 15 feriti nelle ultime 24 ore.\n\nHamas ha definito l'operazione una violazione evidente della tregua, ha chiamato crimine di guerra le evacuazioni forzate e ne ha attribuito la responsabilità a Israele e agli Stati Uniti. Israele, da parte sua, sostiene di agire solo contro minacce dirette ai suoi soldati.",
+          "perche": "Perché conta: la tregua a Gaza, già fragile, è a rischio; pochi giorni fa l'Italia e altri paesi avevano chiesto a Israele di far entrare più aiuti.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
+            }
+          ],
+          "parole": [
+            "Gaza",
+            "Israele",
+            "Hamas",
+            "Nuseirat",
+            "tregua",
+            "linea gialla"
+          ]
+        },
+        {
+          "titolo": "Yemen, gli Houthi avanzano verso Aden. La coalizione saudita colpisce 60 obiettivi",
+          "testo": "In Yemen la guerra tra gli Houthi, il movimento armato sostenuto dall'Iran che controlla la capitale Sanaa, e il governo riconosciuto dalla comunità internazionale, appoggiato dall'Arabia Saudita, si è riaccesa con forza. Gli Houthi stanno avanzando verso Aden, la città del sud che fa da capitale provvisoria del governo: l'esercito governativo e i suoi alleati si sono ritirati dall'aeroporto di Dhubab e dalla zona dello stretto di Bab al-Mandeb, nell'ovest della provincia di Taiz, per difendere la città.\n\nLa coalizione guidata dall'Arabia Saudita ha detto di aver colpito martedì 60 obiettivi militari degli Houthi nelle province di Sanaa, Hodeidah, Amran e Saada, distruggendo gallerie usate come officine e depositi di missili balistici. Gli Houthi accusano i sauditi di aver ucciso e ferito diverse persone e di aver danneggiato case ed edifici pubblici.\n\nGli Houthi hanno risposto lanciando missili verso Riyadh: la coalizione dice di averne intercettati due mercoledì e un altro nella notte. Il loro portavoce sostiene di aver colpito stazioni di pompaggio del petrolio vicino alla capitale saudita e un radar nel sud del paese; Riyadh non ha confermato. A Taiz, intanto, si combatte duramente: le autorità locali accusano gli Houthi di bombardare quartieri civili, di assediare alcuni villaggi e di bloccare i medicinali, e hanno chiesto l'intervento dell'ONU.",
+          "perche": "Perché conta: lo stretto di Bab al-Mandeb è una delle rotte principali delle navi tra Asia ed Europa, compresi i traffici diretti verso i porti italiani.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz"
+            }
+          ],
+          "parole": [
+            "Yemen",
+            "Houthi",
+            "Aden",
+            "Arabia Saudita",
+            "Bab al-Mandeb",
+            "Taiz"
+          ]
+        }
+      ]
+    },
+    "economia": {
+      "articoli": [
+        {
+          "titolo": "Manovra, è scontro tra governo e banche. In Borsa i titoli bancari crollano",
+          "testo": "Il rapporto tra il governo e le banche italiane si è guastato per la legge di bilancio del 2027. Secondo i conti del Post, su una manovra di circa 26 miliardi banche e assicurazioni pagherebbero circa 4,4 miliardi di tasse in più nel 2027 e oltre 7 miliardi nel triennio 2027-2029, dopo i circa 15 miliardi già versati nel 2024 e nel 2025. Le misure: l'IRES, l'imposta sui profitti delle società, sale di 3 punti per le banche oltre alla maggiorazione già esistente, fino al 30,5% contro il 24% delle altre imprese; si riducono alcune deduzioni; si rinviano vantaggi fiscali al 2028-2029; raddoppia la tassa sulle transazioni finanziarie.\n\nC'è poi il nodo del Superbonus: le banche hanno comprato crediti fiscali da famiglie e imprese e contavano di recuperarne circa 20,5 miliardi nel 2027. La prima bozza spalmava il rimborso su dieci anni, ora il governo propone cinque. Il capo di Intesa Sanpaolo Carlo Messina ha definito la misura «sudamericana»; Andrea Orcel di UniCredit ha detto che le banche non possono servire a coprire i buchi di bilancio. Il ministro Giancarlo Giorgetti giustifica le tasse con i profitti molto alti delle banche; Matteo Salvini collega quei soldi alla pensione a 64 anni dal 2027. La Banca d'Italia giudica il peso sostenibile ma chiede regole fiscali stabili.\n\nMercoledì la Borsa di Milano ha chiuso in calo dell'1,3%, trascinata proprio dalle banche: Bper -3,6%, UniCredit -2,5%, Mps -2,2%, Intesa -2,1%. Secondo l'ANSA hanno pesato l'emendamento della Lega sull'IRES e l'ipotesi che la Banca centrale europea chieda più capitale alle banche. Male anche le altre borse europee. Lo spread tra titoli di Stato italiani e tedeschi è salito a 105,8 punti.",
+          "perche": "Perché conta: dalle tasse sulle banche dipende una parte importante della manovra, e quindi misure come le pensioni; ma le banche avvertono che potrebbero pagare i clienti.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/tassa-banche-extraprofitti-messina-orcel-superbonus-manovra/"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/borsa-leuropa-frena-nel-finale-con-wall-street-milano-13_c146a128-b330-4296-a142-b0fe96e49042.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1058-punti_0a2f64eb-fe60-4c56-8c1a-60ac1f8adfed.html"
+            }
+          ],
+          "parole": [
+            "manovra",
+            "banche",
+            "IRES",
+            "Superbonus",
+            "Messina",
+            "Giorgetti",
+            "Borsa"
+          ]
+        },
+        {
+          "titolo": "La Bce avverte: rischi alti da intelligenza artificiale, debiti pubblici e tensioni tra potenze",
+          "testo": "La Banca centrale europea ha pubblicato il suo rapporto di novembre sulla stabilità finanziaria, il documento in cui valuta due volte l'anno che cosa potrebbe mettere in crisi banche e mercati dell'area euro. Il vicepresidente Boris Vujčić ha detto che i rischi restano elevati, per l'incertezza geopolitica ed economica e per l'esposizione crescente all'intelligenza artificiale.\n\nI rischi principali indicati sono tre. Il primo è una possibile correzione brusca del boom finanziario legato all'intelligenza artificiale, cioè un calo improvviso dei titoli delle aziende del settore che oggi valgono moltissimo. Il secondo sono le tensioni geoeconomiche tra le grandi potenze, fatte di dazi, sanzioni e guerre. Il terzo sono i conti pubblici squilibrati delle maggiori economie avanzate: finora i mercati hanno funzionato in modo ordinato, ma restano possibili correzioni improvvise.\n\nLa Bce nota che le preoccupazioni sul debito, aggravate dall'incertezza politica, stanno facendo salire gli spread di alcuni paesi molto indebitati. In particolare si è allargata molto la distanza tra i titoli di Stato francesi e quelli tedeschi, perché i mercati temono le elezioni del 2027 in Francia, e l'effetto si è esteso ad altri paesi; i Bund tedeschi, considerati un porto sicuro, ne hanno approfittato. Mercoledì il rendimento del decennale francese era al 4,86%, sopra quello italiano al 4,42%. Il rapporto segnala anche che emettere debito a scadenze più brevi, oggi conveniente per gli Stati, aumenta il rischio di doverlo rinnovare in momenti difficili.",
+          "perche": "Perché conta: l'Italia ha un debito pubblico molto alto; se i mercati diventano nervosi sui debiti, il costo degli interessi sale per lo Stato e, a cascata, per mutui e prestiti.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/18/bce-rischi-elevati-da-ia-bilanci-pubblici-e-tensioni-geoeconomiche_9ea2ad1f-438f-4066-82ab-9755b9622136.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-rialzo-a-1058-punti_0a2f64eb-fe60-4c56-8c1a-60ac1f8adfed.html"
+            }
+          ],
+          "parole": [
+            "Bce",
+            "stabilità finanziaria",
+            "intelligenza artificiale",
+            "spread",
+            "Francia",
+            "debito pubblico"
+          ]
+        },
+        {
+          "titolo": "L'Unione Europea propone un nuovo prestito fino a 45 miliardi all'Ucraina per il 2027",
+          "testo": "La Commissione Europea ha proposto un nuovo prestito all'Ucraina fino a 45 miliardi di euro per il 2027: circa 25 miliardi per comprare armi e circa 20 per le spese non militari dello Stato, come scuole e ospedali. Si aggiunge al prestito da 90 miliardi approvato ad aprile per il 2026 e il 2027. Il governo ucraino, visti i costi crescenti, aveva chiesto circa 70 miliardi in più; secondo Al Jazeera, anche se la proposta passasse, per il prossimo anno resterebbe un buco di circa 25 miliardi.\n\nIl prestito sarebbe finanziato con debito comune europeo e dovrebbe essere restituito dalla Russia come risarcimento dei danni di guerra. Se questo non accadesse, ha detto la Commissione, si potrebbero usare i beni russi congelati in Europa per le sanzioni. Lunedì intanto Kyiv ha ricevuto 1,71 miliardi da un prestito già in corso, destinati a droni, munizioni e difesa aerea.\n\nLa proposta è solo il primo passo: deve essere approvata dal Parlamento Europeo e dal Consiglio, dove siedono i governi, e sarà discussa dai capi di Stato e di governo nel Consiglio europeo straordinario del 25 e 26 novembre. Non tutti sono d'accordo: Bulgaria, Ungheria, Repubblica Ceca e Slovacchia hanno detto che non parteciperanno al prossimo giro di finanziamenti. L'Ungheria, nonostante il nuovo governo più vicino a Bruxelles, resta contraria agli aiuti militari.",
+          "perche": "Perché conta: il debito comune europeo coinvolge anche l'Italia, e senza questi soldi l'Ucraina faticherebbe a pagare stipendi, servizi e difesa.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/commissione-europea-prestito-ucraina/"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/18/volenterosi-a-berlino-sulle-garanzie-per-kiev.-roma-non-manderemo-truppe_e12db7a9-644d-4b5e-9c5c-f22b4db48772.html"
+            }
+          ],
+          "parole": [
+            "Ucraina",
+            "Commissione Europea",
+            "prestito",
+            "beni russi congelati",
+            "Consiglio europeo"
+          ]
+        }
+      ]
+    },
+    "tech": {
+      "articoli": [
+        {
+          "titolo": "Anthropic, la quotazione in Borsa più grande della storia: 81 miliardi di dollari",
+          "testo": "Anthropic, l'azienda americana di intelligenza artificiale che sviluppa l'assistente Claude, ha fissato il prezzo delle sue azioni per lo sbarco in Borsa a 83 dollari, sopra la forchetta di 70-78 dollari indicata la settimana scorsa. Visto l'interesse, l'azienda e i suoi sette fondatori hanno venduto circa 980 milioni di azioni invece degli 825 milioni previsti, raccogliendo 81,3 miliardi di dollari: è la quotazione più ricca di sempre, sopra quella di SpaceX di giugno (75 miliardi, o poco più di 85 contando le azioni aggiuntive). Altri 26 miliardi arrivano da un collocamento privato riservato a grandi aziende come Nvidia e Google. Le contrattazioni cominciano oggi; il Post indica la Borsa di New York, l'ANSA il Nasdaq.\n\nAnthropic vale circa 1.500 miliardi di dollari, meno dei oltre 2.000 di inizio anno. È nata poco più di cinque anni fa e cresce in fretta: nei primi nove mesi del 2026 ha avuto ricavi per 33 miliardi, contro 4,6 in tutto il 2025. Non guadagna ancora: secondo i dati riportati da entrambi i giornali, nello stesso periodo ha perso 104 miliardi.\n\nChi compra le azioni avrà poco potere: i fondatori conservano il 50,1% dei voti con una categoria speciale di azioni, e la maggior parte del consiglio di amministrazione è scelta da un fondo indipendente creato per tutelare la missione dichiarata di sviluppare un'intelligenza artificiale sicura. Critici citati dal Post dubitano che questa struttura basti a frenare la ricerca del profitto.\n\nIl debutto è considerato un test per tutto il settore, dopo lo scandalo che ha travolto Nvidia e i timori di una bolla. OpenAI, l'azienda di ChatGPT, dovrebbe quotarsi nel 2027.",
+          "perche": "Perché conta: dall'andamento di Anthropic in Borsa si capirà quanto gli investitori credono ancora nell'intelligenza artificiale, che pesa ormai su tutti i mercati, anche su quelli europei.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/19/ipo-anthropic-piu-alta-di-sempre/"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/19/anthropic-amplia-la-sua-ipo-a-81-miliardi-batte-quella-di-spacex-di-musk_b426c2fd-bd23-4965-a19e-0d17b6b400ad.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/18/anthropic-pronta-alla-maxi-quotazione-test-per-lia-dopo-nvidia_dfa59b00-bf9f-4c12-a1dd-94aa8fa3e1f1.html"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/18/anthropic-struttura-societaria/"
+            }
+          ],
+          "parole": [
+            "Anthropic",
+            "Claude",
+            "Borsa",
+            "quotazione",
+            "intelligenza artificiale",
+            "OpenAI"
+          ]
+        },
+        {
+          "titolo": "Esce GTA VI dopo 13 anni di attesa: recensioni entusiaste e prenotazioni record",
+          "testo": "Da questa notte è disponibile Grand Theft Auto VI, il nuovo capitolo della serie di videogiochi di Rockstar Games, la casa di New York che l'ha creata nel 1997. È il primo episodio principale dopo GTA V, uscito nel 2013, e arriva dopo due rinvii: doveva uscire nel 2025. Si gioca solo su console, PlayStation 5 e Xbox Series, e i giocatori hanno potuto scaricarlo in tutto il mondo dalla mezzanotte.\n\nLe recensioni sono state eccezionali: sul sito Metacritic, che raccoglie i voti della critica, la media è di 99 su 100 su più di 150 recensioni, e diversi critici lo hanno definito un capolavoro. Secondo la società di analisi Sensor Tower, al 17 novembre le prenotazioni avevano superato i 15,8 milioni di copie, per un incasso di 1,54 miliardi di dollari: con ogni probabilità sarà il lancio più redditizio della storia dei videogiochi, un'industria che vale circa 350 miliardi di dollari l'anno. Lo sviluppo sarebbe costato più di un miliardo.\n\nIl gioco racconta una coppia di criminali, Jason Duval e Lucia Caminos, nello stato immaginario di Leonida e nella sua città costiera, Vice City, ispirate alla Florida e a Miami. Come i capitoli precedenti contiene molta violenza: furti d'auto, investimenti di passanti, sparatorie con la polizia. Il successo era atteso da anni, e lo dimostra l'attesa che si è vista in tutto il mondo nelle ore prima del lancio, con i fan che da Tokyo a Miami aspettavano la mezzanotte per cominciare a giocare.",
+          "perche": "Perché conta: è uno degli eventi culturali e commerciali più attesi dell'anno, e mostra quanto i videogiochi siano ormai un'industria più grande di cinema e musica.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/videogallery/mondo/2026/11/18/febbre-da-gta-vi-in-tutto-il-mondo-a-poche-ore-dal-lancio-del-videogioco_38f40c33-c69b-4257-8e89-7f9141d73ca4.html"
+            }
+          ],
+          "parole": [
+            "GTA VI",
+            "Grand Theft Auto",
+            "Rockstar Games",
+            "videogiochi",
+            "PlayStation",
+            "Xbox"
+          ]
+        },
+        {
+          "titolo": "Nadella (Microsoft): un'intelligenza artificiale dominante sarebbe un rischio per la democrazia",
+          "testo": "Satya Nadella, amministratore delegato di Microsoft, ha parlato con i giornalisti a San Francisco durante Ignite, la conferenza annuale dell'azienda. Ha detto che se il mercato dell'intelligenza artificiale finisse nelle mani di una sola azienda ci sarebbero rischi economici e politici. Secondo Nadella, lo sviluppo di un'intelligenza artificiale «generale», capace di fare quasi tutto ciò che fa un essere umano, potrebbe cambiare la struttura stessa dell'economia.\n\nInterpellato sulle ultime mosse di Anthropic, concorrente di Microsoft che proprio in questi giorni si quota in Borsa, Nadella ha detto che la sfida non è più solo commerciale ma politica e sociale: l'intelligenza artificiale, ha spiegato, potrebbe arrivare a svolgere quasi qualsiasi ruolo, perfino quello di governare. Se un solo modello assorbisse gran parte del lavoro umano, sarebbero a rischio sia la stabilità economica sia la democrazia. Per questo Microsoft punta a offrire alle aziende più modelli diversi tra cui scegliere, così che possano controllare meglio i propri dati.\n\nNadella ha aggiunto che i modelli attuali, compreso Claude di Anthropic, non sono coscienti, pur definendo la questione un dibattito interessante, e si è detto d'accordo con Mustafa Suleyman, capo della divisione di intelligenza artificiale di Microsoft, secondo cui non bisogna riconoscere diritti ai modelli. Negli stessi giorni, al vertice APEC di Shenzhen, il presidente cinese Xi Jinping ha chiesto più cooperazione internazionale sull'intelligenza artificiale.",
+          "perche": "Perché conta: chi controllerà l'intelligenza artificiale è diventata una questione politica, e i grandi del settore cominciano a dirlo apertamente.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/18/nadella-microsoft-sullia-non-ha-limiti-potrebbe-persino-guidare-il-governo_706d2462-3f15-46b4-b1c7-fc2fb4dea81b.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/18/xi-serve-maggiore-cooperazione-internazionale-sullintelligenza-artificiale_60128e11-b137-421a-aca9-3ecdbab644dd.html"
+            }
+          ],
+          "parole": [
+            "Satya Nadella",
+            "Microsoft",
+            "intelligenza artificiale",
+            "Anthropic",
+            "democrazia",
+            "Xi Jinping"
+          ]
+        }
+      ]
+    },
+    "clima": {
+      "articoli": [
+        {
+          "titolo": "COP31, scontro sulla scienza del clima: Russia, Arabia Saudita e India accusate di frenare l'IPCC",
+          "testo": "Ad Antalya, in Turchia, la conferenza dell'ONU sul clima entra negli ultimi due giorni: dovrebbe chiudersi venerdì 20 novembre, ma servono decisioni prese all'unanimità e spesso i negoziati vanno oltre. Uno dei nodi più duri riguarda l'IPCC, il gruppo di scienziati dell'ONU che dal 1988 riassume le ricerche sul clima. Secondo diplomatici ed esperti sentiti da Inside Climate News, Russia, Arabia Saudita e India stanno bloccando i lavori sui prossimi rapporti. Russia e Arabia Saudita sono grandi produttori di petrolio e gas; l'India consuma circa il 14% del carbone mondiale.\n\nLa diplomatica francese Laurence Tubiana, tra gli autori dell'accordo di Parigi, parla di un attacco serio e molto politico alla scienza; l'ex presidente irlandese Mary Robinson ricorda che i paesi più poveri e le piccole isole hanno bisogno dei rapporti dell'IPCC perché non possono fare da soli le loro valutazioni. Molti paesi europei, africani e del Pacifico vogliono che il nuovo rapporto esca prima del 2028, quando si farà il bilancio degli sforzi mondiali; l'IPCC ha sospeso l'ultima riunione senza accordo e ne terrà un'altra a dicembre. La delegazione saudita, riportano AFP e Al Jazeera, nega di voler ritardare la scienza e dice di volere solo tempi adeguati per le revisioni. L'IPCC, inoltre, non ha ancora un bilancio per il prossimo anno.\n\nSul tavolo c'è una bozza di decisione finale di 18 pagine, presentata lunedì dall'Australia, che guida i negoziati: chiede di accelerare l'uscita dai combustibili fossili e, secondo Carbon Brief, i paesi produttori di petrolio guidati dall'Arabia Saudita si oppongono anche all'obiettivo di elettrificazione. Il commissario europeo Wopke Hoekstra teme che un testo così lungo renda il negoziato ingestibile; il ministro australiano Chris Bowen ha detto che arriverà almeno un'altra bozza.",
+          "perche": "Perché conta: senza i rapporti dell'IPCC i governi, compreso quello italiano, avrebbero meno basi scientifiche per decidere come ridurre le emissioni e adattarsi al caldo.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/18112026/cop31-russia-saudi-arabia-india-blocking-progress/"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"
+            },
+            {
+              "nome": "Carbon Brief",
+              "url": "https://www.carbonbrief.org/daily-briefing-cover-decision-outrage-saudis-disrupt-cop31-uk-ev-warning"
+            }
+          ],
+          "parole": [
+            "COP31",
+            "Antalya",
+            "IPCC",
+            "Arabia Saudita",
+            "Russia",
+            "India",
+            "combustibili fossili"
+          ]
+        },
+        {
+          "titolo": "COP31, niente accordo sull'agricoltura e il fondo per le foreste è ancora a corto di soldi",
+          "testo": "Alla COP31 i paesi non sono riusciti, ancora una volta, a mettersi d'accordo sull'unico negoziato dedicato all'agricoltura: la questione è stata rinviata alle riunioni intermedie di Bonn, ha ricostruito Carbon Brief. Gli scontri hanno riguardato le misure commerciali e i soldi per aiutare gli agricoltori ad adattarsi al cambiamento climatico. Nella bozza di decisione finale del 16 novembre sono sparite le parole «sistemi alimentari», che c'erano nei documenti precedenti, mentre restano le «soluzioni basate sulla natura» e un sostegno alla tabella di marcia contro la deforestazione voluta dal Brasile. Gli oceani sono citati 21 volte.\n\nVa a rilento anche il fondo Tropical Forest Forever, ideato dal Brasile per pagare i paesi che proteggono le foreste tropicali. Ha raccolto 8,2 miliardi di dollari, soprattutto come prestiti con condizioni, e gli mancano 1,8 miliardi per arrivare ai 10 miliardi di capitale pubblico e filantropico previsti quest'anno. Il Canada ha promesso fino a 393 milioni in quattro anni, ma al vertice sulle foreste dell'11 novembre i nuovi contributi sono stati solo 88 milioni. Per ridurre i rischi il fondo distribuirà i soldi su dieci anni invece di quattro, e secondo alcuni critici così non potrà pagare quanto promesso per ogni ettaro di foresta.\n\nCi sono state anche iniziative volontarie: una per le torbiere, gli ambienti umidi che conservano enormi quantità di carbonio, punta a raccogliere almeno 100 miliardi e a recuperarne 30 milioni di ettari entro il 2030; un'altra per proteggere gli oceani. Uno studio uscito su Nature Sustainability conclude che limitare il riscaldamento a 1,5 gradi è impossibile senza ridurre le emissioni di agricoltura e foreste.",
+          "perche": "Perché conta: l'agricoltura è tra i settori più colpiti dal clima che cambia, anche in Italia, ed è anche una fonte importante di emissioni.",
+          "fonti": [
+            {
+              "nome": "Carbon Brief",
+              "url": "https://www.carbonbrief.org/cropped-18-november-2026-cop31-special-edition"
+            }
+          ],
+          "parole": [
+            "COP31",
+            "agricoltura",
+            "foreste",
+            "Tropical Forest Forever",
+            "torbiere",
+            "Brasile"
+          ]
+        },
+        {
+          "titolo": "Pennsylvania, centinaia di migliaia di vecchi pozzi di petrolio abbandonati perdono metano",
+          "testo": "In Pennsylvania, lo stato americano dove nel 1859 fu scavato il primo pozzo di petrolio commerciale degli Stati Uniti, ci sono tra 300.000 e 750.000 pozzi di petrolio e gas abbandonati e mai chiusi. Lo racconta un'inchiesta di Inside Climate News e del Pittsburgh Post-Gazette, che hanno costruito una mappa interattiva con i dati dell'agenzia ambientale dello stato: chiunque può inserire un indirizzo e vedere i pozzi vicini.\n\nI pozzi abbandonati possono perdere metano, un gas che riscalda il pianeta molto più dell'anidride carbonica, e altre sostanze come il benzene. Il metano può causare esplosioni nelle case: quasi un quarto dei pozzi abbandonati dello stato si trova a poche decine di metri da un edificio, e alcuni sono sotto case, scuole e asili. Possono anche inquinare le falde d'acqua, un rischio serio in uno stato dove molte famiglie usano pozzi privati. L'agenzia ambientale americana stima che le perdite dei pozzi abbandonati valgano circa il 4% delle emissioni dell'intera industria del petrolio e del gas negli Stati Uniti; il 99% dei pozzi non è mai stato misurato.\n\nDal 1989 lo stato ne ha chiusi circa 3.800, più altri 500 grazie ai fondi federali arrivati dal 2022: una minima parte. Chiudere un pozzo costa in media oltre 100.000 dollari, mentre le garanzie chieste alle compagnie sono di poche migliaia di dollari, e molte imprese falliscono o spariscono prima di sigillarli. Gli esperti chiedono di cambiare le regole perché il conto non finisca ai contribuenti.",
+          "perche": "Perché conta: mostra il costo nascosto e di lunghissimo periodo dell'estrazione di combustibili fossili, un problema che riguarda tutte le zone petrolifere, anche in Europa.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/18112026/pennsylvania-aging-unplugged-oil-wells/"
+            }
+          ],
+          "parole": [
+            "Pennsylvania",
+            "pozzi abbandonati",
+            "metano",
+            "petrolio",
+            "Stati Uniti",
+            "inquinamento"
+          ]
+        }
+      ]
+    }
+  }
+}
