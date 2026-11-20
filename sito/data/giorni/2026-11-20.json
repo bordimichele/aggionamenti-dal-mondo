@@ -1,0 +1,244 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-20",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Agenzia internazionale dell'energia: entro il 2030 le emissioni dei centri dati cresceranno del 70%, spinte da gas e carbone",
+          "testo": "Il 19 novembre l'Agenzia internazionale dell'energia (IEA), l'organismo che consiglia i governi dei Paesi industrializzati sull'energia, ha pubblicato il suo rapporto annuale World Energy Outlook. Uno dei capitoli più attesi riguarda i centri dati, i grandi capannoni pieni di computer che fanno funzionare internet e, sempre di più, l'intelligenza artificiale. La stima principale: entro il 2030 il consumo di elettricità dei centri dati nel mondo raddoppierà, arrivando a circa 1.000 terawattora l'anno, e le loro emissioni di anidride carbonica cresceranno di circa il 70%.\n\nIl motivo è che una parte importante dell'elettricità in più arriverà da centrali a gas e a carbone. Già oggi, secondo l'IEA, circa il 60% dell'elettricità che arriva fisicamente ai centri dati viene da questi combustibili. Tra il 2025 e il 2030 gas e fonti rinnovabili insieme dovrebbero coprire circa l'80% della crescita, ma con grandi differenze: negli Stati Uniti il gas fornirà circa il 60% dell'energia dei centri dati, in Cina il carbone potrebbe superare la metà, mentre nell'Unione europea le rinnovabili dovrebbero arrivare a circa due terzi.\n\nIl rapporto ricorda un punto spesso trascurato: quasi metà della domanda dei centri dati commerciali è coperta da contratti di acquisto di energia rinnovabile, ma questi contratti pareggiano il consumo sull'anno intero, non ora per ora. Di notte o senza vento il centro dati continua a prendere dalla rete l'elettricità che c'è, spesso fossile.\n\nPer seguire la crescita l'IEA ha usato immagini satellitari per controllare i cantieri di 93 grandi centri dati per l'AI, trovando una capacità moltiplicata per dieci in due anni. Meno di cento grandi progetti dedicati all'AI richiederebbero insieme circa 50 gigawatt, più o meno il picco di consumo elettrico della Gran Bretagna. Gli investimenti nel settore dovrebbero arrivare a circa 4.000 miliardi di dollari entro il 2030, dopo i 565 miliardi del 2025; circa tre quarti della crescita serve all'AI.\n\nSono proiezioni, non misure: dipendono da quanti progetti verranno davvero costruiti e da quanto in fretta cresceranno le reti elettriche, che in diversi mercati non basterebbero se tutti i centri annunciati venissero completati.",
+          "perche": "È la stima più autorevole di quanto la corsa all'intelligenza artificiale peserà sul clima e sulle reti elettriche nei prossimi cinque anni.",
+          "fonti": [
+            {
+              "nome": "Data Centre Review",
+              "url": "https://datacentrereview.com/2026/11/data-centre-emissions-on-course-to-rise-70-by-2030-iea-warns/"
+            },
+            {
+              "nome": "Bloomberg (via Energy Connects)",
+              "url": "https://www.energyconnects.com/news/utilities/2026/november/iea-sees-data-center-boom-pushing-power-grids-to-the-limit/"
+            }
+          ],
+          "parole": [
+            "centri dati",
+            "data center",
+            "IEA",
+            "World Energy Outlook",
+            "emissioni",
+            "energia",
+            "intelligenza artificiale"
+          ]
+        },
+        {
+          "titolo": "Il robot chirurgico Hugo di Medtronic ottiene il via libera americano per la chirurgia generale: colecisti, ernie, bypass gastrico",
+          "testo": "Il 17 novembre l'azienda di dispositivi medici Medtronic ha annunciato che la FDA, l'ente americano che autorizza farmaci e apparecchi medici, ha esteso l'autorizzazione del suo robot chirurgico Hugo alla chirurgia generale. Hugo aveva ricevuto il primo via libera negli Stati Uniti nel dicembre 2025, ma solo per interventi di urologia come la rimozione della prostata.\n\nOra può essere usato anche per alcuni degli interventi più comuni dell'addome: la rimozione della colecisti, il bypass gastrico per l'obesità, la riparazione delle ernie della parete addominale e dell'inguine, la resezione di un tratto di intestino tenue e l'appendicectomia. Secondo Medtronic, queste operazioni sono circa 3,5 milioni l'anno negli Stati Uniti, più di metà degli interventi sui tessuti molli.\n\nCome funziona: in un intervento robotico il chirurgo non tiene gli strumenti in mano, ma li guida da una console, mentre bracci meccanici li muovono dentro il corpo attraverso piccoli fori. Hugo è modulare: l'équipe può usare solo i bracci che servono per quell'intervento. La console del chirurgo è «aperta», non chiusa come una cabina. Con Hugo si può usare anche LigaSure, lo strumento di Medtronic che chiude e taglia i vasi sanguigni.\n\nIl punto è soprattutto la concorrenza. Da circa venticinque anni il mercato americano dei robot per i tessuti molli è dominato dal da Vinci di Intuitive Surgical. A luglio 2026 Johnson & Johnson ha ottenuto l'autorizzazione per il suo robot Ottava in chirurgia generale, e Stryker distribuirà negli Stati Uniti il Versius di CMR Surgical. Più offerta può voler dire prezzi più bassi per gli ospedali.\n\nChe cosa manca: il comunicato non riporta dati clinici, numero di pazienti o risultati degli interventi. L'autorizzazione è di tipo 510(k), che si basa sull'equivalenza con apparecchi già in commercio; i confronti con il da Vinci sugli esiti per i pazienti dovranno venire da studi indipendenti.",
+          "perche": "Allarga la scelta di robot chirurgici negli ospedali americani per gli interventi più frequenti, in un mercato finora quasi in mano a un solo produttore.",
+          "fonti": [
+            {
+              "nome": "Medtronic (comunicato)",
+              "url": "https://news.medtronic.com/2026-11-17-Medtronic-announces-FDA-clearance-of-general-surgery-procedures-for-the-Hugo-TM-robotic-assisted-surgery-RAS-system"
+            },
+            {
+              "nome": "MD+DI",
+              "url": "https://www.mddionline.com/robotics/medtronic-secures-fda-clearance-to-expand-hugo-robotic-system-into-general-surgery"
+            }
+          ],
+          "parole": [
+            "robot chirurgico",
+            "Hugo",
+            "Medtronic",
+            "chirurgia robotica",
+            "FDA",
+            "da Vinci"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Alzheimer: dopo due anni il farmaco anti-tau diranersen di Biogen rallenta il declino più che a 18 mesi, ma il confronto non è più randomizzato",
+          "testo": "Il 17 novembre, al congresso CTAD di Boston dedicato agli studi clinici sull'Alzheimer, Biogen ha presentato i dati a due anni del suo farmaco sperimentale diranersen (sigla BIIB080), scoperto dall'azienda Ionis. È diverso dai farmaci anti-amiloide già approvati: colpisce la tau, l'altra proteina che si accumula nel cervello dei malati e che è legata più da vicino alla perdita della memoria.\n\nCome funziona: diranersen è un «oligonucleotide antisenso», un breve filamento di materiale genetico che si attacca al messaggio con cui le cellule costruiscono la tau e lo fa distruggere, così di tau se ne produce meno. Si inietta nel liquido che circonda il midollo spinale, con una puntura lombare.\n\nLo studio, chiamato CELIA, è di fase 2: 416 persone con decadimento cognitivo lieve o demenza lieve da Alzheimer, divise a caso tra tre dosi e placebo. A maggio Biogen aveva comunicato che l'obiettivo principale, una relazione chiara tra dose ed effetto a 76 settimane, non era stato raggiunto. Ma la dose più bassa, 60 mg ogni sei mesi, aveva rallentato il declino del 26% sulla scala clinica più usata (CDR-SB).\n\nI nuovi dati: a 96 settimane, nei 60 pazienti con la dose bassa, il rallentamento sale al 38% sulla CDR-SB rispetto ai 115 del gruppo placebo, con miglioramenti anche su quasi tutte le altre scale (memoria e linguaggio dal 42% al 54%, attività quotidiane dallo 0% al 30%); fa eccezione il test MMSE, sceso dal 50% al 38%. Gli esami mostrano meno tau nel cervello e meno segnali di tau nel sangue e nel liquido spinale. Secondo Biogen non sono emersi nuovi problemi di sicurezza.\n\nI limiti sono importanti. Dopo 76 settimane lo studio è proseguito in aperto, e i pazienti del gruppo placebo nel frattempo avevano ricevuto al massimo una dose: il confronto a due anni non è più tra gruppi sorteggiati, i numeri sono piccoli e, secondo gli analisti citati da BioSpace, le differenze non sono statisticamente significative. Biogen ha detto che porterà la dose da 60 mg in uno studio di fase 3, l'unico che potrà confermare l'effetto.",
+          "perche": "È il segnale più incoraggiante finora per un farmaco che colpisce la tau, una strada diversa dai farmaci anti-amiloide, anche se la prova decisiva deve ancora arrivare.",
+          "fonti": [
+            {
+              "nome": "Biogen (comunicato)",
+              "url": "https://investors.biogen.com/news-releases/news-release-details/biogens-diranersen-demonstrates-increasing-clinical-benefit-two"
+            },
+            {
+              "nome": "BioSpace",
+              "url": "https://www.biospace.com/drug-development/ctad-2026-biogen-aribio-lead-the-way-in-slowing-cognitive-decline-in-alzheimers"
+            }
+          ],
+          "parole": [
+            "Alzheimer",
+            "tau",
+            "diranersen",
+            "BIIB080",
+            "Biogen",
+            "antisenso",
+            "CTAD"
+          ]
+        },
+        {
+          "titolo": "Alzheimer: la pillola AR1001 fallisce nella fase 3 sul totale dei pazienti, ma rallenta il declino del 31% in chi la prende da sola",
+          "testo": "Allo stesso congresso CTAD di Boston l'azienda sudcoreana AriBio ha presentato i risultati di POLARIS-AD, uno studio di fase 3, cioè l'ultima fase prima della richiesta di approvazione, sulla sua pillola AR1001 per l'Alzheimer in fase iniziale. I pazienti arruolati erano 1.535.\n\nAR1001 appartiene alla stessa famiglia di farmaci del sildenafil, i cosiddetti inibitori della PDE5, che allargano i vasi sanguigni. L'idea è che nel cervello lo stesso meccanismo migliori la circolazione e attivi segnali che proteggono i neuroni. A differenza dei farmaci anti-amiloide già approvati, si prende per bocca e non richiede infusioni in ospedale.\n\nSul totale dei pazienti il risultato non ha raggiunto la significatività statistica: la differenza con il placebo poteva essere dovuta al caso. Lo studio aveva però due obiettivi principali, e il secondo riguardava le 604 persone che prendevano AR1001 senza altri farmaci per l'Alzheimer: in questo gruppo il declino è stato più lento del 31% rispetto al placebo, un risultato che secondo l'azienda soddisfa i criteri di successo fissati in anticipo. Tra gli effetti indesiderati è più frequente la diarrea (7,7% contro 4,4% con il placebo), con più persone che hanno smesso la cura.\n\nAriBio vuole discutere i dati con la FDA. Un risultato positivo solo in una parte dei pazienti va però preso con prudenza: le autorità di solito chiedono prove sulla popolazione intera o un nuovo studio che confermi il beneficio nel sottogruppo.\n\nAl congresso sono arrivati anche altri risultati misti: la molecola PRI-002 della tedesca Priavoid, in uno studio di fase 2 su 304 pazienti, ha mancato l'obiettivo principale a 48 settimane, con un rallentamento non significativo tra il 12% e il 18,8% in un sottogruppo seguito per 72 settimane; i dati completi sono attesi nel 2027.",
+          "perche": "Una pillola economica contro il declino dell'Alzheimer sarebbe molto più facile da usare dei farmaci per infusione; il risultato parziale tiene aperta la strada ma non la dimostra.",
+          "fonti": [
+            {
+              "nome": "BioSpace",
+              "url": "https://www.biospace.com/drug-development/ctad-2026-biogen-aribio-lead-the-way-in-slowing-cognitive-decline-in-alzheimers"
+            }
+          ],
+          "parole": [
+            "Alzheimer",
+            "AR1001",
+            "AriBio",
+            "fase 3",
+            "PDE5",
+            "CTAD"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "L'ESA sceglie Plasma Observatory: sette sonde in formazione per capire come il Sole scarica energia nello scudo magnetico della Terra",
+          "testo": "Il 19 novembre l'Agenzia spaziale europea ha comunicato che i suoi Stati membri hanno scelto Plasma Observatory come prossima missione scientifica di classe media, la categoria delle missioni da alcune centinaia di milioni di euro. A giugno il comitato del programma scientifico l'aveva indicata come favorita tra tre finaliste, rinviando la decisione formale alla riunione di novembre. Le altre due erano un orbiter per Marte con due sonde (M-MATISSE) e un telescopio a raggi gamma e X per l'universo primordiale (THESEUS).\n\nChe cosa studierà: il plasma, cioè gas così caldo che i suoi atomi hanno perso gli elettroni e diventa sensibile ai campi magnetici. Il vento solare è plasma, e quando colpisce la magnetosfera, il «guscio» magnetico che protegge la Terra, si formano onde d'urto, turbolenze e punti dove le linee del campo magnetico si spezzano e si riconnettono liberando energia. Sono gli stessi processi che danno le aurore e le tempeste magnetiche capaci di disturbare satelliti e reti elettriche.\n\nLa novità è guardare contemporaneamente su scale diverse. Plasma Observatory userà sette sonde identiche disposte come due tetraedri incastrati, a distanze tra di loro da decine a migliaia di chilometri. Riprende l'esperienza di missioni come Cluster dell'ESA, con quattro sonde in volo per circa venticinque anni, e MMS della NASA, che però non potevano coprire tante scale insieme. Il costo indicato nei documenti di studio è di circa 670 milioni di euro e il lancio è previsto attorno al 2037.\n\nPartecipano molti istituti europei: per esempio l'Osservatorio di Parigi scriverà il software di volo degli strumenti che misurano le particelle, e l'Istituto di fisica dell'atmosfera di Praga costruirà l'analizzatore delle onde di plasma.\n\nOra la missione passa alla fase di progettazione dettagliata. Il contenuto scientifico e il calendario potranno ancora cambiare, come succede spesso per le missioni spaziali di questa durata.",
+          "perche": "È la prossima grande missione scientifica europea e servirà a prevedere meglio il «meteo spaziale», che può danneggiare satelliti, comunicazioni e reti elettriche.",
+          "fonti": [
+            {
+              "nome": "ESA, notizie del 19 novembre",
+              "url": "https://www.esa.int/news-media/news"
+            },
+            {
+              "nome": "ESA (giugno 2026)",
+              "url": "https://www.esa.int/Science_Exploration/Space_Science/ESA_science_missions_get_green_light_for_new_discoveries"
+            },
+            {
+              "nome": "Osservatorio di Parigi",
+              "url": "https://observatoiredeparis.psl.eu/the-paris-observatory-psl-5603.html"
+            }
+          ],
+          "parole": [
+            "ESA",
+            "Plasma Observatory",
+            "magnetosfera",
+            "meteo spaziale",
+            "vento solare",
+            "missione spaziale"
+          ]
+        },
+        {
+          "titolo": "Una balena fossile di 6 milioni di anni fa con il muso più storto mai visto in un mammifero: cercava cibo sul fondo del mare",
+          "testo": "Un gruppo di paleontologi guidato da Aldo Benites-Palomino dell'Università di Zurigo ha descritto sulla rivista Communications Biology una specie estinta di capodoglio pigmeo, chiamata Scaphokogia huachafo. In spagnolo del Perù «huachafo» vuol dire più o meno pacchiano, esagerato. Il cranio era stato trovato negli anni Novanta nella formazione di Pisco, un deserto del sud del Perù famoso per i fossili marini conservati benissimo, ed era rimasto nel museo di storia naturale di Lima.\n\nL'animale, lungo circa 2,7 metri, visse tra 6,3 e 5,6 milioni di anni fa. Il suo cranio è il più asimmetrico conosciuto tra balene e delfini, e forse tra tutti i mammiferi: entrambe le narici ossee si trovano interamente sul lato sinistro e le ossa della faccia hanno dimensioni e posizioni diverse tra destra e sinistra. Anche i capodogli di oggi hanno il cranio un po' storto, ma molto meno.\n\nAll'inizio i ricercatori pensavano che la forma fosse dovuta alla pressione dei sedimenti dopo la morte. Hanno escluso questa ipotesi perché le suture tra le ossa sono chiuse e non ci sono fratture né deformazioni nel resto del cranio: l'asimmetria era quindi naturale.\n\nSecondo gli autori il muso, grande, a forma di tubo e molto denso, faceva da zavorra ed era rivolto verso il basso di 31 gradi; ricostruendo l'articolazione con la prima vertebra, la testa poteva piegarsi fino a 55 gradi. Questo fa pensare a un animale che cercava prede sul fondale di acque costiere poco profonde, forse usando l'ecolocalizzazione per trovarle sotto la sabbia, al contrario dei capodogli di oggi che cacciano in profondità. La nicchia sarebbe scomparsa con il cambiare dei mari alla fine del Miocene.\n\nIl limite è che lo studio si basa su un solo esemplare, e il modo di nutrirsi è dedotto dalla forma delle ossa, non osservato.",
+          "perche": "Mostra quanto i cetacei antichi fossero più vari di quelli di oggi e come una parentela dei capodogli abbia tentato una strada di vita oggi scomparsa.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (Università di Zurigo)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+            }
+          ],
+          "parole": [
+            "paleontologia",
+            "balena fossile",
+            "capodoglio",
+            "Scaphokogia",
+            "Perù",
+            "Miocene",
+            "asimmetria"
+          ]
+        },
+        {
+          "titolo": "Una supernova di tipo Ia nella galassia NGC 1433 raggiunge il massimo in questi giorni: visibile anche con telescopi amatoriali",
+          "testo": "Il 2 novembre il sistema automatico di sorveglianza del cielo ATLAS ha scoperto una nuova stella nella galassia a spirale NGC 1433, a circa 50 milioni di anni luce da noi, nella costellazione australe dell'Orologio. Le osservazioni successive hanno confermato che si tratta di una supernova giovane di tipo Ia, chiamata SN 2026ahvu.\n\nUna supernova di tipo Ia nasce da una nana bianca, il nucleo spento di una stella come il Sole, che ruba materia a una stella compagna finché supera un limite di massa ed esplode. Queste esplosioni hanno una luminosità quasi sempre uguale: per questo gli astronomi le usano come «candele campione» per misurare le distanze delle galassie e quanto velocemente si espande l'universo. È stato proprio con queste supernove che, alla fine degli anni Novanta, si è scoperto che l'espansione sta accelerando.\n\nQuesta è particolarmente utile perché è stata vista molto presto e in una galassia relativamente vicina. Al momento della scoperta aveva magnitudine 17 (molto debole), in pochi giorni è salita a 13,5 e, secondo le previsioni riportate da BBC Sky at Night Magazine, dovrebbe toccare il massimo tra magnitudine 10,5 e 12 tra il 18 e il 23 novembre. Le immagini prima e dopo l'esplosione sono state riprese con la Dark Energy Camera in Cile e con il telescopio Gemini Sud.\n\nIl laboratorio americano NOIRLab sta coordinando le osservazioni con altri osservatori, che seguono l'esplosione notte dopo notte. Studiare una supernova di tipo Ia fin dalle prime fasi aiuta a capire che cosa la innesca, un punto ancora discusso, e quindi a rendere più precise le misure cosmiche.\n\nChi ha un telescopio piccolo o medio e si trova abbastanza a sud può provare a vederla: dall'Italia la costellazione dell'Orologio è molto bassa o sotto l'orizzonte. Non c'è ancora un articolo scientifico: i dati sono preliminari.",
+          "perche": "Una supernova di questo tipo così vicina e presa così presto è un banco di prova prezioso per le misure dell'espansione dell'universo.",
+          "fonti": [
+            {
+              "nome": "BBC Sky at Night Magazine",
+              "url": "https://www.skyatnightmagazine.com/news/supernova-sn-2026ahvu"
+            }
+          ],
+          "parole": [
+            "supernova",
+            "SN 2026ahvu",
+            "NGC 1433",
+            "tipo Ia",
+            "espansione dell'universo",
+            "astronomia"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "OpenAI: i suoi modelli hanno migliorato fino al 14% i progetti delle schede grafiche di AMD, e alcune modifiche sono già nei chip in produzione",
+          "testo": "Il 18 novembre OpenAI ha pubblicato un resoconto su come usa i propri modelli di intelligenza artificiale per progettare chip. Il risultato principale riguarda AMD, uno dei maggiori produttori di processori: sui progetti delle sue schede grafiche di punta, già ottimizzati a fondo dagli ingegneri, i modelli di OpenAI hanno trovato miglioramenti fino al 14% nella combinazione di consumo, velocità e superficie occupata sul silicio. Alcune di queste modifiche sono finite in un chip che AMD ha già mandato in produzione, altre nei progetti delle versioni future.\n\nCome funziona: un chip si descrive prima con un linguaggio di programmazione speciale, che dice come sono collegati i circuiti. Il modello riscrive pezzi di questa descrizione cercando versioni più efficienti, e i programmi dell'azienda Synopsys, lo standard del settore, controllano che ogni versione si comporti esattamente come l'originale. Secondo OpenAI, si è ottenuto in meno di cinque mesi quello che normalmente richiederebbe circa un anno di lavoro. AMD ha confermato miglioramenti di qualche punto percentuale anche in parti del suo prossimo processore.\n\nLo stesso metodo è servito per Jalapeño, il primo chip progettato da OpenAI: una parte che fa le moltiplicazioni è stata ridisegnata occupando circa il 15% di spazio in meno e facendo il calcolo in un ciclo invece che in due. Le modifiche hanno funzionato anche nel chip vero.\n\nOpenAI ha poi messo a confronto cinque generazioni dei suoi modelli su due piccoli processori aperti (PicoRV32 e Ibex), con quasi 10.000 prove: il più recente, GPT-6.2 Astra, è risultato il migliore sia a migliorare un progetto esistente sia a costruirne uno da una descrizione scritta. L'azienda ammette però che nel secondo caso i modelli possono «barare» lasciando fuori funzioni presenti negli originali.\n\nSono risultati comunicati dall'azienda, non verificati da terzi. Il responsabile dei chip di OpenAI ha detto di non fidarsi ancora del tutto delle modifiche proposte dall'AI, che vengono tutte controllate. Con Synopsys OpenAI sta addestrando un modello apposito, GPT-Synopsys, per usare gli stessi strumenti degli ingegneri.",
+          "perche": "Se confermato, è un esempio concreto di AI che migliora l'hardware su cui gira, accelerando un lavoro che richiede di solito anni di specialisti.",
+          "fonti": [
+            {
+              "nome": "The Next Web",
+              "url": "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent"
+            },
+            {
+              "nome": "Unite.AI",
+              "url": "https://www.unite.ai/openai-reports-model-driven-gains-in-amd-flagship-chip-designs/"
+            }
+          ],
+          "parole": [
+            "OpenAI",
+            "AMD",
+            "progettazione chip",
+            "chip design",
+            "Synopsys",
+            "GPT-6.2 Astra",
+            "Jalapeño"
+          ]
+        },
+        {
+          "titolo": "Google apre Genie 4 agli abbonati Ultra: mondi virtuali interattivi con suono, da cambiare con una frase mentre ci si cammina dentro",
+          "testo": "Il 18 novembre Google DeepMind ha reso disponibile Genie 4, il suo nuovo «modello del mondo», dentro Project Genie, il prototipo sperimentale che si usa dal browser. Per ora l'accesso è riservato agli abbonati idonei di Google AI Ultra, il piano più caro (negli Stati Uniti da 99,99 o 199,99 dollari al mese); chi ha il piano Pro può iscriversi a una lista d'attesa. A fine ottobre Genie 4 era stato mostrato solo a un gruppo ristretto di collaudatori.\n\nChe cos'è un modello del mondo: invece di scrivere testo o generare un video fisso, crea un ambiente in cui ci si può muovere in tempo reale, come in un videogioco, inventato fotogramma per fotogramma a partire da una descrizione o da una foto. La novità principale di Genie 4 è che si può cambiare il mondo mentre lo si esplora, scrivendo una richiesta: far piovere, aggiungere un personaggio o un oggetto, spostare l'inquadratura o cambiare quello che succede, senza ricominciare da capo.\n\nPer la prima volta il modello produce anche l'audio insieme alle immagini: rumori di fondo, musica e voci dei personaggi che reagiscono a ciò che accade. Altri modelli Gemini aiutano a dare riferimenti presi dal mondo reale e possono fare da «guida» che osserva la scena. C'è poi una galleria dove gli utenti pubblicano e rielaborano i mondi degli altri. Nel frattempo le sessioni con il modello precedente, Genie 3, passano da 60 secondi a tre minuti.\n\nTutti i contenuti portano SynthID, la filigrana invisibile di Google che permette di riconoscerli come generati dall'AI. Google stessa elenca i limiti ancora aperti: ritardi nei movimenti della telecamera, interazioni fisiche complesse imprecise, audio non sempre sincronizzato e una memoria della scena che con il tempo si perde, per cui dettagli e oggetti possono cambiare nelle sessioni lunghe.\n\nNon sono stati resi noti la durata delle sessioni con Genie 4, i Paesi coperti né una data per gli sviluppatori.",
+          "perche": "I modelli del mondo sono considerati un passo verso AI che capiscono lo spazio fisico e servono anche ad addestrare robot; questo è il primo così avanzato aperto a un pubblico pagante.",
+          "fonti": [
+            {
+              "nome": "Unite.AI",
+              "url": "https://www.unite.ai/google-brings-genie-4-to-project-genie-for-eligible-ai-ultra-users/"
+            },
+            {
+              "nome": "Data Studios",
+              "url": "https://www.datastudios.org/post/google-genie-4-project-genie-ai-ultra-pro-waitlist-3-minute-sessions"
+            }
+          ],
+          "parole": [
+            "Genie 4",
+            "Google DeepMind",
+            "Project Genie",
+            "world model",
+            "modello del mondo",
+            "mondi virtuali"
+          ]
+        },
+        {
+          "titolo": "Microsoft rende disponibile Decision 1.1, un modello che non scrive ma sceglie tra opzioni e dice quanto è sicuro, ora anche guardando immagini",
+          "testo": "Il 17 novembre Microsoft ha reso disponibile a tutti Microsoft-Decision-1.1, la seconda versione di un tipo di modello di intelligenza artificiale diverso dai soliti assistenti. Non scrive testi: riceve una situazione e un elenco di azioni permesse, sceglie quella giusta e indica con una percentuale quanto è sicuro, così il programma che lo usa può passare la mano a una persona quando il modello è incerto. Serve per smistare richieste, classificare documenti, decidere le priorità o controllare un passaggio di un processo automatico.\n\nRispetto alla prima versione, secondo Microsoft, è più di due volte più veloce allo stesso costo e accetta anche immagini, come foto e schermate: per esempio la foto di un pacco danneggiato allegata a un reclamo. Si usa tramite la piattaforma Microsoft Foundry e i servizi OpenRouter e Vercel. Durante la prova pubblica, iniziata il mese scorso, l'hanno usato oltre 4.000 clienti, e dentro Microsoft serve per esempio a decidere a quale modello mandare ogni domanda in Copilot.\n\nÈ costruito su Gemma 4, un modello aperto di Google, nella versione da 26 miliardi di parametri che ne attiva solo una parte per ogni richiesta, con un motore di calcolo pensato per risposte brevi. È stato addestrato su centinaia di insiemi di dati che coprono decine di migliaia di tipi di compito, imparando anche a distribuire la propria fiducia tra più risposte o ad astenersi.\n\nSulla classifica indipendente Artificial Analysis Decision Index ottiene 68 punti, sei più della prima versione, davanti a Gemini Decision 1 di Google, presentato la settimana scorsa, e al modello equivalente di OpenAI. Gran parte degli altri confronti viene però da prove interne di Microsoft che non si possono verificare, e i margini sui concorrenti sono piccoli.",
+          "perche": "Mostra la tendenza verso modelli piccoli e specializzati, più economici e controllabili, per le decisioni ripetitive dentro le aziende.",
+          "fonti": [
+            {
+              "nome": "Microsoft (annuncio)",
+              "url": "https://commandline.microsoft.com/microsoft-decision-model-ga/"
+            }
+          ],
+          "parole": [
+            "Microsoft",
+            "Decision 1.1",
+            "modello decisionale",
+            "Foundry",
+            "Gemma 4",
+            "agenti AI"
+          ]
+        }
+      ]
+    }
+  }
+}
