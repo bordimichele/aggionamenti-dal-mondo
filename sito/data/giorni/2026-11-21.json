@@ -1,0 +1,311 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-21",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Google: il chip quantistico Willow supera i limiti dei computer normali in «giochi» di squadra fino a 105 qubit",
+          "testo": "Il 19 novembre la rivista Science ha pubblicato in copertina uno studio di Google Quantum AI, già comparso come preprint nel dicembre 2025 e ora uscito dopo la revisione di altri scienziati. Il gruppo ha usato il suo processore quantistico superconduttore Willow per mettere alla prova una proprietà strana della fisica quantistica chiamata «contestualità»: il risultato di una misura non è fissato in anticipo, ma dipende da quali altre misure compatibili si fanno insieme a essa. Si pensa che sia uno degli ingredienti che danno ai computer quantistici un vantaggio in alcuni calcoli, ma finora era stata mostrata quasi solo con pochissime particelle.\n\nPer renderla misurabile, i ricercatori l'hanno trasformata in giochi di squadra in cui i giocatori non possono parlarsi: se condividono qubit legati tra loro (entanglement) vincono più spesso di quanto permetta qualsiasi strategia classica. Nel gioco del «quadrato magico» con 4 qubit, ripetuto 100.000 volte per ciascuna delle 9 combinazioni, Willow ha vinto nel 98,30% dei casi, contro un massimo teorico dell'88,89% per chi non usa la fisica quantistica. In un altro test, il valore misurato è stato 5,59 contro un limite classico di 4 e un ideale quantistico di 6. In un gioco di parità il vantaggio resta fino a 71 giocatori, cioè 71 qubit, e in un problema su una griglia bidimensionale si arriva a tutti i 105 qubit del chip.\n\nUn risultato collaterale interessa chi costruisce queste macchine: gli esperimenti più grandi hanno fatto emergere piccoli errori sistematici dell'hardware che i test abituali, basati su circuiti casuali, non vedevano. Per questo gli autori propongono questi giochi come metro per giudicare i processori futuri, perché il punteggio massimo possibile lo fissa la fisica stessa.\n\nI limiti sono chiari. Il rumore tiene i risultati sotto l'ideale e il vantaggio si riduce man mano che si aggiungono qubit: nel problema sulla griglia il successo scende da quasi 1 a circa 0,6 a chip pieno. Il confronto con i computer classici sui 105 qubit si basa su una congettura matematica, non su una dimostrazione. E non è stato risolto nessun problema pratico, come una simulazione chimica: resta da capire se la contestualità servirà davvero nelle applicazioni.",
+          "perche": "È una delle prove più ampie che un computer quantistico fa cose impossibili per una macchina classica, e offre un nuovo modo per misurare quanto sono buoni i processori quantistici.",
+          "fonti": [
+            {
+              "nome": "Google Research (blog)",
+              "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/"
+            },
+            {
+              "nome": "The Quantum Insider",
+              "url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork"
+            },
+            {
+              "nome": "The Next Web",
+              "url": "https://thenextweb.com/news/google-quantum-ai-contextuality-science-105-qubits"
+            }
+          ],
+          "parole": [
+            "computer quantistico",
+            "Google Willow",
+            "contestualità",
+            "qubit",
+            "entanglement",
+            "quantum advantage"
+          ]
+        },
+        {
+          "titolo": "Dal CNR di Lecce un chip di perovskite che emette laser, amplifica e guida la luce a temperatura ambiente",
+          "testo": "Il 18 novembre la rivista Nature ha pubblicato, in accesso libero, il lavoro di un gruppo dell'istituto CNR Nanotec di Lecce guidato da Daniele Sanvitto, con primo autore Antonio Fieramosca. Hanno costruito un piccolo circuito ottico, cioè un chip che lavora con la luce invece che con la corrente elettrica, capace di fare tre cose fondamentali insieme: produrre un fascio laser, amplificare la luce e cambiarne la fase (il «ritmo» dell'onda), che è ciò che serve per fare calcoli con la luce.\n\nIl materiale è una perovskite, un cristallo di cesio, piombo e bromo (CsPbBr3) già noto per i pannelli solari di nuova generazione. Le guide che portano la luce sono larghe pochi millesimi di millimetro e spesse circa un quarto di millesimo; dallo stesso cristallo crescono minuscole griglie che fanno da specchi e da ingressi per la luce. Tutto si fabbrica in un solo passaggio: si copia uno stampo di silicio in una gomma trasparente, si fa scorrere la soluzione dentro i canali e si lascia cristallizzare alzando piano la temperatura da 4 gradi a quella ambiente.\n\nIl trucco fisico è che nel chip la luce viaggia come «polaritone», una particella che è metà luce e metà materia: per questo reagisce in modo molto più forte rispetto alla luce normale, e si può controllare con poca energia. Finora circuiti di questo tipo funzionavano solo a temperature bassissime e con materiali cresciuti con macchinari costosi. Qui il laser si accende sopra una certa intensità di luce in ingresso, il colore si regola cambiando il passo delle griglie, l'amplificazione arriva a circa 100 volte e lo spostamento di fase completo si ottiene in un'area di circa 20 millesimi di millimetro quadrato.\n\nI limiti sono importanti. Il chip viene «acceso» da un altro laser esterno, molto veloce: non funziona ancora con la corrente elettrica, che è ciò che servirebbe per un prodotto. Non sono state mostrate porte logiche né più stadi collegati in fila, e non ci sono dati sull'energia per operazione o sulla percentuale di chip riusciti. Il materiale contiene piombo, che in Europa è soggetto a limiti d'uso nell'elettronica.",
+          "perche": "Mostra che i circuiti a luce «metà materia» possono funzionare a temperatura ambiente e con una fabbricazione semplice, un passo verso chip ottici veloci e a basso consumo.",
+          "fonti": [
+            {
+              "nome": "Nature",
+              "url": "https://nature.com/articles/s41586-026-11299-5"
+            },
+            {
+              "nome": "Tech Times",
+              "url": "https://www.techtimes.com/articles/331023/20261118/italian-lab-reports-perovskite-photonic-chip-that-lases-shifts-phase-only-under-laser-pumping.htm"
+            }
+          ],
+          "parole": [
+            "perovskite",
+            "chip fotonico",
+            "polaritoni",
+            "CNR Nanotec",
+            "laser",
+            "calcolo ottico"
+          ]
+        },
+        {
+          "titolo": "Centri dati nello spazio: Google sceglie il razzo New Glenn di Blue Origin per i primi satelliti di Project Suncatcher",
+          "testo": "Il 19 novembre Google e Blue Origin hanno annunciato insieme un accordo di lancio: il razzo pesante New Glenn porterà in orbita i primi satelliti di Project Suncatcher, il progetto di ricerca a lungo termine con cui Google vuole verificare se si può fare calcolo per l'intelligenza artificiale nello spazio. Il lancio è previsto nel primo trimestre del 2029, verso un'orbita che passa sopra i poli e segue la linea tra giorno e notte, dove i pannelli solari ricevono luce quasi senza interruzioni.\n\nL'idea, presentata da Google nel novembre 2025, è far volare molti satelliti vicinissimi tra loro, ciascuno con i chip TPU che Google usa per l'AI, alimentati dal Sole e collegati tra loro da fasci laser. Secondo Travis Beals, il dirigente che guida il progetto, i satelliti di questa missione avranno all'incirca la potenza di calcolo di un armadio di server di un centro dati.\n\nCi sono stati alcuni passi preliminari. Secondo la rivista Via Satellite, Google ha già messo un chip TPU su un satellite di Planet lanciato in ottobre, ma non ha pubblicato risultati. In laboratorio un prototipo dei collegamenti laser ha trasmesso 800 gigabit al secondo in ciascuna direzione con una sola coppia di ricetrasmettitori, mentre per far lavorare insieme chip come in un centro dati servono decine di terabit. Uno studio non ancora rivisto di Google ha trovato che i chip Trillium reggono una dose di radiazioni pari a cinque anni di missione senza guasti permanenti. Google stima che, se il costo dei lanci scendesse sotto i 200 dollari al chilo verso la metà degli anni 2030, l'energia per calcolare in orbita costerebbe più o meno come a terra; il confronto però riguarda solo l'energia, non l'intero sistema.\n\nMolto resta da dimostrare. Non sono stati resi noti il numero di satelliti e di chip, il peso, il valore del contratto o i costi. Restano aperti tre problemi grossi: come smaltire il calore nel vuoto, come trasmettere enormi quantità di dati verso terra e quanto a lungo l'elettronica resterà affidabile in orbita. È un annuncio commerciale e una sperimentazione, non la prova che l'idea funzioni.",
+          "perche": "Con il consumo di energia dei centri dati in forte crescita, è il primo passo concreto di un grande gruppo verso il calcolo per l'AI alimentato dal Sole in orbita.",
+          "fonti": [
+            {
+              "nome": "Via Satellite",
+              "url": "https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/"
+            },
+            {
+              "nome": "Securities.io",
+              "url": "https://www.securities.io/google-signs-launch-agreement-for-first-heavy-lift-suncatcher-mission/"
+            }
+          ],
+          "parole": [
+            "Project Suncatcher",
+            "Google",
+            "Blue Origin",
+            "New Glenn",
+            "centri dati nello spazio",
+            "TPU"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "TAC nei bambini e tumori al cervello: su 3,7 milioni di bambini il rischio cresce con la dose di radiazioni, ma resta piccolo",
+          "testo": "Il 19 novembre la rivista JAMA ha pubblicato uno studio osservazionale molto grande, guidato da Diana Miglioretti (Università della California a Davis) e Rebecca Smith-Bindman (Università della California a San Francisco), con diversi sistemi sanitari americani, tra cui Kaiser Permanente, e l'istituto ICES dell'Ontario, in Canada. Il finanziamento viene dall'Istituto nazionale dei tumori degli Stati Uniti e da ICES. Gli autori hanno seguito 3.704.860 bambini nati tra il 1996 e il 2016, vivi e senza tumori a 2 anni, per una media di oltre 12 anni.\n\nPer ognuno hanno calcolato la dose totale di radiazioni ricevuta dal cervello con esami come la TAC e i raggi X, contando solo gli esami fatti almeno due anni prima di un'eventuale diagnosi. Una TAC della testa dà in media circa 66 milligray. Nel periodo sono stati diagnosticati 1.536 tumori cerebrali, per l'82,5% di tipo aggressivo.\n\nIl rischio sale con la dose. Rispetto a chi non era stato esposto, era circa 1,9 volte più alto con dosi da 5 a 50 milligray, 2,3 volte tra 50 e 75, 2,8 volte tra 100 e 150 e quasi 3,9 volte sopra i 150. In numeri assoluti, però, l'aumento è piccolo: una dose pari a circa una TAC della testa corrisponde a circa 8 tumori in più ogni 10.000 bambini entro i 21 anni, cioè circa un tumore in più ogni 1.266 TAC. Gli autori stimano che circa il 10% dei tumori cerebrali infantili possa dipendere dalle radiazioni degli esami.\n\nLe radiazioni di TAC e raggi X possono danneggiare il DNA, ed è questo il meccanismo sospettato. La prima autrice sottolinea che il rischio resta piccolo e che i genitori non devono rinunciare agli esami necessari; la coordinatrice sostiene che la TAC della testa si usa troppo spesso. Il comunicato raccomanda di farla solo quando serve davvero, con la dose più bassa utile, e di seguire le regole PECARN per decidere nei bambini con un colpo alla testa.\n\nI limiti: è uno studio osservazionale, quindi mostra un'associazione e non prova che siano state le TAC a causare i tumori; il periodo di osservazione negli Stati Uniti si ferma al 2017; alle dosi più basse le stime sono molto incerte.",
+          "perche": "È la misura più ampia finora di un rischio noto ma poco quantificato: rafforza l'idea di usare la TAC nei bambini solo quando serve e con la dose minima.",
+          "fonti": [
+            {
+              "nome": "JAMA",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2857040"
+            },
+            {
+              "nome": "EurekAlert! (comunicato UC Davis/UCSF)",
+              "url": "https://www.eurekalert.org/news-releases/1152546"
+            }
+          ],
+          "parole": [
+            "TAC",
+            "radiazioni",
+            "tumori cerebrali",
+            "bambini",
+            "CT scan",
+            "radiologia pediatrica"
+          ]
+        },
+        {
+          "titolo": "CTE, la malattia del cervello dei colpi alla testa: un primo esame del sangue la riconosce, ma su soli 21 ex giocatori",
+          "testo": "Sempre il 19 novembre JAMA ha pubblicato uno studio del centro sulla CTE dell'Università di Boston, guidato da Michael Alosco con prima autrice Annalise Miner e la collaborazione, tra gli altri, di Nicholas Ashton, Ann McKee e Henrik Zetterberg. La CTE (encefalopatia traumatica cronica) è una malattia degenerativa del cervello legata ai colpi ripetuti alla testa, frequente in chi ha giocato a lungo a football americano o fatto sport di contatto. Oggi si può diagnosticare solo dopo la morte, esaminando il tessuto del cervello.\n\nI ricercatori hanno misurato nel sangue un frammento particolare della proteina tau, chiamato eMTBR-tau, che si accumula nel cervello malato. Serve un test molto sensibile (la piattaforma NULISA dell'azienda Alamar Biosciences): anticorpi con un'etichetta di DNA riconoscono un punto modificato della proteina e il segnale viene moltiplicato e letto con una tecnica simile a quella dei test PCR. Riesce a misurare quantità piccolissime, fino a 7 millesimi di picogrammo per millilitro.\n\nLo studio ha coinvolto 21 ex giocatori di football, tutti uomini, che hanno dato un campione di sangue da vivi e poi hanno donato il cervello. All'autopsia 18 avevano la CTE (16 in fase avanzata, 2 in fase iniziale) e 3 no. Il livello del frammento era molto più alto in chi aveva la malattia, più alto ancora nelle fasi avanzate e massimo in chi aveva anche l'Alzheimer. Seguiva la quantità totale di tau nel cervello. Il marcatore usato oggi per l'Alzheimer (p-tau217) invece non era legato alla sola CTE: questo potrebbe aiutare a distinguere le due malattie.\n\nAlosco ha detto alla radio WBUR che, se i risultati saranno confermati, un test approvato potrebbe arrivare in circa cinque anni. Ma i limiti sono forti: i partecipanti sono pochissimi e tutti dello stesso tipo, circa metà dei campioni era sotto la soglia misurabile, le fasi iniziali non si distinguevano da chi era sano e mancano il confronto con l'Alzheimer da solo e con altre malattie della tau. Non sono stati calcolati né l'accuratezza del test né una soglia per la diagnosi.",
+          "perche": "Se confermato su gruppi più grandi, sarebbe il primo modo di riconoscere la CTE in una persona viva, aprendo la strada a studi e cure.",
+          "fonti": [
+            {
+              "nome": "JAMA",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2857054"
+            },
+            {
+              "nome": "WBUR",
+              "url": "https://www.wbur.org/news/2026/11/19/boston-university-study-biomarker-cte"
+            }
+          ],
+          "parole": [
+            "CTE",
+            "encefalopatia traumatica cronica",
+            "proteina tau",
+            "esame del sangue",
+            "biomarcatore",
+            "football americano"
+          ]
+        },
+        {
+          "titolo": "Malaria: l'anticorpo L9LS protegge i neonati in Mali, ma indebolisce la risposta al vaccino R21 e lo sviluppo si ferma",
+          "testo": "Il 19 novembre, al congresso annuale della Società americana di medicina tropicale (ASTMH), sono stati presentati i risultati di uno studio di fase 1b su 180 neonati in Mali. Lo hanno condotto l'Università di scienze, tecniche e tecnologie di Bamako (con Kassoum Kayentao) e l'istituto NIAID dei National Institutes of Health americani, che ha sviluppato l'anticorpo. Sono dati di congresso, non ancora pubblicati su una rivista dopo revisione.\n\nL9LS è un anticorpo monoclonale: una proteina di difesa isolata dalle cellule immunitarie di una persona e prodotta in grandi quantità. Una sola iniezione dovrebbe dare protezione quasi subito e per circa sei mesi. L'idea era coprire i bambini più piccoli, perché il vaccino R21, in tre dosi, si può cominciare solo dai 5 mesi di età. In questo studio, fatto nel 2024-2025 in tre centri, bambini da 1 a 12 mesi hanno ricevuto un'iniezione nel muscolo: 90 l'anticorpo e 90 una soluzione salina senza effetto.\n\nLa protezione contro l'infezione da Plasmodium falciparum, il parassita più pericoloso, è stata del 78%; il comunicato non indica il margine di incertezza. L'anticorpo è stato descritto come sicuro e ben tollerato, senza dati dettagliati sugli effetti collaterali.\n\nLa sorpresa è arrivata dopo. Nei bambini che avevano ricevuto L9LS cinque mesi prima della vaccinazione, la risposta immunitaria al vaccino R21 è risultata più bassa del 20-30% rispetto al gruppo di controllo. Una possibile spiegazione, non ancora confermata, è che l'anticorpo si attacchi in parte alla proteina del vaccino. Per questo lo sviluppo di L9LS nei bambini che non hanno completato le dosi di R21 è sospeso, ed è fermo anche lo studio più grande sui neonati che era previsto.\n\nResta da capire se la risposta più debole riduca davvero la protezione data dal vaccino, cosa che questo studio non misura.",
+          "perche": "La malaria uccide soprattutto bambini piccoli: il risultato mostra che combinare anticorpi e vaccini è più delicato del previsto e cambia i piani per proteggerli.",
+          "fonti": [
+            {
+              "nome": "EurekAlert! (comunicato ASTMH)",
+              "url": "https://www.eurekalert.org/news-releases/1150928"
+            }
+          ],
+          "parole": [
+            "malaria",
+            "anticorpo monoclonale",
+            "L9LS",
+            "vaccino R21",
+            "Mali",
+            "neonati"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Welopōʻai, il sistema di tre stelle «che non dovrebbe esistere», a soli 28 anni luce da noi",
+          "testo": "Il 19 novembre la rivista Astronomy & Astrophysics ha pubblicato uno studio guidato da Étienne Artigau dell'Istituto Trottier per la ricerca sugli esopianeti dell'Università di Montréal, con ricercatori di dieci Paesi. Descrive un sistema di tre stelle a circa 8 parsec, cioè 28 anni luce, chiamato Welopōʻai. Gli astronomi non riescono a spiegare come sia potuto nascere e sopravvivere.\n\nTutto è partito da una ricerca di pianeti con lo spettrografo SPIRou, sul telescopio Canada-Francia-Hawaii. Una nana rossa, una piccola stella con circa il 42% della massa del Sole, mostrava dal 2019 uno spostamento strano: in quasi cinque anni la sua velocità è cambiata di circa 16 chilometri al secondo, più di mille volte di quanto potrebbe causare un pianeta. Le immagini del telescopio Gemini Nord hanno poi rivelato il compagno nascosto: una nana bianca, cioè il nucleo spento di una stella morta, con circa il 62% della massa del Sole, misurata con una precisione dello 0,7%. Le due girano una attorno all'altra ogni 9,8 anni a circa 4,6 volte la distanza Terra-Sole. Più lontano, a circa 124 volte quella distanza, c'è una seconda nana bianca che impiega più di mille anni per un giro. Il sistema ha 9-11 miliardi di anni.\n\nIl problema è questo: la stella che ha dato origine alla nana bianca interna, all'inizio grande circa una volta e mezza il Sole, gonfiandosi da gigante sarebbe diventata centinaia di volte più larga e avrebbe dovuto inghiottire la nana rossa, facendole cadere a spirale. Invece la nana rossa è rimasta su un'orbita stabile. In più è insolitamente ricca di elementi pesanti per la sua età: per spiegarlo avrebbe dovuto catturare circa due terzi dei metalli espulsi dalla gigante, ma quasi niente idrogeno ed elio, e non si conosce un meccanismo che lo faccia. Patrick Dufour, uno degli autori, ammette che il gruppo non ha una spiegazione pulita.\n\nRestano incertezze: un possibile disco di polvere attorno alla nana bianca interna è solo un indizio; la distanza della stella esterna è vista in proiezione, quindi la vera forma del sistema non si conosce; il ruolo della terza stella e le interazioni tra le tre sono ancora da studiare.",
+          "perche": "Un sistema così vicino che sfida i modelli su come le stelle invecchiano in coppia costringe a rivedere che cosa succede quando una stella diventa gigante accanto a una compagna.",
+          "fonti": [
+            {
+              "nome": "EurekAlert! (Università di Montréal)",
+              "url": "https://www.eurekalert.org/news-releases/1152534"
+            },
+            {
+              "nome": "Sci.News",
+              "url": "https://www.sci.news/astronomy/welopoai-hierarchical-triple-system-15210.html"
+            },
+            {
+              "nome": "Universe Today",
+              "url": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth"
+            }
+          ],
+          "parole": [
+            "Welopōʻai",
+            "sistema triplo",
+            "nana bianca",
+            "nana rossa",
+            "SPIRou",
+            "evoluzione stellare"
+          ]
+        },
+        {
+          "titolo": "Etiopia: il vulcano Fentale ha liberato almeno 38.000 tonnellate di metano senza eruttare, il rilascio più grande mai misurato",
+          "testo": "Il 19 novembre la rivista Nature Geoscience ha pubblicato uno studio guidato dall'Università di Bristol, con l'istituto olandese per la ricerca spaziale SRON e colleghi etiopi, su un evento avvenuto all'inizio del 2025 nella Rift Valley etiope. Il vulcano Fentale, che non erutta dal 1820, in circa tre mesi ha emesso almeno 38 chilotonnellate di metano, cioè 38.000 tonnellate. È la più grande fuoriuscita di metano da un vulcano mai misurata: secondo SRON il ritmo è stato migliaia di volte più alto di quello di altri vulcani, paragonabile ai grandi incidenti degli impianti di gas.\n\nTutto è avvenuto senza eruzione. Tra il 4 e il 16 gennaio 2025 la zona è stata scossa da più di 50 terremoti di magnitudo tra 4,2 e 5,8, e decine di migliaia di persone si sono spostate. I radar dei satelliti hanno mostrato magma che risaliva da circa 10 chilometri di profondità.\n\nLa scoperta è venuta dallo spazio. SRON ha notato il pennacchio di gas mentre controllava i dati per il servizio europeo Copernicus di monitoraggio dell'atmosfera, poi ha chiesto all'azienda GHGSat, che ha satelliti con una vista più fine, di guardare meglio: così la sorgente è stata localizzata nel cratere. Il gruppo ha poi messo insieme dati termici, ottici e radar.\n\nLa spiegazione proposta dagli autori: un'enorme lama di magma che si è fatta strada nelle fratture della crosta ha rotto uno strato di roccia che teneva intrappolato il metano nel sottosuolo, e il calore del magma a contatto con sedimenti sepolti ha liberato il gas. È un percorso che non si conosceva. Potrebbe aiutare a capire come, nel passato remoto della Terra, il magma che entrava in bacini pieni di sedimenti abbia liberato gas serra durante cambiamenti rapidi del clima.\n\nI limiti: la quantità è minuscola rispetto alle emissioni umane, che sono di centinaia di milioni di tonnellate l'anno, e non pesa sul clima di oggi. Il meccanismo non si può osservare direttamente, e non si sa quanto siano frequenti eventi del genere né se i sedimenti di Fentale siano un caso particolare.",
+          "perche": "Rivela un modo sconosciuto con cui i vulcani possono liberare gas serra e mostra quanto i satelliti siano ormai bravi a scoprire grandi fughe di metano.",
+          "fonti": [
+            {
+              "nome": "SRON",
+              "url": "https://www.sron.nl/en/actueel/fentale-vulkaan/"
+            },
+            {
+              "nome": "Nature World News",
+              "url": "https://www.natureworldnews.com/articles/73963/20261120/satellites-catch-biggest-methane-burst-ever-measured-volcano-ethiopia.htm"
+            }
+          ],
+          "parole": [
+            "metano",
+            "vulcano Fentale",
+            "Etiopia",
+            "satelliti",
+            "Copernicus",
+            "gas serra"
+          ]
+        },
+        {
+          "titolo": "Via Lattea: una parte del «braccio di Norma» potrebbe non essere un braccio a spirale, ma l'onda d'urto della barra centrale",
+          "testo": "Il 20 novembre la rivista Nature Astronomy ha pubblicato, in accesso libero, uno studio dell'Università di Sydney guidato da Hillary Davis, con Joss Bland-Hawthorn e colleghi dell'Università di Lund in Svezia e dell'Università del Nuovo Galles del Sud. Riguarda la forma della nostra galassia, difficile da vedere perché ci stiamo dentro e la polvere nasconde gran parte del centro.\n\nLa Via Lattea ha al centro una «barra», una struttura allungata di stelle, e attorno dei bracci a spirale. Uno di questi è chiamato braccio di Norma. Finora la sua posizione veniva tracciata grazie ai maser: piccole sorgenti naturali di microonde che si accendono attorno a stelle giovani e molto grandi. Il gruppo sostiene che, almeno in parte, quei maser non segnano un braccio, ma il fronte d'urto della barra: una specie di onda lungo cui il gas viene compresso mentre la barra ruota, visibile in altre galassie come una striscia scura di polvere.\n\nPer arrivarci hanno costruito al computer una «Via Lattea sostitutiva», una simulazione fatta evolvere per circa 4,3 miliardi di anni, e l'hanno confrontata con le distanze misurate dei maser e con le mappe del gas. Il fronte d'urto simulato si sovrappone ai maser. Un dettaglio curioso: nelle galassie barrate vicine questi fronti di solito frenano la nascita di nuove stelle, mentre qui sembrano favorirla. Il modello descrive una barra lunga e lenta: mezza lunghezza di circa 14.000 anni luce, inclinata di circa 20 gradi.\n\nI limiti sono dichiarati dagli stessi autori. Il risultato si basa su simulazioni confrontate con un numero limitato di osservazioni; le distanze ricavate dal moto del gas presuppongono orbite circolari, cosa che vicino alla barra introduce errori; la lunghezza della barra è stata in parte regolata a occhio e la velocità di rotazione è solo un valore massimo. Davis dice che serve altro lavoro, e la conclusione riguarda solo una parte del braccio.",
+          "perche": "Cambia un pezzo della mappa della nostra galassia e spiega meglio dove e perché nascono stelle grandi vicino al centro della Via Lattea.",
+          "fonti": [
+            {
+              "nome": "Nature Astronomy",
+              "url": "https://www.nature.com/articles/s41550-026-03010-5"
+            },
+            {
+              "nome": "EurekAlert! (Università di Sydney)",
+              "url": "https://www.eurekalert.org/news-releases/1152538"
+            }
+          ],
+          "parole": [
+            "Via Lattea",
+            "braccio di Norma",
+            "barra galattica",
+            "maser",
+            "formazione stellare",
+            "simulazione"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "Un ricercatore di Anthropic annuncia una dimostrazione dell'ipotesi di Riemann fatta con Claude: verificabile al computer, ma ancora da controllare",
+          "testo": "Il 20 novembre Levent Alpöge, matematico che lavora ad Anthropic, ha pubblicato sul suo sito personale una nota di quattro pagine in cui scrive di credere di aver trovato, lavorando con Claude, una dimostrazione dell'ipotesi di Riemann, uno dei problemi aperti più famosi della matematica, che riguarda come sono distribuiti i numeri primi. Dice che lo stesso metodo dimostra anche la versione generalizzata (GRH). Non è un articolo rivisto da altri matematici né un preprint, e secondo SiliconANGLE Anthropic non ha fatto annunci ufficiali.\n\nLa prova principale non è un testo da leggere, ma un archivio di codice nel linguaggio Lean, un programma che controlla passo per passo le dimostrazioni matematiche: è diviso in 14 parti e pesa, secondo la newsletter Latent Space, circa 1,3 gigabyte. La versione scritta in linguaggio normale supera le 250.000 pagine, e Alpöge ha scelto di non pubblicarla. Il lavoro è durato 41 giorni, dal 6 ottobre al 16 novembre. Alpöge attribuisce a Claude le parti su un settore difficile (le forme automorfe su gruppi di rango alto) che lui stesso dice di non padroneggiare, e scrive che verso la fine il modello andava molto più veloce di lui.\n\nI primi controlli sono incoraggianti ma parziali. Andrew Sutherland del MIT ha compilato il codice per conto suo senza problemi e ha notato che usa solo i tre assiomi standard. Il matematico Elliot Glazer stima molto bassa la probabilità di un errore nel programma Lean. Kevin Buzzard dell'Imperial College ricorda però la domanda chiave: l'enunciato scritto in Lean corrisponde davvero al teorema? A settembre un annuncio di OpenAI sulle equazioni di Navier-Stokes era stato criticato proprio per questo. Al momento della notizia mancava ancora un controllo completo con più verificatori indipendenti.\n\nLo stesso giorno Ravi Vakil, presidente della Società matematica americana, ha diffuso un'altra dimostrazione della GRH, di Alessandro Masullo, fatta interamente da esseri umani: una bozza di circa 940 pagine frutto di circa 12 anni, esaminata in privato per mesi da Brian Conrad di Stanford, ma non verificata al computer.\n\nMancano molte cose: non si sa quale modello Claude sia stato usato né quanto abbia guidato l'uomo; nessuno può ancora leggere e capire l'argomento; il premio Clay richiede pubblicazione e due anni di accettazione.",
+          "perche": "Se reggerà ai controlli, sarebbe la prima volta che un'AI contribuisce in modo decisivo a risolvere uno dei grandi problemi della matematica; e mostra come la verifica al computer stia cambiando il modo di dimostrare.",
+          "fonti": [
+            {
+              "nome": "SiliconANGLE",
+              "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
+            },
+            {
+              "nome": "Yahoo News",
+              "url": "https://www.yahoo.com/news/science/articles/ai-riemann-hypothesis-proof-almost-210000837.html"
+            },
+            {
+              "nome": "DataCamp",
+              "url": "https://www.datacamp.com/blog/ai-solved-riemann-hypothesis"
+            },
+            {
+              "nome": "OfficeChai",
+              "url": "https://officechai.com/ai/hours-after-alpoges-ai-assisted-riemann-hypothesis-proof-ams-president-ravi-vakil-rushes-out-a-rival-all-human-proof-by-alessandro-masullo/"
+            }
+          ],
+          "parole": [
+            "ipotesi di Riemann",
+            "Claude",
+            "Anthropic",
+            "Lean",
+            "dimostrazione matematica",
+            "numeri primi",
+            "GRH"
+          ]
+        },
+        {
+          "titolo": "Thinking Machines pubblica Inkling 2 Mini: un modello aperto che «ripassa» due volte i suoi strati e gira su un Mac da 32 GB",
+          "testo": "Il 20 novembre Thinking Machines Lab, l'azienda fondata da Mira Murati, ha pubblicato Inkling 2 Mini, un modello di linguaggio con pesi aperti, cioè scaricabile gratuitamente da Hugging Face e utilizzabile sul proprio computer. La società indipendente Artificial Analysis lo ha messo alla prova lo stesso giorno.\n\nIl modello ha 26,4 miliardi di parametri in totale, ma per ogni parola ne usa solo una piccola parte, perché è fatto di tanti «esperti» specializzati e ne attiva pochi alla volta. La novità è che è «ad anello»: dei suoi 24 strati, i due blocchi centrali vengono ripercorsi tre volte, così ogni parola passa per 48 strati. In pratica il modello pensa di più senza occupare più memoria. È stato ottenuto da un modello più grande eliminando due terzi degli esperti e poi «curandolo» facendolo imparare dal modello originale. I numeri sono salvati in un formato molto compatto, lo stesso usato durante l'addestramento, per cui occupa circa 20 gigabyte e gira su un Mac con 32 GB di memoria.\n\nSecondo i dati dell'azienda risolve il 79,2% dei problemi di programmazione reali del test SWE-bench Verified, il 79% delle ricerche difficili sul web di BrowseComp e l'84,5% del test di ragionamento ARC-AGI nella prima versione. Misure dell'Università di Stanford indicano che fa più lavoro utile per watt di energia rispetto a un modello concorrente di Qwen. Artificial Analysis lo colloca allo stesso livello di Qwen3.8 da 27 miliardi di parametri, con circa cinque volte meno parametri attivi, e lo trova circa sei volte più economico e quattro volte più veloce per compito; però scrive circa il 38% di parole in più.\n\nL'azienda stessa ne indica i limiti: è più debole nelle conversazioni lunghe e nel seguire istruzioni con molti vincoli, e ripassare gli strati non aggiunge conoscenze, quindi sbaglia di più sui fatti. Il numero di ripassi è fisso. La pagina ufficiale non dice quanto testo può leggere in una volta né con quale licenza si può usare.",
+          "perche": "Mostra un modo diverso di rendere più capaci i modelli piccoli, facendoli «ragionare» più a lungo invece di renderli più grandi, a vantaggio di chi vuole l'AI sul proprio computer.",
+          "fonti": [
+            {
+              "nome": "Thinking Machines Lab",
+              "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+            },
+            {
+              "nome": "Artificial Analysis",
+              "url": "https://artificialanalysis.ai/articles/inkling-2-mini"
+            }
+          ],
+          "parole": [
+            "Inkling 2 Mini",
+            "Thinking Machines",
+            "modello aperto",
+            "open weights",
+            "LLM",
+            "mixture of experts"
+          ]
+        },
+        {
+          "titolo": "Google costruisce «Mirror Dimension», un internet finto per collaudare gli agenti AI che navigano in Chrome",
+          "testo": "Il 19 novembre il gruppo di Chrome di Google ha descritto in un articolo sulla sicurezza uno strumento interno chiamato «Mirror Dimension». La notizia è stata ripresa il 20 novembre da diverse testate. Serve a mettere alla prova gli agenti Gemini che usano il browser al posto dell'utente, la funzione di navigazione automatica di Chrome, senza che le loro azioni arrivino ai siti veri. Tra i responsabili citati ci sono Doug Turner, direttore di ingegneria, e Charles Qian.\n\nSi tratta di una copia chiusa del web: migliaia di siti artificiali (negozi, social network, servizi locali, pagine di home banking) che funzionano davvero in più passaggi, per esempio un carrello che ricorda i prodotti o un codice sconto che viene controllato. Ogni prova riparte da zero. L'agente digita un normale indirizzo web, ma il sistema intercetta la richiesta e restituisce una pagina generata sul posto; per evitare avvisi del browser Google usa certificati di sicurezza finti. Lo scopo è anche evitare che il modello si accorga di essere sotto esame, perché i modelli possono comportarsi in modo diverso quando capiscono di essere testati.\n\nI siti di prova li costruiscono squadre di agenti AI programmatori, mentre le persone decidono che cosa provare. Il bersaglio principale sono le istruzioni nascoste: testi o immagini su una pagina pensati per far fare all'agente cose che l'utente non ha chiesto, come spendere soldi o rivelare dati. Google dichiara che ogni ingegnere della sicurezza può così preparare più di mille prove al giorno, oltre trenta volte più che a mano; il dato non è stato verificato da altri.\n\nI limiti: è uno strumento interno e Google prevede di aprirlo solo ad altri suoi gruppi. L'azienda precisa che il trucco dei certificati funziona solo controllando tutta la rete, quindi non si può usare contro gli utenti normali. È un metodo per trovare più problemi prima che arrivino agli utenti, non la prova che i rischi della navigazione automatica siano spariti. Non è stato possibile leggere direttamente l'articolo originale di Google: i dettagli vengono dalle testate che lo hanno riportato.",
+          "perche": "Con gli agenti AI che comprano e compilano moduli al posto nostro, collaudarli in modo realistico contro le trappole nascoste nelle pagine è una delle sfide di sicurezza più urgenti.",
+          "fonti": [
+            {
+              "nome": "Business Upturn",
+              "url": "https://businessupturn.com/technology/google-reveals-mirror-dimension-simulated-web-for-testing-chrome-ai-agents/"
+            },
+            {
+              "nome": "NewsBytes",
+              "url": "https://www.newsbytesapp.com/news/science/google-develops-mirror-dimension-for-ai-training/story"
+            }
+          ],
+          "parole": [
+            "Mirror Dimension",
+            "Google Chrome",
+            "agenti AI",
+            "prompt injection",
+            "sicurezza",
+            "Gemini"
+          ]
+        }
+      ]
+    }
+  }
+}
