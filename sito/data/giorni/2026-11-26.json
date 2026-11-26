@@ -1,0 +1,273 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-26",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Centri dati e rete elettrica: negli Stati Uniti le prime regole obbligano i grandi impianti a dichiarare i loro sbalzi di consumo",
+          "testo": "Il NERC, l'ente che fissa le regole di affidabilità della rete elettrica in Nord America, ha adottato a ottobre le sue prime norme dedicate ai «carichi di calcolo», cioè ai centri dati. IEEE Spectrum le ha ricostruite il 24 novembre. Per entrare in vigore devono ancora essere approvate dalla FERC, l'autorità federale americana dell'energia.\n\nLe norme riguardano gli impianti con almeno 50 megawatt di carico di calcolo collegati a linee da 100 kilovolt o più. Dovranno consegnare modelli dettagliati e aggiornati di come assorbono corrente e di come reagiscono ai guasti della rete (comprese le soglie a cui si staccano), condividere dati in tempo reale, ridurre o mantenere i consumi quando lo chiede il gestore della rete, coordinare le protezioni con la società elettrica e installare registratori dei disturbi.\n\nIl motivo sono episodi già successi. Il 22 luglio, in Virginia del Nord, centri dati che assorbivano 3.800 megawatt si sono staccati tutti insieme dopo un normale guasto su una linea e sono passati ai generatori di riserva. Secondo una bozza di rapporto del NERC, dal 2022 ci sono stati almeno otto casi in cui i centri dati hanno perso di colpo tra 200 e 1.800 megawatt. Il problema è che gli impianti usano protezioni molto prudenti e tecnologie simili, e quindi reagiscono all'unisono.\n\nC'è poi l'addestramento dell'intelligenza artificiale: le schede grafiche passano da zero alla piena potenza in millisecondi e i calcoli si fermano a intervalli regolari. Uno studio di Dominion Energy ha misurato un impianto da 100 megawatt che oscillava di 10-15 megawatt ogni 2,5 secondi. Simulazioni del Politecnico di Zurigo indicano che, se queste pulsazioni coincidono con le frequenze naturali della rete, le oscillazioni si amplificano fino a danneggiare impianti o causare blackout.\n\nI limiti: per ora le norme chiedono soprattutto di condividere dati, e i gestori dei centri dati finora ne hanno resi pubblici pochi. Regole su quanto a lungo un impianto deve restare collegato durante un guasto, o su quanto può variare il suo consumo, sono solo in programma: il NERC conta di fissare criteri contro le oscillazioni forzate l'anno prossimo.",
+          "perche": "È il primo tentativo di trattare i centri dati dell'AI non solo come grandi consumatori, ma come un rischio per la stabilità della rete elettrica.",
+          "fonti": [
+            {
+              "nome": "IEEE Spectrum",
+              "url": "https://spectrum.ieee.org/nercs-data-center-power-rules"
+            }
+          ],
+          "parole": [
+            "centri dati",
+            "data center",
+            "rete elettrica",
+            "NERC",
+            "blackout",
+            "AI",
+            "energia"
+          ]
+        },
+        {
+          "titolo": "Un messaggio attraverso un muro di mattoni usando solo la gravità: l'esperimento dell'Università del Queensland",
+          "testo": "Un gruppo di fisici dell'Università del Queensland, in Australia, ha trasmesso una parola, «Gravity», dall'altra parte di un muro di mattoni senza usare onde radio, luce o cavi: l'informazione viaggiava solo come piccolissime variazioni della forza di gravità. Lo studio, firmato da Andrew Groszek, Charles Woffinden, Michael Harvey, Andrew White e Matthew Davis, è pubblicato su Science Advances dopo revisione.\n\nL'idea è semplice. Ogni massa attira le altre: se si sposta un oggetto pesante, un sensore abbastanza sensibile lì vicino registra un cambiamento minimo dell'attrazione. I ricercatori hanno usato l'ascensore degli anni Cinquanta di un edificio dell'università: il suo contrappeso da 1,8 tonnellate, fermo in una posizione o nell'altra, rappresentava uno 0 o un 1. Un gravimetro, posto in un bagno al di là del muro, ha registrato le variazioni e il messaggio è stato ricostruito.\n\nIl vantaggio teorico è che la gravità non si può schermare: attraversa muri, roccia e acqua, dove le onde radio non arrivano o vengono disturbate. Per questo gli autori parlano di comunicazione «non bloccabile», utile in futuro per esempio in miniere, sottomarini o luoghi dove le trasmissioni elettromagnetiche sono impossibili.\n\nIl limite è enorme ed è dichiarato dagli autori stessi: la velocità era di 1 bit al minuto, circa un'ora per una parola. Con sensori quantistici di nuova generazione, secondo i loro calcoli, si potrebbe arrivare a circa 500 metri di distanza e a 15 bit al minuto, ma sono ipotesi definite ambiziose e non ancora provate in laboratorio. Il sensore usato era un gravimetro classico. Il sistema, dicono, è ancora lontanissimo da un uso pratico.",
+          "perche": "Mostra che la gravità può portare informazioni dove nessun altro segnale passa; per ora è una prova di principio, molto lenta.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm"
+            }
+          ],
+          "parole": [
+            "gravità",
+            "comunicazione",
+            "gravimetro",
+            "sensori quantistici",
+            "Science Advances",
+            "Università del Queensland"
+          ]
+        },
+        {
+          "titolo": "Robot e droni per soccorrere i feriti nelle catastrofi: l'Università del Maryland vince la sfida finale della DARPA",
+          "testo": "Si è chiusa la DARPA Triage Challenge, la gara triennale dell'agenzia di ricerca della difesa americana per portare robot, droni e apprendimento automatico nel «triage», cioè la prima valutazione dei feriti quando sono tanti e i soccorritori pochi. La finale, raccontata da IEEE Spectrum il 25 novembre, è durata nove giorni dal 5 novembre a Disaster City, una città finta di 21 ettari a College Station, in Texas. Dieci squadre si contendevano 2,5 milioni di dollari.\n\nLe prove erano pensate per essere realistiche: più di 500 attori facevano la parte dei feriti, e accanto alle ferite finte veniva versata acqua calda per imitare il sangue caldo visibile alle telecamere termiche. C'erano ricerche dei feriti in 15 minuti, giri di triage da 5 minuti, valutazioni dei traumi e misure dei parametri vitali a qualche metro di distanza. Le macchine usavano radar a onde millimetriche per sentire il battito, telecamere termiche per stimare il respiro e microfoni per sentire chi grida.\n\nHa vinto RoboScout dell'Università del Maryland, con robot a quattro zampe Spot, e ha preso il premio principale da 1,5 milioni di dollari. Seconda Battelle, con il suo sistema di droni DART, che aveva vinto le prime due edizioni. Una squadra di studenti dell'Università tecnologica di Delhi ha vinto 300.000 dollari in una prova parziale.\n\nSecondo il responsabile del programma, Jeremy Pamplin, nelle simulazioni di giorno una squadra di sole persone trovava in media metà dei feriti; in una prova con i medici, i robot del Maryland li hanno trovati tutti. Nella prova finale gli esseri umani hanno fatto interventi salvavita sul 25% dei feriti finti che ne avevano bisogno, RoboScout sul 74%.\n\nI limiti: i feriti erano simulati e le condizioni preparate; i robot con le ruote faticavano su scale e macerie; ci sono stati errori di software e di Wi-Fi. I numeri vengono dalla DARPA stessa e non da uno studio pubblicato e controllato.",
+          "perche": "Indica che robot e sensori a distanza potrebbero aiutare i soccorritori a trovare e valutare più feriti nelle prime, decisive fasi di una catastrofe.",
+          "fonti": [
+            {
+              "nome": "IEEE Spectrum",
+              "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots"
+            }
+          ],
+          "parole": [
+            "DARPA",
+            "triage",
+            "robot",
+            "droni",
+            "soccorso",
+            "catastrofi",
+            "Spot"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Distrofia dei cingoli di tipo 2I/R9: la FDA approva Welgemda (ribitolo), il primo farmaco per una qualsiasi distrofia dei cingoli",
+          "testo": "La FDA, l'agenzia americana dei farmaci, ha approvato Welgemda (ribitolo, sigla di sviluppo BBP-418) dell'azienda BridgeBio per la distrofia muscolare dei cingoli di tipo 2I, chiamata anche R9 (LGMD2I/R9). La data dell'approvazione indicata dalla FDA è il 23 novembre. È il primo farmaco approvato per questa malattia e, più in generale, per una qualsiasi forma di distrofia dei cingoli, un gruppo di malattie genetiche che indeboliscono soprattutto i muscoli di spalle e bacino.\n\nLa forma 2I è causata da difetti del gene FKRP, che serve a «decorare» con zuccheri una proteina della membrana muscolare, l'alfa-distroglicano: senza questa decorazione la fibra muscolare si danneggia più facilmente. Il ribitolo è uno zucchero semplice che si prende per bocca e fornisce la materia prima a quell'enzima, per sfruttare meglio l'attività che gli rimane.\n\nL'approvazione si basa sullo studio FORTIFY: randomizzato, in doppio cieco, contro placebo, con 112 pazienti seguiti fino a 36 mesi. All'analisi intermedia dopo 12 mesi, secondo i dati dell'azienda, chi prendeva il farmaco camminava più velocemente di chi prendeva placebo (una differenza di 0,27 metri al secondo) e aveva una capacità respiratoria migliore di quasi 5 punti percentuali (capacità vitale forzata). È un'approvazione «tradizionale», non accelerata, ed è riservata ai pazienti che pesano almeno 30 chili.\n\nRestano domande: i numeri citati sono quelli dell'azienda e dell'analisi a un anno, mentre lo studio continua; non è ancora chiaro quanto l'effetto duri nel tempo e quanto cambi la vita quotidiana nelle diverse fasi della malattia. La pubblicazione completa dei dati su una rivista scientifica permetterà di valutarli meglio.",
+          "perche": "Per una famiglia di malattie muscolari rare che finora non aveva nessuna cura approvata, è il primo farmaco che agisce sulla causa.",
+          "fonti": [
+            {
+              "nome": "America Pharma Today",
+              "url": "https://americapharmatoday.com/news/fda-approves-welgemda-ribitol-lgmd2i-r9"
+            }
+          ],
+          "parole": [
+            "distrofia dei cingoli",
+            "LGMD2I",
+            "ribitolo",
+            "Welgemda",
+            "BridgeBio",
+            "FKRP",
+            "malattie rare"
+          ]
+        },
+        {
+          "titolo": "Chirurgia del colon: approvata Bacfenssi, una pasta antibiotica da applicare durante l'operazione che dimezza le infezioni della ferita",
+          "testo": "Il 24 novembre la FDA ha approvato Bacfenssi (nome di sviluppo D-PLEX100) dell'azienda israeliana PolyPid, che la commercializzerà negli Stati Uniti e in Canada con Azurity. È il primo trattamento applicato direttamente nella ferita per ridurre le infezioni dopo un intervento al colon-retto, un problema frequente perché l'intestino è pieno di batteri.\n\nSi tratta di una pasta che contiene l'antibiotico doxiciclina e lo rilascia lentamente, per settimane, nel punto in cui serve. Il chirurgo la applica una sola volta sulla fascia della parete addominale, prima di chiudere. È indicata per pazienti di almeno 45 chili con incisioni più lunghe di 20 centimetri.\n\nLo studio di fase 3 SHIELD II ha coinvolto 798 pazienti: 405 hanno ricevuto Bacfenssi più le cure standard, 393 solo le cure standard. Entro 30 giorni l'obiettivo principale, che metteva insieme infezione della ferita, nuovo intervento e morte, si è verificato nell'11% contro il 18%. Le sole infezioni della ferita sono scese dal 10% al 4% circa (3,8% contro 9,5% secondo l'azienda).\n\nIl farmaco aveva ricevuto dalla FDA diverse corsie preferenziali, tra cui la designazione di «terapia innovativa» e quella per i nuovi antibiotici contro le infezioni. Da tenere presente: i dati vengono dal comunicato della FDA e dell'azienda, lo studio confronta il farmaco con le sole cure standard e non con un placebo applicato allo stesso modo, e servirà esperienza nella pratica per capire l'effetto sulla resistenza agli antibiotici e sui costi.",
+          "perche": "Le infezioni della ferita sono tra le complicazioni più comuni della chirurgia intestinale: ridurle di più della metà significa meno ricoveri e nuovi interventi.",
+          "fonti": [
+            {
+              "nome": "America Pharma Today",
+              "url": "https://americapharmatoday.com/news/fda-approves-bacfenssi-colorectal-surgical-site-infections"
+            }
+          ],
+          "parole": [
+            "infezioni chirurgiche",
+            "Bacfenssi",
+            "D-PLEX100",
+            "PolyPid",
+            "doxiciclina",
+            "chirurgia colorettale"
+          ]
+        },
+        {
+          "titolo": "Tumore al seno iniziale: dopo il primo via libera, giredestrant (Wilserdly) è approvato anche dopo l'intervento, prima nuova terapia ormonale in vent'anni",
+          "testo": "È un seguito della notizia data il 18 novembre. Allora la FDA aveva approvato Wilserdly (giredestrant) di Genentech, del gruppo Roche, insieme a everolimus per il tumore al seno avanzato con mutazione ESR1. Il 23 novembre è arrivata una seconda approvazione, molto più ampia: la pillola presa da sola come terapia ormonale dopo l'intervento chirurgico, negli adulti con tumore al seno positivo ai recettori degli estrogeni e negativo a HER2, in stadio da I a III, con rischio di ricaduta intermedio o alto. È la prima nuova terapia ormonale per il tumore al seno iniziale da più di vent'anni.\n\nGiredestrant si prende una volta al giorno e appartiene ai SERD: blocca il recettore degli estrogeni, che in questi tumori fa da acceleratore, e ne provoca la distruzione.\n\nL'approvazione si basa sullo studio lidERA, randomizzato, con 4.170 adulti, che ha confrontato giredestrant con la terapia ormonale standard (tamoxifene o un inibitore dell'aromatasi) per un massimo di cinque anni. Il rischio di ricaduta invasiva o morte è sceso del 30%: 140 eventi contro 196. Dopo tre anni era viva e senza tumore invasivo il 92,4% delle pazienti con giredestrant contro l'89,6%, cioè circa 28 persone in più ogni 1.000. Secondo l'azienda, le interruzioni per effetti collaterali sono state il 5,3% contro l'8,2%.\n\nGli effetti indesiderati più comuni sono dolori a muscoli e articolazioni, vampate, stanchezza, mal di testa, nausea, battito lento, capogiri e formicolii; il farmaco può danneggiare il feto e le donne prima della menopausa devono associare un farmaco che sopprime gli ormoni. Il limite principale: i dati sulla sopravvivenza complessiva non sono ancora maturi, e l'azienda si è impegnata a presentarli più avanti.",
+          "perche": "La terapia ormonale dopo l'intervento riguarda la maggior parte delle donne con tumore al seno: una pillola che riduce le ricadute rispetto a quelle usate da decenni può cambiare la cura di moltissime pazienti.",
+          "fonti": [
+            {
+              "nome": "America Pharma Today",
+              "url": "https://americapharmatoday.com/news/fda-approves-wilserdly-adjuvant-early-breast-cancer"
+            }
+          ],
+          "parole": [
+            "tumore al seno",
+            "giredestrant",
+            "Wilserdly",
+            "SERD",
+            "lidERA",
+            "terapia ormonale",
+            "Roche"
+          ]
+        },
+        {
+          "titolo": "Mammografie lette con l'aiuto dell'AI: in Inghilterra parte EDITH, lo studio più grande al mondo, con quasi 700.000 donne",
+          "testo": "Il servizio sanitario inglese (NHS) ha iniziato il 23 novembre lo studio EDITH, il più grande mai fatto sull'uso dell'intelligenza artificiale nello screening del tumore al seno. Le prime partecipanti sono state arruolate nel Cambridgeshire; in tutto sono previste quasi 700.000 donne in 30 centri di screening, con un investimento di 10 milioni di sterline.\n\nLo studio mette alla prova due modi di usare l'AI. Nel primo il programma fa da «lettore in più»: guarda la mammografia e segnala i possibili tumori che uno specialista potrebbe non vedere. Nel secondo l'AI esamina le immagini per prima e stima la probabilità di tumore, così i medici possono decidere quali esami guardare prima. In ogni caso almeno un medico guarda ogni mammografia, le donne possono rifiutare di partecipare e gli appuntamenti non cambiano.\n\nIl punto di partenza sono risultati già ottenuti altrove. Lo studio svedese MASAI, pubblicato su The Lancet a gennaio con più di 105.000 donne, ha trovato che lo screening con l'aiuto dell'AI scopriva l'80,5% dei tumori contro il 73,8% di quello tradizionale, con la stessa capacità (98,5%) di rassicurare correttamente le donne sane, e riduceva del 44% il lavoro di lettura. Nel Regno Unito si fanno circa 2,1 milioni di mammografie di screening l'anno e meno dell'1% mostra segni di tumore; intanto più del 20% dei radiologi del seno andrà in pensione entro il 2030.\n\nChe cosa manca: bisogna vedere se l'AI funziona altrettanto bene nei centri inglesi, se trova tumori che le persone non vedono senza aumentare i falsi allarmi e le diagnosi inutili, e se alla fine fa risparmiare. Il Collegio dei radiologi britannico parla di un potenziale reale, ma non di una soluzione rapida.",
+          "perche": "Se funziona, potrebbe far trovare più tumori presto e alleggerire il lavoro dei radiologi, che sono sempre meno.",
+          "fonti": [
+            {
+              "nome": "The Neuron",
+              "url": "https://www.theneuron.ai/news/nhs-ai-breast-cancer-screening-trial/"
+            }
+          ],
+          "parole": [
+            "mammografia",
+            "screening",
+            "tumore al seno",
+            "intelligenza artificiale",
+            "NHS",
+            "EDITH"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Un solo positrone, la particella di antimateria, tenuto in trappola per mesi e controllato a livello quantistico",
+          "testo": "Un gruppo della Northwestern University, guidato dal fisico Gerald Gabrielse con il dottorando Thomas Myers come primo autore, ha ottenuto il pieno controllo quantistico di un singolo positrone, l'«antiparticella» dell'elettrone: ha la stessa massa ma carica positiva. Il lavoro, intitolato «One-Positron Quantum Cyclotron», è pubblicato su Physical Review Letters dopo revisione.\n\nIl positrone nasce dal decadimento radioattivo del sodio-22. I ricercatori lo hanno rallentato, catturato e raffreddato fino a circa 0,3 gradi sopra lo zero assoluto (300 millikelvin), e lo hanno tenuto sospeso nel vuoto quasi perfetto con campi elettrici e magnetici, senza che toccasse mai una parete: a contatto con la materia normale si annienterebbe. Così è rimasto intrappolato per mesi. Con microonde a frequenze precise lo hanno fatto saltare da un livello di energia quantistico all'altro, e hanno letto in quale livello si trovava.\n\nLo scopo è misurare con estrema precisione il «momento magnetico» del positrone, cioè quanto si comporta come una minuscola calamita, e confrontarlo con quello dell'elettrone, che lo stesso gruppo ha misurato con una precisione di circa una parte su diecimila miliardi. Secondo la fisica attuale i due valori devono essere identici. Una differenza anche piccolissima potrebbe aiutare a capire perché l'universo è fatto quasi solo di materia, quando nel Big Bang materia e antimateria avrebbero dovuto formarsi in quantità uguali.\n\nIl limite va detto chiaramente: questo lavoro prepara lo strumento, ma la misura vera e propria del positrone e il confronto con l'elettrone non sono ancora stati fatti. Per ora non c'è alcuna differenza tra materia e antimateria da annunciare.",
+          "perche": "È il passo che rende possibile uno dei confronti più precisi mai tentati tra materia e antimateria, una delle grandi domande aperte della fisica.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+            }
+          ],
+          "parole": [
+            "antimateria",
+            "positrone",
+            "Northwestern",
+            "Gabrielse",
+            "momento magnetico",
+            "Physical Review Letters"
+          ]
+        },
+        {
+          "titolo": "Le rocce del lato nascosto della Luna portate da Chang'e-6 raccontano un bombardamento di asteroidi lento e lungo, non un picco improvviso",
+          "testo": "Uno studio pubblicato su Science Advances, guidato dall'Istituto di geochimica di Guangzhou dell'Accademia cinese delle scienze con la partecipazione dell'australiana Curtin University (tra gli autori Fred Jourdan), ha datato le rocce fuse dagli impatti raccolte dalla missione cinese Chang'e-6, la prima ad aver riportato campioni dal lato della Luna che non vediamo mai.\n\nQuando un asteroide colpisce la Luna, il calore fonde la roccia; misurando con il metodo argon-argon (40Ar/39Ar) quando quella roccia si è solidificata, si data l'impatto. I campioni di Chang'e-6 registrano impatti distribuiti tra 4,33 e 1,13 miliardi di anni fa, cioè su più di tre miliardi di anni.\n\nIl risultato mette in discussione un'idea che domina da decenni: il «bombardamento intenso tardivo», un breve periodo, circa 3,9 miliardi di anni fa, in cui la Luna e i pianeti interni sarebbero stati colpiti da un'ondata improvvisa di asteroidi. Quell'idea nasceva soprattutto dai campioni delle missioni Apollo, presi tutti sul lato visibile e in zone vicine tra loro. Le nuove date indicano invece un calo graduale degli impatti nel tempo.\n\nQuesto conta anche per la Terra, perché gli impatti dei primi miliardi di anni hanno influito sull'ambiente in cui è nata la vita. Limiti: l'articolo divulgativo non dice quanti campioni sono stati datati né le incertezze di ciascuna data, e un solo punto di raccolta, per quanto nuovo, non basta da solo a riscrivere tutta la storia degli impatti: serviranno confronti con altri siti.",
+          "perche": "Cambia il modo in cui si immagina l'infanzia violenta del Sistema solare, e quindi anche le condizioni in cui si è formata la Terra.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm"
+            }
+          ],
+          "parole": [
+            "Luna",
+            "Chang'e-6",
+            "lato nascosto",
+            "asteroidi",
+            "bombardamento tardivo",
+            "Science Advances"
+          ]
+        },
+        {
+          "titolo": "Canada artico: l'ultimo resto della grande calotta glaciale aveva ricominciato a crescere 2.000 anni fa, poi il riscaldamento l'ha fermato",
+          "testo": "Un gruppo del Lamont-Doherty Earth Observatory della Columbia University, con Nicolás Young e Joerg Schaefer, ha pubblicato su Science uno studio sulla Barnes Ice Cap, nell'isola di Baffin (Nunavut, Canada). È l'ultimo pezzo rimasto della calotta Laurentide, la massa di ghiaccio che tra circa 95.000 e 20.000 anni fa copriva gran parte del Nord America.\n\nDal 1960 il ghiaccio si ritira e lascia scoperte piante antiche rimaste sepolte sotto di esso. I ricercatori le hanno datate con il radiocarbonio, insieme a resti di piante di calotte più piccole della zona. Il quadro che ne esce: la Barnes Ice Cap ha raggiunto la sua estensione minima circa 3.000 anni fa e circa 2.000 anni fa ha ricominciato ad allargarsi, coprendo di nuovo quelle piante.\n\nSecondo gli autori quella ripresa è il primo segno di una nuova era glaciale, che sarebbe partita in modo naturale per i lenti cambiamenti dell'orbita terrestre. Dagli anni Sessanta, però, la neve che cade d'inverno non basta più a compensare quella che si scioglie d'estate, e la calotta si è rimessa a ridursi: secondo i loro modelli potrebbe sparire nel giro di pochi secoli. Per tornare alle dimensioni di un continente, la crescita avrebbe richiesto circa 30.000 anni.\n\nVa tenuto presente che dire «l'era glaciale era cominciata» dipende dalla definizione scelta dagli autori, cioè la prima espansione duratura di una calotta esistente; altri studi basati su modelli climatici avevano concluso che la prossima glaciazione fosse ancora lontana. L'articolo divulgativo non riporta il numero di campioni né le incertezze delle date.",
+          "perche": "Offre una prova concreta di quanto il riscaldamento di origine umana stia già cambiando i grandi cicli naturali del clima.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+            }
+          ],
+          "parole": [
+            "era glaciale",
+            "Laurentide",
+            "Barnes Ice Cap",
+            "clima",
+            "riscaldamento globale",
+            "Science"
+          ]
+        },
+        {
+          "titolo": "Il telescopio Euclid, costruito per la materia oscura, scopre la sua prima cometa",
+          "testo": "L'ESA ha annunciato che il telescopio spaziale Euclid, lanciato per mappare miliardi di galassie e studiare materia ed energia oscura, ha trovato per la prima volta una cometa finora sconosciuta. Si chiama C/2026 S1 (Euclid) e l'8 ottobre è stata confermata dal Minor Planet Center dell'Unione astronomica internazionale, l'ufficio che registra i nuovi corpi del Sistema solare.\n\nA notarla è stato Mikko Pöntinen, dottorando dell'Università di Helsinki e membro del gruppo di Euclid dedicato agli oggetti del Sistema solare. Un programma scritto da lui ha individuato una scia che si muoveva veloce nelle immagini; l'oggetto è stato poi ritrovato in cinque zone del campo profondo settentrionale di Euclid, per un totale di 16 esposizioni riprese tra il 16 e il 24 settembre 2026. La segnalazione ha permesso ai telescopi da terra di osservarla a loro volta.\n\nLa cometa si trova a circa 1,3 miliardi di chilometri dalla Terra, ha un'orbita lunghissima che richiede migliaia di anni ed è molto inclinata rispetto al piano dei pianeti: in questo momento si vede «sopra» il Sole. Non è adatta alla futura missione Comet Interceptor dell'ESA, che cerca una cometa da raggiungere.\n\nÈ una scoperta «di passaggio»: Euclid non è fatto per cercare comete, ma le sue immagini nitidissime catturano anche piccoli corpi in movimento, e il gruppo di lavoro si aspetta di trovarne molti altri. L'orbita è ancora poco precisa e verrà migliorata con nuove osservazioni; per ora non c'è un articolo scientifico pubblicato, ma un rapporto di scoperta.",
+          "perche": "Mostra che i grandi telescopi per la cosmologia possono diventare anche cacciatori di comete e asteroidi, quasi a costo zero.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+            }
+          ],
+          "parole": [
+            "Euclid",
+            "cometa",
+            "ESA",
+            "C/2026 S1",
+            "Sistema solare",
+            "telescopio spaziale"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "ShellBench: lo stesso modello di AI può rendere 10 punti in più o in meno a seconda del programma che lo fa lavorare",
+          "testo": "La fondazione OpenClaw ha presentato ShellBench, una nuova prova per misurare quanto bene gli «agenti» di intelligenza artificiale svolgono lavori reali al computer, costruita con Parsewave, Hugging Face, Red Hat e l'Università di Berkeley. La novità è che non misura solo il modello, ma anche il «harness», cioè il programma che gli dà gli strumenti, gli passa i file e gestisce i suoi passi (per esempio Claude Code, Pi od OpenClaw stesso).\n\nLa prova contiene circa 100 compiti, ispirati a più di 10 milioni di interazioni reali e anonime con agenti. Sono stati provati 12 modelli in 5 programmi diversi, per un totale di 53.100 esecuzioni valutate. I compiti sono realistici: la richiesta tipica è di 43 parole e la cartella di lavoro contiene in media 188 file.\n\nI risultati principali: a parità di programma, tra il modello migliore e il peggiore c'è un divario di circa 46 punti; a parità di modello, cambiare programma sposta il risultato di circa 6 punti in media, e in alcuni casi di quasi 10. GPT-6 Astra, per esempio, supera il 65,3% dei compiti in Pi e il 55,4% in Claude Code; Claude Fable 5.2 fa 61% in Pi e 63% in Claude Code. Pi è anche il più veloce: 1,3 minuti a esecuzione contro 2,9 di OpenClaw, con risultati simili. GPT-6.1 Sol arriva a poco più di un punto da Astra spendendo circa un sesto.\n\nDue dati sull'affidabilità: Astra risolve il 75% dei compiti almeno una volta su tre tentativi, ma solo il 49% tutte e tre le volte; e il 9,9% delle esecuzioni corrette sotto ogni altro aspetto non rispettava una regola di sicurezza. Limiti: l'articolo scientifico completo non è ancora uscito e ogni esecuzione è stata giudicata una sola volta, quindi una parte delle differenze può venire dalla correzione.",
+          "perche": "Per chi sceglie un assistente AI per lavorare, conta anche il programma in cui gira, non solo il nome del modello; e gli agenti restano poco costanti.",
+          "fonti": [
+            {
+              "nome": "The Neuron",
+              "url": "https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/"
+            }
+          ],
+          "parole": [
+            "ShellBench",
+            "OpenClaw",
+            "agenti AI",
+            "benchmark",
+            "harness",
+            "Claude Code"
+          ]
+        },
+        {
+          "titolo": "Google DeepMind descrive quattro strade possibili dall'AI generale alla «superintelligenza»",
+          "testo": "Tim Genewein, ricercatore di Google DeepMind, ha pubblicato un saggio, accompagnato da un rapporto tecnico di cui è coautore, su che cosa potrebbe succedere dopo l'arrivo di un'intelligenza artificiale generale (AGI), cioè capace di fare la maggior parte dei lavori intellettuali umani. Il saggio è del 19 novembre ed è stato ripreso il 24. Non è un risultato sperimentale, ma un quadro per ragionare sul futuro.\n\nLe quattro strade descritte verso una «superintelligenza», cioè sistemi molto più capaci delle persone, sono: continuare ad aumentare le dimensioni e il calcolo dei modelli; cambiare il modo in cui l'AI impara, per esempio con l'apprendimento continuo, forse superando l'architettura attuale dei transformer; far lavorare insieme milioni di agenti AI; e l'auto-miglioramento, in cui l'AI aiuta a costruire chi la sostituirà. La matematica viene indicata come un terreno privilegiato, perché lì i risultati si possono verificare in modo automatico.\n\nIl saggio fa anche stime: la «popolazione» effettiva di agenti AI potrebbe crescere più di mille volte entro il 2030 e più di un miliardo di volte entro il 2036. Sono però proiezioni condizionate a ipotesi su quanto calcolo sarà disponibile e quanto diventerà efficiente.\n\nSul lavoro di squadra tra agenti, uno studio di Google su 180 configurazioni citato nell'articolo mostra quanto sia delicato: una squadra coordinata ha fatto meglio di un singolo agente dell'80,9% nel ragionamento finanziario, ma i sistemi a più agenti sono andati dal 39% al 70% peggio nella pianificazione di compiti in sequenza. Il rapporto tecnico è con ogni probabilità un preprint, non revisionato.",
+          "perche": "Aiuta a capire come uno dei principali laboratori del mondo immagina i prossimi passi dell'AI, e quali strade preoccupano di più per la sicurezza.",
+          "fonti": [
+            {
+              "nome": "The Neuron",
+              "url": "https://www.theneuron.ai/news/google-deepmind-four-paths-to-superintelligence/"
+            }
+          ],
+          "parole": [
+            "Google DeepMind",
+            "superintelligenza",
+            "AGI",
+            "agenti AI",
+            "auto-miglioramento",
+            "ASI"
+          ]
+        }
+      ]
+    }
+  }
+}
