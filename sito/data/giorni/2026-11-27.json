@@ -1,0 +1,188 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-27",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Un milione di satelliti per fare calcoli nello spazio: l'ente americano FCC dà il primo via libera a Starmind di SpaceX",
+          "testo": "Mercoledì 25 novembre la Federal Communications Commission, l'ente che negli Stati Uniti regola le comunicazioni e assegna le frequenze radio, ha autorizzato SpaceX a mettere in orbita fino a un milione di satelliti chiamati nei documenti «moduli di calcolo orbitali». La costellazione si chiama Starmind e il suo scopo non è portare internet, come Starlink, ma ospitare centri dati per l'intelligenza artificiale direttamente in orbita. Il presidente dell'FCC, Brendan Carr, l'ha definita una prima volta storica: è la prima autorizzazione data a un'intera costellazione dedicata ai centri dati spaziali.\n\nSecondo i documenti della domanda, presentata da SpaceX a fine gennaio 2026, i satelliti dovrebbero stare su sei «gusci» orbitali tra circa 500 e 1.000 chilometri di quota, sia in orbite che seguono il Sole sia in orbite inclinate di 30 gradi. Tra loro parlerebbero soprattutto con collegamenti laser, e si appoggerebbero alla rete Starlink; le frequenze radio concesse servono come riserva per comandi e controllo.\n\nL'autorizzazione ha scadenze precise: almeno un satellite in funzione entro novembre 2033, il 10% della costellazione (centomila satelliti) entro novembre 2035, metà entro il 2038 e il totale entro il 2040. SpaceX, da parte sua, ha detto di poter cominciare già nel 2028. L'FCC però non ha concesso tutto: ha rimandato la richiesta di SpaceX di non far rientrare nell'atmosfera i satelliti sopra i 600 chilometri, ma di spostarli a fine vita in orbite di «parcheggio» o attorno al Sole. Prima di lanciare satelliti di quel tipo l'azienda dovrà presentare una nuova domanda e giustificarla.\n\nLe critiche sono forti. La Società astronomica americana aveva chiesto di respingere la domanda: tanti oggetti grandi e luminosi renderebbero più difficile studiare il cielo, ma l'FCC ha risposto che l'astronomia ottica non rientra nelle sue competenze in questo procedimento. Si erano opposte anche Amazon e Viasat, concorrenti nei satelliti. Diversi esperti dubitano che il progetto stia in piedi: nel vuoto il calore dei processori non si disperde nell'aria e va irradiato con grandi superfici, i lanci e i rientri inquinano l'alta atmosfera e un numero così grande di satelliti aumenta il rischio di collisioni a catena. Un via libera, insomma, non significa che i satelliti verranno costruiti.",
+          "perche": "È il primo permesso ufficiale per portare il calcolo dell'AI fuori dalla Terra, inseguendo energia solare e spazio; ma i problemi di calore, detriti e costi restano tutti da risolvere.",
+          "fonti": [
+            {
+              "nome": "CBS News",
+              "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"
+            },
+            {
+              "nome": "Interesting Engineering",
+              "url": "https://interestingengineering.com/space/spacex-million-satellites-data-centers-fcc"
+            },
+            {
+              "nome": "Latin Times",
+              "url": "https://www.latintimes.com/fcc-authorizes-spacex-starmind-ai-satellites-601871"
+            },
+            {
+              "nome": "Associated Press (via WCAX)",
+              "url": "https://www.wcax.com/2026/11/27/fcc-authorizes-spacex-deploy-1-million-satellites-ai-data-centers-space/"
+            }
+          ],
+          "parole": [
+            "SpaceX",
+            "Starmind",
+            "FCC",
+            "centri dati nello spazio",
+            "satelliti",
+            "data center orbitali",
+            "detriti spaziali",
+            "astronomia"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Protesi del ginocchio con il braccio robotico: nel più grande studio mai fatto nessun vantaggio per i pazienti dopo un anno",
+          "testo": "Lo studio RACER-Knee, pubblicato su The Lancet e guidato dall'Università di Warwick con l'ospedale universitario di Coventry e il Royal Orthopaedic Hospital di Birmingham, ha confrontato la protesi totale del ginocchio fatta nel modo tradizionale con quella fatta con l'aiuto di un braccio robotico (il sistema Mako dell'azienda Stryker). È la sperimentazione randomizzata più grande al mondo su questa domanda: 339 pazienti operati da 33 chirurghi in 10 ospedali del Regno Unito. Né i pazienti né chi misurava i risultati sapevano quale operazione era stata fatta.\n\nLa chirurgia robotica promette tagli dell'osso e allineamenti più precisi, e in effetti la precisione è maggiore. Ma la domanda dello studio era se i pazienti stanno meglio. Il risultato principale era il «Forgotten Joint Score» a un anno, un questionario che misura quanto la persona si dimentica di avere una protesi nella vita di tutti i giorni: nessuna differenza che conti tra i due gruppi. Simili anche il cammino, il dolore in ospedale, il dolore a 3 e a 12 mesi e il numero di nuovi interventi. Il robot non ha portato più complicazioni gravi.\n\nIl robot però costa: in media circa 10 minuti e mezzo in più di sala operatoria e circa 950 sterline in più per intervento. Con le soglie usate dal servizio sanitario inglese, nel primo anno non è un investimento conveniente. Lo studio è stato pagato dall'istituto pubblico di ricerca britannico NIHR; Stryker ha coperto solo i costi aggiuntivi e non ha partecipato all'analisi.\n\nIl limite principale è il tempo: un anno è poco per una protesi che deve durare decenni, e un allineamento migliore potrebbe ridurre l'usura e i reinterventi più avanti. Per questo i pazienti saranno seguiti per dieci anni. Per ora, dicono gli autori, la precisione in più non si traduce in un ginocchio migliore per chi lo porta.",
+          "perche": "I robot chirurgici si diffondono in fretta e costano molto: uno studio rigoroso e indipendente mostra che, almeno nel primo anno, per le protesi del ginocchio non cambiano il risultato per il paziente.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato dell'Università di Warwick)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm"
+            }
+          ],
+          "parole": [
+            "protesi del ginocchio",
+            "chirurgia robotica",
+            "Mako",
+            "Stryker",
+            "RACER-Knee",
+            "The Lancet",
+            "ortopedia"
+          ]
+        },
+        {
+          "titolo": "Anziani con demenza: quasi uno su tre prende ancora farmaci per il sonno e l'ansia sconsigliati per il loro cervello",
+          "testo": "Un gruppo della Facoltà di Farmacia dell'Università di Buffalo, negli Stati Uniti, guidato dal farmacista Haowen Hsu, ha misurato quanto spesso gli anziani con demenza o altri disturbi cognitivi ricevono farmaci «potenzialmente inappropriati», cioè medicine che le linee guida dei geriatri americani (i criteri di Beers) sconsigliano proprio in chi ha questi disturbi, perché possono peggiorare confusione e memoria o aumentare il rischio di cadute. Lo studio è pubblicato dopo revisione sul Journal of the American Geriatrics Society.\n\nI ricercatori hanno usato una grande indagine nazionale americana su spese e cure mediche, tra il 2011 e il 2022, concentrandosi sugli anziani con disturbi cognitivi che vivono ancora a casa propria e non in una struttura. Il campione analizzato è di 2.796 persone, che con i pesi statistici dell'indagine rappresentano circa 29,7 milioni di anziani americani. Tra i farmaci considerati ci sono quelli usati per dormire e per l'ansia, come le benzodiazepine e i sonniferi simili, oltre ad altre medicine con effetti sul sistema nervoso.\n\nLa buona notizia è che la quota di chi prende almeno uno di questi farmaci è scesa: dal 39,3% nel 2011 al 29,3% nel 2022. Quella cattiva è che resta quasi un anziano su tre. Gli autori dicono che serve più attenzione da parte di medici e farmacisti, per esempio rivedendo periodicamente le terapie e cercando alternative.\n\nLo studio descrive quante persone prendono questi farmaci, ma non dimostra che in questo gruppo abbiano causato danni, e non spiega perché l'uso sia diminuito. Servono altre ricerche per capire se ridurli migliora davvero la qualità della vita o riduce ricoveri e visite al pronto soccorso. Non è un invito a sospendere una terapia da soli: ogni cambiamento va deciso con il proprio medico.",
+          "perche": "Molti anziani fragili prendono più medicine di quante servano: misurare il problema è il primo passo per rivedere le terapie che possono peggiorare memoria e cadute.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato dell'Università di Buffalo)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm"
+            }
+          ],
+          "parole": [
+            "demenza",
+            "anziani",
+            "farmaci inappropriati",
+            "criteri di Beers",
+            "benzodiazepine",
+            "sonniferi",
+            "geriatria"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Golfo del Messico: pesci e gamberi degli abissi perdono diversità genetica, un segnale nascosto di rischio di estinzione",
+          "testo": "Un gruppo della Florida International University, con la Nova Southeastern University, ha studiato il DNA di cinque specie che vivono a centinaia di metri sotto la superficie del Golfo del Messico: tre pesci lanterna (piccoli pesci luminosi che ogni notte risalgono verso la superficie per nutrirsi) e due gamberi di profondità. Il lavoro, guidato da Pedro A. Peres e Heather Bracken-Grissom, è pubblicato su Nature Communications dopo revisione.\n\nI ricercatori hanno analizzato 486 esemplari raccolti tra il 2011 e il 2023, così da seguire nel tempo come cambiava il patrimonio genetico di queste popolazioni. La diversità genetica è importante perché è la «riserva» che permette a una specie di adattarsi ai cambiamenti: quando cala, la popolazione diventa più fragile. In una delle specie di pesce lanterna, Diaphus dumerilii, in dodici anni se n'è perso circa l'8%. Tutte e cinque le specie mostrano segni genetici di rischio, tra cui una «popolazione efficace» piccola, cioè poche coppie che contribuiscono davvero alle generazioni successive, anche se gli animali sono molti.\n\nAccanto alla genetica, il gruppo ha usato modelli del clima per stimare dove queste specie troveranno ancora condizioni adatte nel 2050 e nel 2100. Per quattro specie su cinque l'ambiente adatto potrebbe ridursi fino al 70%.\n\nIl periodo studiato comincia subito dopo il disastro della piattaforma petrolifera Deepwater Horizon del 2010, ma gli autori precisano che un legame di causa con quell'incidente non è stato dimostrato. Le specie sono solo cinque e in una sola zona. Il punto, dicono, è che negli abissi una crisi può avanzare senza che nessuno la veda, e la genetica permette di accorgersene prima che gli animali spariscano.",
+          "perche": "Le specie degli abissi sono un anello importante della catena alimentare del mare e sono difficili da contare: il DNA offre un modo per vedere il declino prima che sia troppo tardi.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato della Florida International University)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm"
+            }
+          ],
+          "parole": [
+            "oceano profondo",
+            "estinzione",
+            "diversità genetica",
+            "pesci lanterna",
+            "Golfo del Messico",
+            "cambiamento climatico",
+            "Nature Communications"
+          ]
+        },
+        {
+          "titolo": "Un nuovo tipo di magnetismo, detto «a onda p», trovato in un metallo semplice: il siliciuro di europio",
+          "testo": "Al magnetismo di tutti i giorni (quello della calamita) e all'antiferromagnetismo, in cui i piccoli magneti degli atomi si annullano a vicenda, negli ultimi anni i fisici hanno aggiunto forme nuove previste dalla teoria. Una di queste è il magnetismo «a onda p»: il materiale nel complesso non è magnetico, ma gli elettroni che si muovono in una direzione hanno lo «spin» (una sorta di piccolo ago magnetico) orientato in un verso, e quelli che vanno nella direzione opposta nel verso contrario. Un gruppo internazionale di 38 ricercatori di 19 istituti, guidato dall'Istituto Max Planck di fisica chimica dei solidi di Dresda (primo autore Erjian Cheng, ultima autrice la direttrice Claudia Felser), riporta su Nature le prove di questo stato in un metallo semplice, il siliciuro di europio (EuSi).\n\nIn questo materiale i momenti magnetici degli atomi di europio si dispongono a spirale, così che il totale è zero. Il gruppo ha fatto crescere cristalli puri e li ha studiati con molte tecniche diverse: la diffrazione di neutroni per vedere la spirale, la fotoemissione (si colpisce il materiale con la luce e si misurano gli elettroni che escono, anche il loro spin), la microscopia a forza magnetica e la luce polarizzata. La fase a spirale esiste tra circa 33 e 62 gradi sopra lo zero assoluto, cioè molto al freddo. Nella struttura degli elettroni compaiono separazioni di energia dovute al magnetismo superiori a 100 millielettronvolt, grandi per questo tipo di effetto, e domini magnetici con un verso di rotazione, larghi circa 10 micrometri.\n\nQuesto tipo di magnetismo interessa la «spintronica», l'elettronica che usa lo spin oltre alla carica: in teoria permetterebbe correnti con spin orientato senza bisogno di campi magnetici esterni, con dispositivi più piccoli ed efficienti. Gli autori però sono prudenti: le misure sono «compatibili» con lo stato previsto, e gli effetti utili, come le correnti polarizzate o forme insolite di superconduttività, in EuSi non sono ancora stati dimostrati. E servono temperature molto basse.",
+          "perche": "Trovare una forma di magnetismo nuova in un materiale semplice e facile da fabbricare apre la strada a cercarla in altri composti, magari a temperature più comode, per l'elettronica del futuro.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato del Max Planck di Dresda)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm"
+            }
+          ],
+          "parole": [
+            "magnetismo a onda p",
+            "p-wave magnetism",
+            "siliciuro di europio",
+            "EuSi",
+            "spintronica",
+            "Max Planck",
+            "fisica della materia"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "Anthropic e OpenAI, a poche ore di distanza, dicono che le loro AI hanno dimostrato la congettura di Valiant (VP diverso da VNP)",
+          "testo": "Il 23 novembre Anthropic ha pubblicato nel suo archivio pubblico di matematica su GitHub una dimostrazione, scritta da un modello Claude di ricerca interna, della congettura di Valiant, uno dei grandi problemi aperti dell'informatica teorica, posto nel 1979. Poche ore dopo OpenAI ha pubblicato un proprio lavoro di 30 pagine con lo stesso risultato, aggiungendo che il suo modello lo aveva ottenuto già il 6 novembre. Nessuna delle due dimostrazioni è ancora stata controllata da matematici esperti.\n\nIl problema, detto «VP contro VNP», è la versione algebrica del famoso P contro NP. Ci sono polinomi che si calcolano con pochi passaggi di somme e prodotti, come il determinante di una matrice, e polinomi che sembrano richiederne moltissimi, come il «permanente», che è uguale al determinante ma con tutti i segni positivi. La congettura dice che il permanente non si può calcolare con un circuito di somme e prodotti di dimensione ragionevole. Attenzione: anche se fosse vera, non risolve P contro NP e non è uno dei problemi del Millennio.\n\nIl lavoro di Anthropic (70 pagine, firmato «Claude») dà un limite inferiore: per una matrice m×m servono più di circa 2 elevato a (log m)^(4/3) operazioni, un numero che cresce più di qualsiasi polinomio. Vale in ogni campo di numeri: dove il permanente coincide col determinante si usa un altro polinomio. La dimostrazione divide il problema in due casi e mostra che in entrambi la conclusione regge, senza sapere quale dei due sia quello vero. Il tutto è stato trascritto nel linguaggio Lean, che permette al computer di controllare ogni passaggio: oltre 72.000 righe. OpenAI arriva allo stesso risultato con una strada simile, un limite un po' più debole ma sufficiente, e una versione in Lean di circa 440.000 righe.\n\nIl controllo al computer garantisce che ogni passaggio segua dal precedente, ma non che le definizioni di partenza (un file di 98 righe nel caso di Anthropic) descrivano davvero il problema originale: questo devono verificarlo persone esperte. L'informatico Lance Fortnow ha scritto che, se regge, è un risultato enorme e probabilmente corretto, ma si tratta di una prima impressione. OpenAI a ottobre aveva ritirato tre lavori per un errore di segno.",
+          "perche": "Se confermato, sarebbe il primo grande problema aperto dell'informatica teorica risolto da un'AI, e due dimostrazioni indipendenti rendono un errore meno probabile; ma serve ancora la verifica umana.",
+          "fonti": [
+            {
+              "nome": "DataCamp",
+              "url": "https://www.datacamp.com/blog/claude-claims-proof-of-valiants-conjecture-vp-vs-vnp"
+            },
+            {
+              "nome": "OfficeChai",
+              "url": "https://officechai.com/ai/openai-vp-vnp-proof-hours-after-anthropic-claude/"
+            },
+            {
+              "nome": "AI Weekly",
+              "url": "https://aiweekly.co/alerts/anthropic-publishes-claude-authored-vp-vnp-proof-unverified"
+            }
+          ],
+          "parole": [
+            "VP VNP",
+            "congettura di Valiant",
+            "Claude",
+            "Anthropic",
+            "OpenAI",
+            "Lean",
+            "complessità algebrica",
+            "matematica e AI"
+          ]
+        },
+        {
+          "titolo": "OpenAI sostiene che la sua AI ha trovato il numero esatto che misura quanto costa moltiplicare le matrici: 9/4",
+          "testo": "Il 24 novembre OpenAI ha pubblicato nel suo archivio di matematica un lavoro di 111 pagine, intitolato «L'esponente della moltiplicazione di matrici è nove quarti», attribuito all'azienda e ai suoi modelli. La moltiplicazione di tabelle di numeri (matrici) è l'operazione alla base di gran parte del calcolo, compresa l'AI. Il metodo di scuola per due matrici n×n richiede circa n³ moltiplicazioni; dal 1969 si sa che si può fare meglio, e da allora i matematici cercano il numero esatto, chiamato omega, tale che bastano circa n elevato a omega operazioni. Il miglior risultato umano recente era circa 2,371.\n\nIl lavoro arriva in due tempi. A ottobre OpenAI aveva già annunciato un metodo che scende a 9/4, cioè 2,25 (poi esteso da altri ricercatori a ogni tipo di numeri). La novità di questi giorni è la metà mancante: un limite inferiore che dice che non si può fare meglio di 9/4. Secondo il testo, per ogni n almeno 2, qualunque circuito che moltiplica due matrici n×n ha bisogno di almeno metà di n elevato a 9/4 moltiplicazioni o divisioni, anche se le somme fossero gratis. Se entrambe le metà reggono, omega è esattamente 9/4, in ogni campo di numeri.\n\nSébastien Bubeck di OpenAI ha scritto di non aver mai pensato di vedere un risultato così nella sua vita. Ma al momento è un preprint senza revisione, che gli esperti esterni hanno da appena due giorni. La parte trascritta nel linguaggio Lean, che il computer può controllare, copre solo i circuiti senza divisioni, mentre il risultato principale le ammette: quella parte si regge sulla sola dimostrazione scritta.\n\nIn pratica cambia poco: i metodi che si avvicinano a 9/4 funzionano solo per matrici enormi, e i programmi delle schede grafiche continueranno a usare metodi classici. Il valore è teorico: chiudere una domanda aperta da oltre cinquant'anni, con conseguenze su altri problemi di calcolo.",
+          "perche": "Se verificato, chiuderebbe una delle domande più studiate del calcolo, e insieme alla congettura di Valiant mostrerebbe che le AI ora affrontano problemi di matematica pura di primo piano.",
+          "fonti": [
+            {
+              "nome": "i10x",
+              "url": "https://i10x.ai/news/openai-matrix-multiplication-exponent-9-4-lower-bound-preprint"
+            },
+            {
+              "nome": "Unite.AI",
+              "url": "https://www.unite.ai/openai-preprint-reports-9-4-bound-for-matrix-multiplication/"
+            }
+          ],
+          "parole": [
+            "moltiplicazione di matrici",
+            "omega",
+            "9/4",
+            "OpenAI",
+            "algoritmi",
+            "limite inferiore",
+            "matematica e AI"
+          ]
+        }
+      ]
+    }
+  }
+}
