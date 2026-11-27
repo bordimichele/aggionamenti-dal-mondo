@@ -1,0 +1,407 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-27",
+  "aggiornamenti": [
+    "07:21"
+  ],
+  "sezioni": {
+    "italia": {
+      "articoli": [
+        {
+          "titolo": "Meloni non andrà al congresso dei magistrati: l'Anm parla di un nuovo attacco",
+          "testo": "L'Associazione nazionale magistrati (Anm), che riunisce la grande maggioranza dei giudici e dei pubblici ministeri italiani, aveva invitato la presidente del Consiglio Giorgia Meloni al suo congresso di Napoli. Meloni ha deciso di non partecipare e l'Anm lo ha fatto sapere giovedì mattina con una nota del suo presidente, Giuseppe Tango, che si dice profondamente dispiaciuto per la rinuncia a un confronto pubblico.\n\nSecondo Tango, l'invito era un passo verso il dialogo: l'idea era discutere con la premier di lotta alla criminalità organizzata, giustizia minorile, violenza di genere, carceri ed efficienza dei tribunali, cioè dei temi che toccano più da vicino i cittadini. Al posto del dialogo, dice l'Anm, è arrivato «l'ennesimo attacco strumentale» contro i magistrati, legato a una sentenza sull'applicazione di una legge dello Stato. L'articolo dell'ANSA non dice quale sia la sentenza né riporta le parole esatte della premier.\n\nNell'articolo non c'è una replica di Meloni o di Palazzo Chigi, né una spiegazione dei motivi del rifiuto: quella raccontata è la versione dell'Anm. Lo scontro si inserisce in un rapporto teso da tempo tra il governo e una parte della magistratura, fatto di critiche reciproche su singole sentenze e sulle riforme della giustizia.\n\nIl congresso di Napoli si terrà quindi senza la presidente del Consiglio. Per ora non sono stati annunciati altri incontri tra il governo e l'associazione dei magistrati.",
+          "perche": "Perché conta: il dialogo tra governo e magistrati pesa sulle riforme della giustizia e sul clima intorno ai tribunali; il rifiuto di Meloni segnala che lo scontro resta aperto.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/26/anm-noi-siamo-per-il-dialogo-ma-meloni-ci-attacca-e-rinuncia-al-confronto_06616678-fee1-4b92-a1e5-782355d38f7e.html"
+            }
+          ],
+          "parole": [
+            "Meloni",
+            "Anm",
+            "magistrati",
+            "Giuseppe Tango",
+            "giustizia",
+            "Napoli"
+          ]
+        },
+        {
+          "titolo": "Manovra, Salvini difende il condono edilizio: nessuna sanatoria per le zone sismiche. FdI propone il ticket di Venezia fino a 20 euro",
+          "testo": "Prosegue in Parlamento il lavoro sulla legge di bilancio. Giovedì, all'assemblea dei Comuni (Anci) a Verona, il vicepresidente del Consiglio Matteo Salvini ha difeso la norma sul condono edilizio che la Lega vuole nella manovra: secondo lui la richiesta viene dai sindaci, perché in Italia ci sono centinaia di migliaia di pratiche di sanatoria ferme anche da trent'anni, circa 40 mila solo a Napoli e circa quattro volte tante a Roma. Il governo, ha detto, sta scrivendo la norma insieme ai Comuni: l'idea è un meccanismo di silenzio-assenso, cioè le pratiche si considerano approvate se il Comune non risponde entro una scadenza, per chiuderne decine di migliaia entro il 2027.\n\nLa novità rispetto ai giorni scorsi è che tra gli emendamenti presentati da Fratelli d'Italia non c'è la sanatoria per le irregolarità nelle zone sismiche, comparsa in una bozza ma mai depositata. FdI ha segnalato circa 160 modifiche, tra cui exit tax, un bonus per i giovani assunti e la rivalutazione delle pensioni; Forza Italia chiede di adeguare del tutto all'inflazione le pensioni fino a sei volte il minimo, con un costo di 500 milioni l'anno dal 2027. Secondo alcuni giornali i soldi a disposizione delle modifiche parlamentari potrebbero salire da 120 a circa 150 milioni l'anno.\n\nTra le proposte c'è anche quella del deputato di FdI Gianluca Caramanna: alzare fino a 20 euro il ticket d'ingresso a Venezia, che oggi costa 5 o 10 euro a seconda di quando si prenota.\n\nDa Bruxelles Meloni ha detto che tutto ciò che migliora la manovra è utile, anche se arriva dalla maggioranza, ma che ci sono tempi da rispettare e che alla fine il Parlamento dovrà approvare il testo in fretta. Sul Superbonus, ha aggiunto, il lavoro è ancora in corso.",
+          "perche": "Perché conta: dal condono alle pensioni, queste modifiche decidono che cosa conterrà davvero la manovra del 2027; chi ha una pratica di sanatoria ferma o vuole visitare Venezia potrebbe esserne toccato.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/26/salvini-in-manovra-una-norma-sul-condono-la-stiamo-costruendo-con-i-comuni_6c4a993a-9e13-463d-b930-9be3df31a000.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/26/spunta-un-emendamento-fdi-in-manovra-alzare-il-ticket-per-venezia-fino-a-20-euro_212b551b-0d13-4cab-a6ab-61b654e4c1e6.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/meloni-faremo-cio-che-serve-per-migliorare-manovra-ma-ci-sono-tempi_7759dbde-d5e7-42f3-9cc1-be6e7d712a67.html"
+            }
+          ],
+          "parole": [
+            "manovra",
+            "condono",
+            "Salvini",
+            "Venezia",
+            "pensioni",
+            "legge di bilancio"
+          ]
+        },
+        {
+          "titolo": "Il «decreto scuola» è legge: tetto agli studenti stranieri e libri digitali a metà prezzo",
+          "testo": "Giovedì la Camera ha approvato in via definitiva, con un voto di fiducia, il cosiddetto decreto scuola, che diventa così legge. Le due misure più discusse sono il tetto del 30 per cento di studenti stranieri per classe e l'obbligo per gli editori di vendere i libri scolastici e universitari anche in formato digitale, a metà del prezzo della versione di carta e con la possibilità di stamparli.\n\nLa norma sui libri digitali è stata aggiunta al Senato e ha diviso la maggioranza. Fratelli d'Italia l'ha sostenuta con forza: secondo Arianna Meloni, capo della segreteria del partito, farà risparmiare alle famiglie circa 200 euro l'anno per figlio. Forza Italia era contraria, perché secondo il partito il risparmio sarà minore, visto che stampa e rilegatura restano a carico delle famiglie. Al Senato l'emendamento è passato grazie alle assenze nell'opposizione e ai voti di Azione. Alla Camera la fiducia ha impedito altre modifiche; la maggioranza ha però approvato un ordine del giorno, accolto dal governo, che chiede di rivedere la norma nel decreto di fine anno: escludere le elementari, rinviare di un anno per superiori e università e consultare editori, librai, insegnanti e famiglie.\n\nIl tetto agli stranieri vale per la prima classe di ogni ciclo e conta solo alcuni alunni: alle elementari chi non ha la cittadinanza, non è nato in Italia e non ha fatto almeno due anni di scuola dell'infanzia; alle medie e alle superiori chi non ha frequentato la scuola italiana per almeno tre anni. Le deroghe previste lo renderanno meno esteso; dove non si può rispettare arrivano fondi per insegnare l'italiano.\n\nLa legge vieta anche di coprire il volto a scuola (riguarda niqab e burqa, non il velo), rinomina istituti tecnici e professionali in «licei tecnici» e «licei professionali» e cambia le regole su sostegno e assunzioni dei docenti.",
+          "perche": "Perché conta: chi ha figli a scuola o all'università potrebbe pagare meno i libri, anche se la norma potrebbe cambiare presto; il tetto agli stranieri cambierà la formazione di alcune classi.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/26/decreto-scuola-legge-libri-digitali-ebook/"
+            }
+          ],
+          "parole": [
+            "decreto scuola",
+            "libri digitali",
+            "studenti stranieri",
+            "Camera",
+            "scuola"
+          ]
+        },
+        {
+          "titolo": "Ponte Buggianese, uccide la compagna e si toglie la vita dallo stesso viadotto dove morì Lorena Isceri",
+          "testo": "Giovedì mattina una giovane donna è stata uccisa nella casa di via Roma a Ponte Buggianese, in provincia di Pistoia, dove viveva con il compagno e, a quanto risulta, con alcuni parenti di lui. Secondo la ricostruzione ancora provvisoria riportata dall'ANSA, a ucciderla sarebbe stato proprio il compagno, che poi ha raggiunto l'autostrada A1 e si è gettato dal viadotto Lora, a Barberino di Mugello, in provincia di Firenze.\n\nCarabinieri e soccorsi sono arrivati poco prima delle 8.30 e la polizia scientifica ha lavorato a lungo dentro la casa. I titoli dell'ANSA indicano per la vittima un'età di 23 o 24 anni; l'articolo non riporta i nomi né il possibile movente, che saranno chiariti dalle indagini.\n\nIl viadotto è lo stesso dove il 3 settembre era stata uccisa Lorena Isceri, un altro caso di violenza contro una donna che aveva colpito molto la Toscana. Il nuovo omicidio arriva il giorno dopo la Giornata internazionale contro la violenza sulle donne, durante la quale il presidente della Repubblica Sergio Mattarella aveva ricordato che uscire da una relazione violenta non può dipendere solo dal coraggio della donna. Il caso è finito anche sulle prime pagine di diversi giornali di venerdì.\n\nLe indagini dovranno ricostruire che cosa sia successo nella casa e se ci fossero stati segnali o denunce precedenti.",
+          "perche": "Perché conta: è l'ennesimo femminicidio in poche settimane e riporta l'attenzione su quanto siano ancora insufficienti prevenzione e protezione delle donne in pericolo.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/uccide-compagna-poi-si-getta-dal-viadotto-lo-stesso-cavalcavia-di-lorena-isceri_6f905f2b-8704-4a58-90da-00838cbf4689.html"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/le-prime-pagine-di-oggi-4744/"
+            }
+          ],
+          "parole": [
+            "femminicidio",
+            "Ponte Buggianese",
+            "Pistoia",
+            "Barberino di Mugello",
+            "violenza sulle donne",
+            "Lorena Isceri"
+          ]
+        }
+      ]
+    },
+    "mondo": {
+      "articoli": [
+        {
+          "titolo": "Kuwait, due tecnici italiani della Rheinmetall uccisi in un attacco con droni",
+          "testo": "Due tecnici italiani sono morti giovedì in Kuwait dopo un attacco con droni contro un impianto militare considerato strategico. Sono Antonio Saccoccio, 65 anni, di Formia (Latina), e Emanuele Lo Russo, 36 anni, di Roma: lavoravano per Rheinmetall Italia, l'azienda di difesa che fornisce alle forze armate kuwaitiane il sistema antiaereo Skyguard, e si occupavano della manutenzione delle antenne radar in una base militare. Saccoccio era vicino alla pensione, Lo Russo era in azienda dal luglio 2023.\n\nSecondo il portavoce del ministero della Difesa kuwaitiano, i droni sono stati intercettati mentre si dirigevano verso l'impianto; nell'attacco sono rimasti feriti anche un cittadino kuwaitiano e uno pakistano, e ci sono stati danni materiali. Nelle prime ore le informazioni erano confuse: alcune notizie parlavano degli italiani come feriti, poi è arrivata la conferma della morte. Il Post e quasi tutti i giornali di venerdì parlano di droni iraniani; il ministro degli Esteri Antonio Tajani li ha definiti «probabilmente iraniani», mentre l'Iran ha negato di essere coinvolto e il suo ministro degli Esteri Araghchi ha mandato le condoglianze a Tajani.\n\nL'attacco avviene mentre nel Golfo prosegue lo scontro tra l'Iran e gli Stati Uniti, con attacchi alle navi nello stretto di Hormuz e il blocco americano. La Fiom-Cgil, il sindacato dei metalmeccanici, ha chiesto al governo e alle aziende di riportare subito a casa i lavoratori nelle zone più esposte, sostenendo che nessun protocollo di sicurezza protegge davvero chi lavora in guerra, e ha convocato un'assemblea con sciopero nella sede romana della Rheinmetall. Il presidente del Lazio Francesco Rocca ha espresso il cordoglio alle famiglie.\n\nIl governo ha fatto sapere di seguire gli sviluppi e di essere vicino alle famiglie; resta da chiarire chi abbia lanciato i droni.",
+          "perche": "Perché conta: sono i primi italiani uccisi nella crisi del Golfo e la loro morte pone il problema della sicurezza di chi lavora all'estero per le aziende della difesa.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/saccoccio-e-lo-russo-chi-erano-i-due-tecnici-morti-in-kuwait_25cdff06-f763-4a56-840c-5983e2295a1e.html"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/"
+            }
+          ],
+          "parole": [
+            "Kuwait",
+            "Rheinmetall",
+            "droni",
+            "Iran",
+            "Tajani",
+            "Golfo"
+          ]
+        },
+        {
+          "titolo": "Bilancio europeo, vertice di 15 ore senza accordo: l'Italia dice no, Costa punta a dicembre",
+          "testo": "Il Consiglio europeo straordinario sul bilancio pluriennale dell'Unione per gli anni 2028-2034 è durato circa quindici ore ed è finito nella notte tra giovedì e venerdì senza un accordo. Il presidente del Consiglio europeo António Costa aveva proposto di tagliare del 10 per cento la proposta della Commissione, portandola a circa 1.582 miliardi di euro, ma i Paesi sono rimasti divisi.\n\nDa una parte ci sono i Paesi «frugali» guidati dalla Germania, che chiedono altri tagli e più spazio per competitività e difesa; il cancelliere Friedrich Merz ha escluso nuovo debito comune. Alcuni di loro, come Svezia, Belgio, Danimarca e Austria, hanno disertato le riunioni a piccoli gruppi organizzate da Costa. Dall'altra ci sono gli «amici della coesione», che vogliono proteggere agricoltura e fondi per le regioni meno sviluppate, ma che sono a loro volta divisi. Giorgia Meloni è arrivata dicendo che l'Italia era «a anni luce» da una soluzione e contraria a nuovi tagli, a come sono divise le spese e a un meccanismo automatico di finanziamento dell'Ucraina per circa 100 miliardi in sette anni; secondo l'ANSA l'obiezione italiana riguarda l'automatismo, non gli aiuti in sé.\n\nResta aperto anche il prestito da 45 miliardi all'Ucraina per il 2027: lo sostengono 24 Paesi, mentre Ungheria, Repubblica Ceca e Slovacchia sono contrarie. A tarda notte Danimarca, Ungheria e Italia hanno chiesto a Costa di non presentare conclusioni comuni. Il primo ministro ungherese Péter Magyar ha definito il vertice inutile.\n\nCosta insiste che un'intesa serve entro la fine dell'anno e potrebbe presentare una nuova proposta già la prossima settimana, in vista del vertice di dicembre; secondo l'ANSA il rischio che l'accordo slitti al 2027 è concreto.",
+          "perche": "Perché conta: il bilancio europeo decide per sette anni quanti fondi arriveranno all'Italia per agricoltura, regioni del Sud e investimenti, e quanto l'Europa aiuterà l'Ucraina.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/il-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_29462849-8dd3-41b1-be83-b6aa6c47da24.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://ansa.it/sito/notizie/mondo/2026/11/26/al-via-il-vertice-ue-dedicato-al-bilancio.-meloni-niente-tagli-al-bilancio_d61f8cab-2589-48ec-a6bb-ff3094591418.html"
+            }
+          ],
+          "parole": [
+            "Unione Europea",
+            "bilancio Ue",
+            "Costa",
+            "Meloni",
+            "Merz",
+            "Ucraina"
+          ]
+        },
+        {
+          "titolo": "Gaza, Israele uccide un dirigente di Hamas. Katz: se non disarma, un milione di abitanti dovrà spostarsi a sud",
+          "testo": "Il ministro della Difesa israeliano Israel Katz ha annunciato giovedì l'uccisione a Gaza di Khaled Abu Nada, dirigente di Hamas responsabile di economia e istruzione. Secondo una nota congiunta di Katz e del primo ministro Benjamin Netanyahu, l'attacco è avvenuto nella notte a Deir al-Balah, nel centro della Striscia; i media palestinesi dicono che è stata uccisa anche la moglie. Per l'esercito israeliano Abu Nada gestiva le banche e gli investimenti di Hamas e faceva arrivare soldi alle attività armate.\n\nNetanyahu e Katz hanno detto che l'operazione fa parte di una serie di uccisioni mirate di dirigenti di Hamas e che nell'ultimo mese sono stati uccisi circa 80 miliziani del gruppo. Katz è andato oltre con un messaggio su X: se Hamas non consegnerà le armi, l'esercito interverrà per smantellarlo, con una nuova evacuazione di un milione di abitanti di Gaza verso sud e poi la «bonifica» del territorio. Non ha indicato tempi.\n\nNella stessa notte, secondo i media di Gaza, sei persone sono state uccise in attacchi israeliani su al-Tuffah, a est di Gaza City, e sul campo profughi di al-Shati, a ovest; altre fonti locali citate dall'ANSA parlano di sette vittime. Gli articoli non riportano una risposta di Hamas.\n\nIl disarmo di Hamas è uno dei nodi più difficili per il futuro della Striscia: la minaccia di Katz fa temere una ripresa su larga scala della guerra e un nuovo spostamento forzato della popolazione.",
+          "perche": "Perché conta: un nuovo sfollamento di un milione di persone aggraverebbe una crisi umanitaria già enorme e allontanerebbe ancora una soluzione per Gaza.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/26/katz-se-hamas-non-disarma-interviene-idf-e-un-milione-di-residenti-evacua-a-sud_fea2c43b-9ada-415c-ab6d-d34deb5680ce.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/media-di-gaza-sei-vittime-negli-attacchi-dellidf-durante-la-notte_c0f550f8-65b7-42e6-b150-711ca9835ef4.html"
+            }
+          ],
+          "parole": [
+            "Gaza",
+            "Hamas",
+            "Israel Katz",
+            "Netanyahu",
+            "Israele",
+            "Medio Oriente"
+          ]
+        },
+        {
+          "titolo": "Stati Uniti, un giudice blocca le nuove limitazioni di Trump alla cittadinanza per nascita",
+          "testo": "Un giudice federale americano, Christopher Cooper, ha bloccato il nuovo tentativo dell'amministrazione Trump di negare la cittadinanza ad alcune categorie di bambini nati negli Stati Uniti. Nella sentenza, pubblicata mercoledì, il giudice ha scritto che quei bambini sono soggetti alla giurisdizione americana e quindi la Costituzione garantisce loro la cittadinanza: il presidente, ha spiegato, non può inventare nuove eccezioni.\n\nIl caso riguarda gli ordini esecutivi firmati il 6 agosto 2026, rivolti contro il cosiddetto «turismo delle nascite», contro i figli di genitori che lavorano per governi stranieri od organizzazioni internazionali senza immunità diplomatica e contro i figli di genitori considerati «nemici stranieri». Gruppi per i diritti civili, tra cui l'Aclu, hanno fatto causa per conto dei bambini coinvolti. Un tribunale del Maryland aveva già sospeso le stesse regole a settembre.\n\nÈ l'ultimo capitolo di una lunga battaglia: a giugno la Corte suprema aveva annullato il primo ordine di Trump sul tema, stabilendo che il 14° emendamento non si può leggere in modo così restrittivo. Secondo il Migration Policy Institute, con quel primo ordine circa 255 mila bambini all'anno sarebbero rimasti senza cittadinanza.\n\nL'avvocato dell'Aclu ha detto che il presidente deve accettare che la cittadinanza per nascita è la legge. Una portavoce della Casa Bianca ha parlato invece di un «giudice attivista» e ha sostenuto che l'ordine rispetta le decisioni della Corte suprema. Non è ancora chiaro se il governo farà ricorso.",
+          "perche": "Perché conta: la cittadinanza per chi nasce negli Stati Uniti è uno dei principi della Costituzione americana; la sentenza riguarda anche i figli di stranieri, italiani compresi, che lavorano lì.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship"
+            }
+          ],
+          "parole": [
+            "Stati Uniti",
+            "Trump",
+            "cittadinanza",
+            "Corte suprema",
+            "immigrazione",
+            "Aclu"
+          ]
+        },
+        {
+          "titolo": "Venezuela, il Parlamento abrogherà la legge che esclude gli oppositori dalle cariche pubbliche",
+          "testo": "Il presidente dell'Assemblea nazionale del Venezuela, Jorge Rodríguez, ha annunciato che dal primo dicembre il Parlamento comincerà ad abrogare la cosiddetta «legge Simón Bolívar». La legge era stata approvata nel novembre del 2024, durante la presidenza di Nicolás Maduro, e prevede tra l'altro l'esclusione dalle cariche pubbliche fino a 60 anni per chi promuove o sostiene sanzioni internazionali contro il Venezuela.\n\nSecondo l'ANSA, nei fatti quella norma impediva alla maggior parte degli esponenti dell'opposizione di candidarsi o di ricoprire incarichi pubblici. Le principali organizzazioni per i diritti umani l'avevano criticata come uno strumento di persecuzione politica. Rispondendo ai giornalisti in aula, Rodríguez ha detto che la legge era nata per rispondere a un momento molto particolare che il Paese stava attraversando.\n\nL'abrogazione fa parte degli accordi raggiunti tre giorni prima nel quarto round di dialogo tra il governo e l'opposizione, rappresentata nei colloqui da Dinorah Figuera. Nello stesso periodo le Nazioni Unite hanno chiesto che i nuovi giudici della Corte suprema venezuelana siano scelti con criteri di indipendenza e merito.\n\nL'articolo non dà altre date oltre all'inizio del percorso parlamentare: andrà visto se l'abrogazione sarà completa e se gli oppositori potranno davvero tornare a candidarsi.",
+          "perche": "Perché conta: è un segnale concreto del dialogo tra governo e opposizione in Venezuela, Paese dove vive una grande comunità di origine italiana.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/venezuela-abroghera-la-legge-che-vieta-agli-oppositori-di-ricoprire-cariche-pubbliche_fbbc02f6-db9e-41cb-98f6-ef595c9fc047.html"
+            }
+          ],
+          "parole": [
+            "Venezuela",
+            "Jorge Rodríguez",
+            "opposizione",
+            "legge Simón Bolívar",
+            "diritti umani"
+          ]
+        }
+      ]
+    },
+    "economia": {
+      "articoli": [
+        {
+          "titolo": "Bce, accordo sullo spagnolo Pablo Hernández de Cos come successore di Lagarde",
+          "testo": "I leader europei, riuniti giovedì a Bruxelles, hanno trovato l'accordo per nominare lo spagnolo Pablo Hernández de Cos nuovo presidente della Banca centrale europea, al posto di Christine Lagarde, che aveva annunciato di lasciare a febbraio, quasi otto mesi prima della fine del mandato. Nel comitato esecutivo della Bce entreranno anche la francese Laurence Boone, ex ministra ed ex capo economista dell'Ocse, che seguirà le operazioni di mercato, e il tedesco Markus Brunnermeier, economista dell'università di Princeton, che sarà capo economista. Per la Spagna è la prima presidenza della Bce; anche i Paesi Bassi, che fino all'ultimo avevano sostenuto il loro candidato Klaas Knot, si sono allineati.\n\nDe Cos ha 55 anni e quasi trent'anni di carriera nelle banche centrali: è stato governatore della Banca di Spagna dal 2018, ha guidato il Comitato di Basilea sulla vigilanza bancaria e dal luglio 2025 dirige la Banca dei regolamenti internazionali. Viene descritto come una «colomba» sui tassi, cioè favorevole a politiche che sostengono l'economia, ma rigoroso sui conti pubblici: un profilo che mette d'accordo i Paesi del Nord e quelli del Sud.\n\nLa nomina non è ancora definitiva: servono una raccomandazione dei ministri dell'Economia dell'eurozona, i pareri del Parlamento europeo e della stessa Bce e poi la decisione finale dei leader, attesa al vertice di dicembre. L'Italia non aveva un candidato e conserva il suo posto nel comitato esecutivo con Piero Cipollone.\n\nDe Cos troverà una situazione difficile: alcuni membri del consiglio della Bce temono che l'inflazione non torni al 2 per cento prima del 2028 e hanno fatto capire che potrebbero servire nuovi aumenti dei tassi.",
+          "perche": "Perché conta: chi guida la Bce decide i tassi d'interesse, cioè quanto costano mutui e prestiti in Italia e quanto paga lo Stato sul suo debito.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/confronto-tra-i-leader-sulla-bce-oggi-verso-lavvio-iter-formale_b89e1430-4300-482f-9508-c475065af9d8.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/de-cos-il-tecnocrate-che-mette-daccordo-falchi-e-colombe_84451a74-04ba-4f63-989e-a6bf3365d7fc.html"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/26/pablo-hernandez-de-cos-presidente-bce/"
+            }
+          ],
+          "parole": [
+            "Bce",
+            "Hernández de Cos",
+            "Lagarde",
+            "tassi",
+            "Boone",
+            "Brunnermeier"
+          ]
+        },
+        {
+          "titolo": "Borse, rimbalzo deciso in Europa: Milano chiude a +2,36% dopo il chiarimento sui dazi americani",
+          "testo": "Dopo alcune giornate molto agitate per la paura di una bolla dell'intelligenza artificiale, giovedì le Borse europee sono salite con decisione. Milano è stata la migliore: l'indice Ftse Mib ha chiuso in rialzo del 2,36 per cento a 48.362 punti. Bene anche Francoforte, Londra, Parigi e Madrid, con rialzi tra l'1,8 e oltre il 2 per cento. Wall Street era chiusa per la festa del Ringraziamento, quindi gli scambi sono stati più scarsi del solito.\n\nDue le spinte principali. La prima è il ritorno della fiducia nei titoli tecnologici legati all'intelligenza artificiale, dopo il rialzo del Nasdaq americano del giorno prima: sono saliti i produttori di chip come StMicroelectronics (oltre il 5 per cento), Infineon e Soitec. La seconda è un chiarimento arrivato dagli Stati Uniti: i nuovi dazi contro la Cina e decine di altri Paesi sostituiranno quelli già in vigore, invece di aggiungersi.\n\nA Piazza Affari sono andate molto bene Stellantis, salita di circa il 6-7 per cento dopo uno studio favorevole di JpMorgan sul settore auto, e Prysmian, oltre il 6 per cento dopo il via libera della Grecia a un cavo sottomarino da 910 milioni di euro tra il Dodecaneso e la terraferma. Salite anche le banche. Lo spread tra Btp e Bund tedeschi è sceso intorno ai 107-108 punti, con il rendimento del Btp a dieci anni intorno al 4,3 per cento. Il petrolio Wti è salito sopra gli 84 dollari al barile.\n\nResta comunque la cautela: le preoccupazioni sugli enormi investimenti nell'intelligenza artificiale non sono sparite e i prossimi giorni diranno se il rimbalzo tiene.",
+          "perche": "Perché conta: dopo i cali dei giorni scorsi chi ha risparmi investiti in Borsa o in fondi ha recuperato una parte delle perdite; lo spread più basso aiuta i conti dello Stato.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-europa-brillante-wall-street-chiusa-milano-regina-215_ec9ef9e4-38f7-4884-98ec-e28774ddb162.html"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-milano-chiude-in-forte-rialzo-236_4dcf4e5a-cc42-4c52-9da2-e23050aca16e.html"
+            },
+            {
+              "nome": "ANSA Teleborsa",
+              "url": "https://teleborsa.ansa.it/notiziario/finanza/azionario-europeo-in-rialzo-con-chiarimento-sui-dazi-usa-wall-street-chiusa-per-festivita/"
+            }
+          ],
+          "parole": [
+            "Borsa",
+            "Piazza Affari",
+            "dazi",
+            "Stellantis",
+            "spread",
+            "intelligenza artificiale"
+          ]
+        },
+        {
+          "titolo": "Superbonus, Orsini: Giorgetti ci ha assicurato che si torna alle regole di prima",
+          "testo": "Il presidente di Confindustria Emanuele Orsini ha detto giovedì all'ANSA di aver ricevuto dal ministro dell'Economia Giancarlo Giorgetti la rassicurazione che sul Superbonus si tornerà alle regole precedenti. Orsini ha parlato a margine dell'assemblea di Confindustria Umbria ad Assisi, dopo aver incontrato Giorgetti al ministero per discutere delle misure per l'industria nella legge di bilancio.\n\nAl centro della discussione c'è la norma della manovra chiamata «spalma crediti»: prevede che una parte dei crediti d'imposta del Superbonus, cioè gli sconti fiscali maturati con i lavori edilizi e utilizzabili dal 2027, venga distribuita su dieci anni invece che su un periodo più breve. Per le imprese che hanno questi crediti nei loro bilanci significherebbe recuperare i soldi molto più lentamente, e alcune di loro sono già in difficoltà.\n\nOrsini ha definito molto positiva la rassicurazione, soprattutto per queste aziende, e ha detto di sperare che il governo continui su questa strada. L'articolo non riporta un commento di Giorgetti e non spiega nel dettaglio che cosa tornerà come prima. Lo stesso giorno Giorgia Meloni aveva detto da Bruxelles che sul Superbonus il lavoro è ancora in corso.\n\nLa modifica, se arriverà, dovrà passare dagli emendamenti alla legge di bilancio in discussione in Parlamento nelle prossime settimane.",
+          "perche": "Perché conta: riguarda le imprese edili e chi ha comprato crediti del Superbonus; spalmarli su dieci anni farebbe risparmiare lo Stato ma metterebbe in difficoltà molte aziende.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/orsini-sul-superbonus-rassicurazioni-da-giorgetti-che-si-torna-a-quello-che-era_8ab951a9-3a97-41dd-834a-148819d03ba7.html"
+            }
+          ],
+          "parole": [
+            "Superbonus",
+            "Orsini",
+            "Giorgetti",
+            "Confindustria",
+            "manovra",
+            "crediti d'imposta"
+          ]
+        }
+      ]
+    },
+    "tech": {
+      "articoli": [
+        {
+          "titolo": "Nvidia sospende l'invio di server in quattro Paesi del Sud-est asiatico",
+          "testo": "Secondo il Financial Times, ripreso dall'ANSA, Nvidia ha chiesto ai suoi partner di sospendere le spedizioni di server con i suoi chip verso Malesia, Singapore, Thailandia e Indonesia. Produttori come Dell e Supermicro, che montano i processori di Nvidia nei loro server, hanno già avvisato i clienti di quei Paesi che l'azienda americana non autorizzerà le consegne. Non è chiaro se il blocco sarà temporaneo e nell'articolo non c'è un commento di Nvidia.\n\nLa decisione arriva mentre gli Stati Uniti rendono più severi i controlli sulle esportazioni, per impedire alla Cina di avere accesso alla potenza di calcolo necessaria a sviluppare l'intelligenza artificiale. Quei quattro Paesi erano diventati punti di passaggio importanti per gli sviluppatori cinesi, che li usavano per arrivare ai processori più avanzati di Nvidia, la cui vendita diretta alla Cina è limitata.\n\nNvidia e i suoi partner stanno valutando come rispettare le nuove regole di Washington. Nvidia è l'azienda più importante al mondo nei chip per l'intelligenza artificiale, quindi ogni sua scelta pesa su tutto il settore.\n\nSul tema delle esportazioni si muove anche l'Europa: il primo ministro olandese Rob Jetten ha detto a Bruxelles che i Paesi Bassi faranno di tutto per convincere gli Stati Uniti a non approvare il «Match Act», una proposta di legge che limiterebbe ancora di più l'export verso la Cina delle tecnologie per produrre chip, sostenendo che i controlli olandesi sono già molto efficaci.",
+          "perche": "Perché conta: la corsa all'intelligenza artificiale passa dai chip, e le regole americane sull'export toccano anche l'industria europea dei semiconduttori.",
+          "fonti": [
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/economia/2026/11/26/nvidia-interrompe-le-spedizioni-di-chip-nel-sud-est-asiatico_27e7cae2-53a9-457f-b644-27498f0df661.html"
+            },
+            {
+              "nome": "ANSA Teleborsa",
+              "url": "https://teleborsa.ansa.it/notiziario/finanza/nvidia-rumours-chiede-ai-partner-di-sospendere-invio-server-in-quattro-paesi-asiatici/"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/26/jetten-faremo-di-tutto-per-fermare-la-stretta-usa-sullexport-di-chip_cfe3bbc3-b468-44fb-a843-3dc9063899c7.html"
+            }
+          ],
+          "parole": [
+            "Nvidia",
+            "chip",
+            "export",
+            "Cina",
+            "Malesia",
+            "Singapore",
+            "Jetten"
+          ]
+        },
+        {
+          "titolo": "Via libera americano a SpaceX: fino a un milione di satelliti per data center nello spazio",
+          "testo": "La Federal Communications Commission (Fcc), l'autorità americana per le comunicazioni, ha autorizzato SpaceX a lanciare fino a un milione di satelliti per creare una rete di data center in orbita, cioè centri di calcolo nello spazio dedicati all'intelligenza artificiale. Secondo l'ANSA, che cita la Bbc, il progetto si chiama «Starmind»: i satelliti userebbero la luce del Sole per alimentarsi, elaborerebbero i dati e invierebbero i risultati a Terra. È la prima autorizzazione di questo tipo.\n\nIl presidente della Fcc Brendan Carr ha detto che gli Stati Uniti stanno guidando il mondo verso l'era della «superintelligenza» e che, sotto la presidenza Trump, il Paese vuole far sì che questa tecnologia porti benefici duraturi ai cittadini. Gli ostacoli tecnici però sono enormi: servono pannelli solari giganteschi, sistemi di raffreddamento molto sofisticati e una capacità di trasmettere dati verso Terra molto superiore a quella attuale. Non sono state indicate date per i lanci e SpaceX non ha commentato.\n\nNello stesso giorno Elon Musk ha promesso di regalare due azioni di SpaceX a ogni bambino americano, per un valore complessivo di quasi 18 miliardi di dollari: una arriverebbe dall'azienda, legata ai conti di risparmio per i bambini promossi dall'amministrazione Trump, e una da lui personalmente.\n\nIl numero di satelliti autorizzati non ha precedenti, e per ora si tratta di un permesso: resta da vedere quanta parte del progetto verrà davvero realizzata e in quanto tempo.",
+          "perche": "Perché conta: se realizzato, il progetto cambierebbe l'uso dello spazio e la corsa all'intelligenza artificiale, ma solleva dubbi su affollamento dell'orbita e fattibilità.",
+          "fonti": [
+            {
+              "nome": "ANSA Teleborsa",
+              "url": "https://teleborsa.ansa.it/notiziario/finanza/spacex-via-libera-del-governo-usa-al-lancio-di-satelliti-per-data-center-ai-nello-spazio/"
+            },
+            {
+              "nome": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/musk-rilancia-due-azioni-spacex-per-ogni-bambino-usa_b30a7e86-7186-4d52-9b1d-2bb5f36f305f.html"
+            }
+          ],
+          "parole": [
+            "SpaceX",
+            "Musk",
+            "satelliti",
+            "data center",
+            "Fcc",
+            "intelligenza artificiale"
+          ]
+        }
+      ]
+    },
+    "clima": {
+      "articoli": [
+        {
+          "titolo": "California, maree record e onde devastanti sulla costa durante il Ringraziamento",
+          "testo": "Durante la settimana del Ringraziamento la costa della California, da San Diego a San Francisco, è stata allagata dalle cosiddette «maree reali», le maree più alte dell'anno, rese ancora più alte da un livello del mare cresciuto a causa di un El Niño molto forte. A Los Angeles mercoledì la marea ha raggiunto 8,19 piedi (circa 2,5 metri) sopra la media della bassa marea, eguagliando un record del mese prima; a La Jolla le onde hanno colpito le case e superato un altro record recente. A Pacifica le onde hanno portato via un pezzo del molo e San Diego ha chiuso alcune passeggiate.\n\nIl climatologo Daniel Swain spiega che l'acqua così alta non dipende da tempeste, ma dalla combinazione tra maree eccezionali e un «super El Niño» amplificato dal riscaldamento globale, a cui si aggiunge un'onda di acqua calda che risale la costa occidentale. Secondo l'esperto Joseph Lucey-Renteria della Cal State LA, a dicembre andrà peggio e livelli simili torneranno a gennaio.\n\nGli abitanti si arrangiano con sacchi di sabbia, compensato e nastro adesivo per rialzare muri di contenimento crepati. A Naples, quartiere di Long Beach, i canali sono arrivati all'orlo e minacciano case da milioni di dollari, protette da un muro di 90 anni la cui ristrutturazione da 125 milioni era stata sospesa nel 2024. A Newport Beach la squadra per le acque piovane è passata da circa 20 a 60 persone e in un mese sono stati rialzati circa 70 muri.\n\nUn responsabile dei servizi di Newport Beach dice di vedere maree più estreme rispetto ai primi anni Duemila e che, se diventerà la norma, le infrastrutture andranno ricostruite.",
+          "perche": "Perché conta: è un'anticipazione di quello che l'innalzamento del mare porterà sempre più spesso anche sulle coste italiane, da Venezia al resto dell'Adriatico.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/26112026/california-endures-historic-coastal-flooding-waves-thanksgiving/"
+            }
+          ],
+          "parole": [
+            "California",
+            "maree",
+            "El Niño",
+            "innalzamento del mare",
+            "Los Angeles",
+            "inondazioni"
+          ]
+        },
+        {
+          "titolo": "Maine, i danni delle tempeste fanno salire le bollette elettriche",
+          "testo": "Lo Stato americano del Maine ha uno dei costi dell'energia più pesanti degli Stati Uniti, e una delle cause principali sono le spese per riparare la rete dopo le tempeste. Secondo l'agenzia federale per l'energia, tra il 2019 e il 2025 il prezzo dell'elettricità nel Maine è salito del 64 per cento, contro una media nazionale del 38 per cento. Nel 2023 e nel 2024 il Maine è stato anche lo Stato con più blackout per cliente. Le famiglie a basso reddito spendono circa l'8 per cento delle entrate per la luce e un altro 6 per cento per il riscaldamento.\n\nLa principale azienda elettrica, Central Maine Power (Cmp), ha dichiarato oltre 600 milioni di dollari di spese per le tempeste tra il 2021 e il 2025; solo quella dell'aprile 2024 è costata più di 100 milioni. Il sistema prevede che i clienti paghino ogni anno 14,1 milioni in una riserva e che la parte a carico della società oltre quella cifra non superi i 3 milioni: il resto finisce in bolletta. Secondo associazioni ambientaliste e il garante dei consumatori, così l'azienda non ha alcun interesse a contenere le spese. Cmp non ha risposto ai giornalisti, ma ha detto alle autorità che le sue spese sono state prudenti.\n\nOra Cmp chiede un aumento di 189 milioni, circa 18 dollari al mese in più per una bolletta media; a ottobre le autorità avevano respinto all'unanimità un aumento temporaneo di 69 milioni. L'altra grande azienda, Versant Power, assorbe invece le spese in eccesso riducendo i guadagni degli azionisti.\n\nLa commissione per i servizi pubblici deciderà ad aprile 2027 e dovrà riferire al Parlamento dello Stato sulla sostenibilità delle bollette.",
+          "perche": "Perché conta: mostra chi paga il conto di eventi meteo sempre più violenti; lo stesso problema riguarda le reti elettriche italiane dopo alluvioni e trombe d'aria.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/25112026/maine-storms-power-bill-costs/"
+            }
+          ],
+          "parole": [
+            "Maine",
+            "bollette",
+            "tempeste",
+            "rete elettrica",
+            "Central Maine Power",
+            "Stati Uniti"
+          ]
+        },
+        {
+          "titolo": "Iowa, l'esercito fa esplodere cinque tonnellate di esplosivi al piombo: per gli scienziati è presto per dire che non ci sono rischi",
+          "testo": "Mercoledì mattina l'esercito degli Stati Uniti ha fatto esplodere circa cinque tonnellate di azoturo di piombo, un esplosivo deteriorato, nell'impianto di munizioni dell'Iowa a Middletown. L'operazione era stata rinviata più volte e contestata in tribunale per il timore che liberasse polveri tossiche: le due nuvole dell'esplosione si sono viste a chilometri di distanza e il colpo si è sentito ad almeno sei chilometri.\n\nL'amministratore dell'agenzia per l'ambiente Epa, Lee Zeldin, e i responsabili dell'esercito hanno detto che i primi campioni d'aria sottovento non mostravano piombo rilevabile. L'esercito rivendica le misure prese: un muro d'acqua di oltre 400 mila litri, argini di terra, blocchi pieni di sabbia, teloni e schiuma antincendio. Il generale Eric Shirley ha detto che il rischio per la salute è stato portato il più vicino possibile allo zero. Gli abitanti fino a otto chilometri a sud-ovest erano stati invitati a lasciare le case.\n\nDiversi scienziati invitano alla prudenza. Bruce Lanphear, esperto di piombo, osserva che non trovare piombo nei primi campioni non dimostra che non ce ne sia stato e chiede quali fossero i limiti degli strumenti. Alexander More dell'università del Massachusetts nota che il sito dell'Epa arrotonda a zero i valori più bassi e che dopo l'esplosione ci sono state sette letture diverse da zero, contro tre prima. Molti abitanti dell'Iowa, comprese le agenzie statali e la governatrice Kim Reynolds, erano stati informati solo cinque giorni prima.\n\nOra sono previsti controlli del suolo, analisi del piombo nel sangue dei bambini e un monitoraggio continuo; resta in corso la causa delle associazioni ambientaliste.",
+          "perche": "Perché conta: il piombo è dannoso soprattutto per i bambini anche in piccole quantità; il caso mostra quanto conti la trasparenza quando si smaltiscono sostanze pericolose.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/"
+            }
+          ],
+          "parole": [
+            "Iowa",
+            "piombo",
+            "esplosivi",
+            "esercito americano",
+            "Epa",
+            "inquinamento"
+          ]
+        }
+      ]
+    }
+  }
+}
