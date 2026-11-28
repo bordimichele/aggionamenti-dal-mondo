@@ -1,0 +1,229 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-28",
+  "sezioni": {
+    "tecnologia": {
+      "articoli": [
+        {
+          "titolo": "Luce ultravioletta prodotta su un chip: Harvard ne ottiene 120 volte più di prima, utile per computer quantistici e orologi atomici",
+          "testo": "Un gruppo della scuola di ingegneria di Harvard, nel laboratorio di Marko Lončar, ha costruito un chip ottico che trasforma luce rossa in luce ultravioletta con una potenza mai raggiunta prima su questo tipo di dispositivo. Il lavoro è pubblicato, dopo revisione, sulla rivista Nature Communications; i primi autori sono Kees Franken e Soumya Ghosh.\n\nIl chip è fatto di niobato di litio in strato sottile, un cristallo molto usato in fotonica. Dentro una minuscola guida di luce due fotoni rossi si fondono in un solo fotone ultravioletto, con un processo chiamato conversione di frequenza. Perché funzioni bene, il cristallo deve avere zone con orientamento alternato, disposte con grande regolarità. La novità sta nel modo di crearle: invece di mettere gli elettrodi solo sopra lo strato, il gruppo li ha posati ai lati della guida già incisa («sidewall poling»), così l'orientamento si inverte su tutta la sezione della guida. Gli elettrodi vanno posizionati con una precisione di circa 50 milionesimi di millimetro.\n\nIl risultato: 4,2 milliwatt di luce ultravioletta a 390 nanometri dentro il chip, circa 120 volte più dei migliori dispositivi simili fatti finora, che si fermavano a qualche decina di microwatt.\n\nLa luce ultravioletta serve in molte macchine di precisione che oggi richiedono laser ingombranti: i computer quantistici a ioni intrappolati, che usano il laser per controllare i singoli atomi, gli orologi atomici e i sensori compatti per i gas serra. Portarla su un chip è un passo per rendere queste macchine più piccole ed economiche.\n\nI limiti: gli stessi autori dicono di non aver ancora capito del tutto alcuni effetti secondari che compaiono nel cristallo, e 390 nanometri è solo una delle lunghezze d'onda che servono: molti ioni usati nei computer quantistici richiedono ultravioletti più profondi. Per ora è un risultato di laboratorio, non un componente in commercio. La ricerca è stata finanziata da aeronautica e marina militare americane, NASA e National Science Foundation.",
+          "perche": "Rimpicciolire i laser ultravioletti è uno dei nodi per costruire computer quantistici e orologi atomici più compatti: un aumento di 120 volte della potenza su chip è un salto concreto.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato di Harvard)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm"
+            }
+          ],
+          "parole": [
+            "luce ultravioletta",
+            "fotonica",
+            "niobato di litio",
+            "chip ottico",
+            "computer quantistico",
+            "Harvard",
+            "Nature Communications"
+          ]
+        },
+        {
+          "titolo": "Dal PVC, una delle plastiche più difficili da riciclare, un olio lubrificante di alta qualità: lo studio su Nature",
+          "testo": "Un gruppo del Virginia Tech guidato dal chimico Guoliang «Greg» Liu ha messo a punto un modo per trasformare il PVC buttato via (tubi, infissi delle finestre, vecchie carte di credito) in polialfaolefine, le sostanze di base degli oli sintetici per motori. Lo studio è pubblicato su Nature, dopo revisione, con la collaborazione di ricercatori della Texas A&M e del Caltech.\n\nIl PVC è una delle plastiche più problematiche: contiene molto cloro, che durante il riciclo e la combustione libera sostanze corrosive e tossiche, e per questo finisce quasi sempre in discarica. Il procedimento descritto lo scioglie in un solvente insieme al tricloruro di alluminio, che fa da catalizzatore, e a molecole chiamate alfa-olefine. La miscela viene scaldata a circa 70 gradi per tre ore; alla fine se ne estrae un olio denso con le caratteristiche di un lubrificante.\n\nIl vantaggio è doppio: si recupera un materiale che oggi non ha quasi sbocchi e si ottiene un prodotto che vale più della plastica di partenza, cosa che rende il riciclo più interessante anche dal punto di vista economico. Nel gruppo c'è infatti anche un economista che ha studiato i costi di una produzione su scala. Il lavoro prosegue ricerche precedenti dello stesso laboratorio, che aveva già trasformato altre plastiche in detergenti.\n\nChe cosa manca: il comunicato non dà rese né prove di durata dell'olio in un motore vero, e gli autori stessi indicano come prossimo passo importante il passaggio dal laboratorio a quantità industriali. Resta anche da capire come gestire il cloro tolto dal PVC lungo tutto il processo.",
+          "perche": "Il PVC è una plastica diffusissima e quasi impossibile da riciclare: trasformarlo in un prodotto di valore potrebbe dare un motivo economico per recuperarlo invece di buttarlo.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato del Virginia Tech)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
+            }
+          ],
+          "parole": [
+            "PVC",
+            "riciclo della plastica",
+            "lubrificanti",
+            "olio motore",
+            "polialfaolefine",
+            "Virginia Tech",
+            "Nature"
+          ]
+        }
+      ]
+    },
+    "medicina": {
+      "articoli": [
+        {
+          "titolo": "Tumore del rene avanzato: una nuova pillola che blocca HIF-2α fa ridurre il tumore in un paziente su cinque nella prima prova sull'uomo",
+          "testo": "Il Dana-Farber Cancer Institute di Boston ha pubblicato su Nature Cancer i primi risultati nell'uomo di NKT2152 (nome scientifico imdatifan), una pillola che blocca la proteina HIF-2α. Lo studio è guidato dall'oncologo Toni Choueiri ed è stato pagato dall'azienda che sviluppa il farmaco, NiKang Therapeutics.\n\nHIF-2α è una specie di interruttore che, nel carcinoma a cellule chiare del rene (la forma più comune di tumore del rene), resta sempre acceso a causa di un difetto genetico e spinge il tumore a crescere e a nutrirsi di nuovi vasi sanguigni. Esiste già un farmaco di questa famiglia, il belzutifan; NKT2152 è uno della generazione successiva.\n\nSi tratta di uno studio di fase 1/2, aperto (tutti sapevano che cosa prendevano) e senza un gruppo di confronto, condotto in più centri. Sono stati arruolati 120 pazienti con tumore avanzato, già trattati con le terapie standard, che hanno ricevuto dosi crescenti del farmaco da solo. Nel 22% dei casi il tumore si è ridotto in modo misurabile, e in chi ha risposto l'effetto è durato in mediana 28,6 mesi, cioè più di due anni. Gli effetti collaterali sono descritti come gestibili e simili a quelli già noti per questa classe di farmaci; il comunicato non dà però le percentuali.\n\nIl gruppo ha anche osservato che nel sangue dei pazienti che rispondevano scendeva la proteina KIM-1, segno che il farmaco colpiva il bersaglio giusto: in futuro potrebbe servire per capire in anticipo chi ne trarrà beneficio, ma va ancora confermato.\n\nI limiti sono quelli di uno studio iniziale: senza un confronto diretto non si può dire se NKT2152 sia migliore del belzutifan, e servono studi più grandi, probabilmente in combinazione con altre terapie.",
+          "perche": "Per il tumore del rene già resistente alle cure ci sono poche opzioni: un secondo farmaco contro HIF-2α, con risposte lunghe in chi risponde, allarga le possibilità da studiare.",
+          "fonti": [
+            {
+              "nome": "BrightSurf (comunicato del Dana-Farber Cancer Institute)",
+              "url": "https://www.brightsurf.com/news/86ZM3OR8/first-in-human-clinical-trial-of-next-generation-hif-2-inhibitor-demonstrates-feasibility-safety-and-antitumor-activity-in-advanced-kidney-cancer.html"
+            }
+          ],
+          "parole": [
+            "tumore del rene",
+            "carcinoma a cellule chiare",
+            "HIF-2α",
+            "NKT2152",
+            "imdatifan",
+            "belzutifan",
+            "Nature Cancer",
+            "Dana-Farber"
+          ]
+        },
+        {
+          "titolo": "Parodontite grave: omega-3 e aspirina a basso dosaggio funzionano come gli antibiotici in uno studio brasiliano di un anno",
+          "testo": "Uno studio clinico randomizzato e in doppio cieco, pubblicato sul Journal of Periodontology, ha confrontato quattro modi di curare la parodontite avanzata, l'infiammazione cronica che distrugge gengive e osso attorno ai denti. Lo hanno condotto più università brasiliane con la Harvard School of Dental Medicine; la coordinatrice è Magda Feres, il comunicato viene dalla fondazione per la ricerca dello Stato di San Paolo (FAPESP).\n\nTutti i 109 adulti partecipanti hanno ricevuto la pulizia profonda delle radici, la cura di base. In più, un gruppo ha preso un placebo; uno due antibiotici (metronidazolo e amoxicillina) per 14 giorni; uno omega-3 (3 grammi al giorno) insieme ad aspirina a basso dosaggio per sei mesi; l'ultimo entrambe le cose. L'obiettivo era arrivare a un anno con non più di quattro «tasche» profonde residue tra dente e gengiva.\n\nCi è arrivato circa il 58% di chi aveva preso gli antibiotici e il 57,7% di chi aveva preso omega-3 e aspirina, contro il 23,1% del gruppo con il solo placebo. Mettere insieme le due cure non ha dato vantaggi in più. Il beneficio di omega-3 e aspirina era ancora presente sei mesi dopo averli sospesi. L'idea è che invece di uccidere i batteri si calmi l'infiammazione, che è la vera causa del danno, evitando di usare antibiotici e quindi di favorire le resistenze.\n\nI limiti, indicati dagli stessi autori: i pazienti erano pochi e non avevano altre malattie importanti, quindi i risultati potrebbero non valere per tutti; l'aspirina aumenta il rischio di sanguinamento. Gli autori dicono chiaramente che la pratica clinica non va ancora cambiata e che servono studi più grandi; intanto stanno studiando come ogni cura modifica i batteri sotto la gengiva.",
+          "perche": "Gli antibiotici per la parodontite sono molto usati e alimentano le resistenze: un'alternativa che agisce sull'infiammazione, se confermata, ridurrebbe il loro impiego.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato FAPESP)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm"
+            }
+          ],
+          "parole": [
+            "parodontite",
+            "gengive",
+            "omega-3",
+            "aspirina",
+            "antibiotici",
+            "resistenza agli antibiotici",
+            "Journal of Periodontology"
+          ]
+        },
+        {
+          "titolo": "Demenza: muoversi nel tempo libero è legato a un rischio più basso del 24%, la fatica fisica del lavoro a uno più alto del 20%",
+          "testo": "Un gruppo guidato da David Raichlen dell'Università della California del Sud, con il primo autore brasiliano Natan Feter, ha pubblicato su The Lancet Public Health una revisione sistematica con meta-analisi: ha riunito i dati di 74 studi su oltre 4,2 milioni di persone tra i 45 e i 93 anni, in 30 Paesi, seguite in mediana per dieci anni.\n\nLa domanda era se tutti i tipi di attività fisica proteggono il cervello allo stesso modo. La risposta è no. Chi faceva più attività nel tempo libero (sport, camminate, esercizio scelto) aveva un rischio di demenza più basso del 24% rispetto a chi ne faceva poca. Chi invece faceva lavori fisicamente pesanti aveva un rischio più alto del 20%. Andare al lavoro a piedi o in bicicletta mostrava un piccolo aumento, mentre i lavori di casa sembravano utili, ma su questi due punti c'erano solo uno o due studi.\n\nGli autori pensano che la differenza non stia nel movimento in sé ma nel contesto: chi fa un lavoro pesante spesso ha meno istruzione, redditi più bassi, più stress, meno riposo e meno accesso a cure e a luoghi sicuri dove fare sport. L'attività nel tempo libero, invece, è di solito scelta, varia e stimolante anche per la mente.\n\nI limiti sono importanti: sono tutti studi osservazionali, quindi mostrano un legame e non una causa; l'attività era dichiarata dalle persone stesse; la maggior parte dei dati viene da Paesi ricchi. Gli autori chiedono ricerche sulle condizioni di lavoro e sull'accesso a spazi per l'esercizio. Lo studio è finanziato soprattutto dagli istituti sanitari americani NIH.",
+          "perche": "Conferma che il movimento scelto nel tempo libero è legato a un cervello più sano, ma avverte che la fatica fisica del lavoro non ne prende il posto: un tema anche di salute pubblica e di condizioni di lavoro.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato della University of Southern California)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm"
+            }
+          ],
+          "parole": [
+            "demenza",
+            "Alzheimer",
+            "attività fisica",
+            "lavoro fisico",
+            "meta-analisi",
+            "The Lancet Public Health",
+            "prevenzione"
+          ]
+        },
+        {
+          "titolo": "Perché il cuore non si ripara da solo: battere e moltiplicarsi sono due attività che le sue cellule non riescono a fare insieme",
+          "testo": "Dopo un infarto il cuore umano non rigenera le cellule muscolari perse: al loro posto resta una cicatrice. Un gruppo del Centro nazionale di ricerche cardiovascolari spagnolo (CNIC) di Madrid, guidato da Florian Weinberger, ha trovato una spiegazione di fondo e l'ha pubblicata, dopo revisione, su Nature Cardiovascular Research.\n\nGli scienziati hanno lavorato su cellule del muscolo cardiaco ottenute da cellule staminali umane, su piccoli tessuti cardiaci costruiti in laboratorio, su fettine di cuore vivo e su animali. Quando hanno fermato per un po' la contrazione, cioè il battito, è successo qualcosa di inatteso: le cellule hanno smontato i sarcomeri, i minuscoli «motori» che le fanno contrarre, sono tornate a usare l'energia come fanno le cellule giovani (con la glicolisi) e hanno ripreso la strada che porta a dividersi. Quando il battito è tornato, tutto si è invertito.\n\nIn altre parole le cellule del cuore adulto devono scegliere: o battono, o si moltiplicano. Il macchinario della contrazione occupa la cellula in modo tale da impedirle di dividersi. Questo aiuta a capire perché nei mammiferi il cuore smette di rigenerarsi poco dopo la nascita, quando comincia a lavorare a pieno ritmo.\n\nÈ ricerca di base: gli stessi autori dicono che non si traduce ancora in una cura, anche perché non si può fermare il cuore di un paziente. Il prossimo obiettivo è trovare modi per spingere le cellule a moltiplicarsi senza compromettere il battito, una strada che un giorno potrebbe servire dopo un infarto o nello scompenso cardiaco.",
+          "perche": "Spiega un limite fondamentale del cuore adulto e indica dove cercare per ottenere, in futuro, cure che lo facciano rigenerare dopo un infarto.",
+          "fonti": [
+            {
+              "nome": "BrightSurf (comunicato del CNIC)",
+              "url": "https://www.brightsurf.com/news/8J45WPRL/why-cant-the-heart-repair-itself-cnic-study-reveals-a-fundamental-trade-off-between-beating-and-regeneration.html"
+            }
+          ],
+          "parole": [
+            "cuore",
+            "rigenerazione",
+            "infarto",
+            "cardiomiociti",
+            "scompenso cardiaco",
+            "CNIC",
+            "Nature Cardiovascular Research"
+          ]
+        }
+      ]
+    },
+    "scienza": {
+      "articoli": [
+        {
+          "titolo": "Le grandi città costiere dell'Africa stanno sprofondando: entro il 2050 oltre 7 milioni di persone esposte alle inondazioni",
+          "testo": "Un gruppo di geoscienziati del Virginia Tech, con il primo autore Oluwaseyi Dasho e il professore Manoochehr Shirzaei, ha misurato quanto si abbassa il suolo in 20 grandi città costiere africane, dove vivono circa 90 milioni di persone. Lo studio è pubblicato, dopo revisione, su Science Advances.\n\nPer farlo hanno usato migliaia di immagini radar del satellite europeo Sentinel-1: confrontando passaggi successivi si misurano spostamenti del terreno di pochi millimetri l'anno. Con questi dati hanno costruito mappe dettagliate dell'abbassamento del suolo e le hanno inserite nelle proiezioni sul livello del mare dell'IPCC, insieme a quote del terreno, popolazione ed edifici.\n\nIn mediana Alessandria d'Egitto scende di 6 millimetri l'anno e Lagos, in Nigeria, di 5: più di quanto stimano i modelli globali, che non vedono bene questi fenomeni locali. Per Alessandria, con un riscaldamento intermedio, l'aumento del livello del mare rispetto alla città al 2050 risulta più alto di circa il 36% e l'area a rischio di allagamento cresce del 15%. A Lagos circa 2,6 milioni di persone vivevano già nel 2020 in zone esposte, e diventerebbero più di 4 milioni entro il 2100. Sommando le 20 città, un evento estremo di mare alto al 2050 potrebbe colpire oltre 7 milioni di persone e un milione di edifici, con beni per circa 180 miliardi di dollari. Le zone più critiche sono Lagos, Alessandria, Douala e Monrovia.\n\nLa parte buona è che l'abbassamento dipende soprattutto da cause locali: l'acqua pompata dalle falde, il terreno che si compatta, l'edilizia. Sono quindi cose su cui le città possono intervenire. Il limite è che per molte città africane le misure a terra restano scarse, e il metodo, pensato proprio per luoghi con pochi dati, andrà verificato sul campo.",
+          "perche": "Mostra che per molte città africane il rischio di inondazione è sottovalutato perché si guarda al mare che sale e non al suolo che scende, e che una parte del problema si può affrontare localmente.",
+          "fonti": [
+            {
+              "nome": "BrightSurf (comunicato del Virginia Tech)",
+              "url": "https://www.brightsurf.com/news/1WRDJ79L/africas-coastal-cities-are-sinking.html"
+            },
+            {
+              "nome": "BrightSurf (comunicato di AAAS, Science Advances)",
+              "url": "https://www.brightsurf.com/news/LMJYDVEL/study-of-20-african-megacities-spotlights-coastal-land-sinkage-as-an-underestimated-flood-risk.html"
+            }
+          ],
+          "parole": [
+            "subsidenza",
+            "abbassamento del suolo",
+            "Africa",
+            "Lagos",
+            "Alessandria",
+            "livello del mare",
+            "inondazioni",
+            "Sentinel-1"
+          ]
+        },
+        {
+          "titolo": "Il Global Canopy Atlas: le foreste di 56 Paesi misurate in 3D con il laser, in un unico archivio aperto",
+          "testo": "Più di cento istituti di ricerca hanno messo insieme, in cinque anni di lavoro, quasi 3.500 rilievi laser delle foreste fatti da aerei, elicotteri e droni. Il risultato è il Global Canopy Atlas, presentato su Nature Ecology & Evolution da Tommaso Jucker dell'Università di Bristol e Fabian Fischer dell'Università tecnica di Monaco, in collaborazione con l'Agenzia spaziale europea (ESA) e l'istituto austriaco IIASA.\n\nIl LiDAR è una tecnica che spara impulsi laser verso il basso e misura quanto tempo impiegano a tornare: così si ricostruisce in tre dimensioni sia l'altezza degli alberi sia il terreno sotto le chiome. Il problema finora era che ogni rilievo era fatto con strumenti e metodi diversi, e quindi i dati non erano confrontabili. Il gruppo li ha rielaborati tutti con lo stesso procedimento, ottenendo mappe dell'altezza della volta degli alberi e del suolo che si possono mettere una accanto all'altra.\n\nL'atlante copre oltre 5,5 milioni di ettari in 56 Paesi e 224 regioni ecologiche, dalle foreste tropicali a quelle boreali. Per circa un quinto dell'area ci sono rilievi ripetuti nel tempo, che permettono di vedere come cambia una foresta: alberi che crescono, cadono o vengono tagliati.\n\nQuesti dati servono a stimare quanto carbonio è immagazzinato negli alberi e a controllare le misure dei satelliti, tra cui la missione europea BIOMASS lanciata nel 2025. Tutto è consultabile su un sito con mappa interattiva. Il limite è la copertura: è un insieme di zone campione, non una mappa continua di tutte le foreste del mondo, e alcune regioni restano poco rappresentate.",
+          "perche": "Mette a disposizione di tutti un riferimento comune e preciso sulla struttura delle foreste, fondamentale per misurare il carbonio e verificare i satelliti che sorvegliano la deforestazione.",
+          "fonti": [
+            {
+              "nome": "BrightSurf (comunicato dell'Università di Bristol)",
+              "url": "https://www.brightsurf.com/news/LQ4YZKX8/groundbreaking-study-puts-global-forest-structures-in-laser-focus.html"
+            }
+          ],
+          "parole": [
+            "foreste",
+            "LiDAR",
+            "Global Canopy Atlas",
+            "carbonio",
+            "ESA",
+            "BIOMASS",
+            "Nature Ecology & Evolution"
+          ]
+        },
+        {
+          "titolo": "Il segreto del dente del narvalo: due spirali che girano in senso opposto lo rendono resistente alle torsioni",
+          "testo": "Il narvalo, il cetaceo artico detto «unicorno del mare», ha un lungo dente a spirale che può superare i due metri. Un gruppo internazionale guidato da Henrik Birkedal dell'Università di Aarhus, con l'Istituto Paul Scherrer svizzero (PSI), l'Università Chalmers e i grandi impianti di raggi X MAX IV in Svezia ed ESRF di Grenoble, ha scoperto come è costruito al suo interno. Lo studio è pubblicato su Nature Communications; primo autore Adrian Rodriguez-Palomo.\n\nGli scienziati hanno usato una tecnica chiamata tomografia tensoriale a raggi X: il dente viene fatto ruotare in un fascio di raggi X prodotto da un sincrotrone, e milioni di misure vengono combinate in una mappa tridimensionale che mostra non solo la forma ma anche l'orientamento delle fibre di collagene e dei cristalli minerali. La spirale interna è emersa solo confrontando l'orientamento di zone vicine.\n\nIl risultato: lo strato esterno del dente, il cemento, forma un'elica che gira verso sinistra, mentre la dentina sottostante, fatta di collagene mineralizzato, gira nel senso opposto. Le due eliche contrapposte lavorano insieme come i fili di una corda intrecciata: resistono alla torsione e danno al dente la sua forma a cavatappi.\n\nResta aperto a che cosa serva davvero il dente, se a farsi scegliere dalle femmine o nei giochi sociali tra maschi. Il progetto, finanziato dall'ente nordico NordForsk, ora vuole leggere gli strati di crescita del dente, che può accompagnare l'animale per decenni, come un archivio del clima artico simile agli anelli degli alberi. Il principio delle eliche opposte potrebbe anche ispirare materiali artificiali più resistenti.",
+          "perche": "Svela una soluzione costruttiva elegante della natura, che può ispirare materiali resistenti, e apre la strada a usare i denti di narvalo come archivio del clima artico.",
+          "fonti": [
+            {
+              "nome": "ScienceDaily (comunicato dell'Istituto Paul Scherrer)",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
+            }
+          ],
+          "parole": [
+            "narvalo",
+            "dente",
+            "collagene",
+            "raggi X",
+            "sincrotrone",
+            "biomateriali",
+            "Artico",
+            "Nature Communications"
+          ]
+        }
+      ]
+    },
+    "ai": {
+      "articoli": [
+        {
+          "titolo": "Google DeepMind: squadre di agenti Gemini 4 rendono più economici cinque algoritmi quantistici, e ogni miglioramento è dimostrato in Lean",
+          "testo": "Google DeepMind e Google Quantum AI hanno raccontato sul loro blog, il 23 novembre, un esperimento in cui gruppi di agenti di intelligenza artificiale basati su Gemini 4 hanno migliorato algoritmi quantistici già noti, riducendo le risorse necessarie per eseguirli. La notizia non era ancora stata data qui. Il lavoro è firmato da Sergey Shirobokov, Ben Jaderberg e Ryan Babbush ed è accompagnato da un articolo scientifico su arXiv, quindi non ancora passato per la revisione di una rivista.\n\nIl metodo: più squadre di agenti lavoravano in modo indipendente sullo stesso problema. Ogni idea veniva controllata con Lean, un programma che verifica le dimostrazioni matematiche passo per passo, e solo se reggeva finiva in un quaderno comune. Ogni quattro ore le squadre si ritrovavano in una specie di «convegno virtuale» per scambiarsi le idee migliori. Così il costo dei circuiti scendeva via via.\n\nI risultati: per un circuito legato alla fusione nucleare a confinamento inerziale il costo di calcolo è sceso di 11,8 volte e i qubit corretti dagli errori necessari da 5.650 a 4.338; per la simulazione di una molecola sensibile alla luce il costo è sceso di 8 volte; per l'enzima citocromo P450, importante nel metabolismo dei farmaci, il miglioramento è di 2,5 volte, con i qubit passati da 481 a 333; una versione dell'algoritmo di ricerca di Grover è diventata 2,57 volte più veloce, e una piccola routine che serve a caricare i numeri negli stati quantistici addirittura 290 volte. La libreria Lean usata è stata resa pubblica.\n\nI limiti, detti dagli stessi autori: anche così migliorati, questi circuiti richiedono ancora più risorse di quelle che avranno i primi computer quantistici con correzione degli errori, e non sono stati provati su macchine vere, perché la loro correttezza è garantita dalla dimostrazione matematica, non da un esperimento.",
+          "perche": "Unisce due tendenze importanti: agenti AI che fanno ricerca in squadra e verifica matematica automatica, che rende i loro risultati controllabili invece che da prendere sulla fiducia.",
+          "fonti": [
+            {
+              "nome": "Google DeepMind (blog)",
+              "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+            }
+          ],
+          "parole": [
+            "Google DeepMind",
+            "Gemini 4",
+            "agenti AI",
+            "algoritmi quantistici",
+            "Lean",
+            "verifica formale",
+            "computer quantistico"
+          ]
+        }
+      ]
+    }
+  }
+}
