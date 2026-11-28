@@ -1,0 +1,315 @@
+{
+  "tipo": "giorno",
+  "periodo": "2026-11-28",
+  "aggiornamenti": [
+    "07:22"
+  ],
+  "sezioni": {
+    "italia": {
+      "articoli": [
+        {
+          "titolo": "Corriere della Sera, i giornalisti in stato di agitazione dopo il cambio improvviso di direttore",
+          "testo": "I giornalisti del Corriere della Sera hanno dichiarato lo stato di agitazione, il primo passo che di solito precede gli scioperi. L'assemblea della redazione ha protestato contro la decisione dell'editore, il gruppo Rcs di Urbano Cairo, di sostituire il direttore Luciano Fontana con Stefano Barigelli, che finora dirigeva la Gazzetta dello Sport, il quotidiano sportivo dello stesso gruppo.\n\nSecondo il comitato di redazione, cioè la rappresentanza sindacale dei giornalisti, il cambio è stato deciso in modo improvviso e irregolare. Nella redazione circola il sospetto che Fontana sia stato allontanato perché non avrebbe accettato un ampio piano di tagli al personale; Rcs nega sia questo collegamento sia l'esistenza di un piano del genere. I giornalisti contestano anche a Barigelli di aver fatto uscire la Gazzetta durante un recente sciopero.\n\nL'assemblea ha dato al comitato di redazione un pacchetto di cinque giorni di sciopero, da usare quando lo riterrà opportuno. Il Corriere è il quotidiano più venduto in Italia e cambi di direttore così rapidi sono rari. Nell'articolo non ci sono dichiarazioni del nuovo direttore.\n\nNei prossimi giorni si capirà se ci sarà un confronto tra redazione ed editore o se si arriverà agli scioperi, che lascerebbero il giornale fuori dalle edicole.",
+          "perche": "Perché conta: riguarda il principale quotidiano italiano e il rapporto tra editori e giornalisti in un momento di tagli in tutto il settore.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/corriere-della-sera-stato-agitazione-nuovo-direttore/"
+            }
+          ],
+          "parole": [
+            "Corriere della Sera",
+            "Rcs",
+            "Urbano Cairo",
+            "Luciano Fontana",
+            "Stefano Barigelli",
+            "giornalismo",
+            "sciopero"
+          ]
+        },
+        {
+          "titolo": "Il governo avvia il ritorno delle province elette dai cittadini",
+          "testo": "Il Consiglio dei ministri ha approvato mercoledì un disegno di legge delega per tornare a far eleggere direttamente dai cittadini i presidenti e i consigli delle province. L'elezione diretta era stata abolita nel 2014 dalla riforma Delrio, che aveva trasformato le province in enti di secondo livello, scelti da sindaci e consiglieri comunali.\n\nIl testo prevede un voto in un solo turno con un premio di maggioranza per chi vince, e il ritorno della giunta provinciale, cioè degli assessori. È una richiesta di lunga data della Lega: il ministro per gli Affari regionali Roberto Calderoli ha ricordato che due anni fa la presidente del Consiglio Giorgia Meloni era contraria.\n\nSi tratta solo del primo passo: una legge delega deve essere approvata dal Parlamento e poi il governo deve scrivere i decreti che la attuano. Secondo Il Post il percorso non si chiuderà prima della fine della legislatura. Enzo Lattuca, sindaco del Pd di Cesena e presidente dell'Unione delle province, ha detto che anche se tutto andasse liscio non si potrebbe votare prima del 2029.\n\nIl Post osserva che il ritorno delle province elette può interessare ai partiti in vista delle prossime elezioni politiche, perché crea nuovi posti e nuove candidature sul territorio.",
+          "perche": "Perché conta: cambierebbe di nuovo l'organizzazione degli enti locali, dalle strade provinciali alle scuole superiori, che sono competenza delle province.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/elezioni-ripristino-province/"
+            }
+          ],
+          "parole": [
+            "province",
+            "riforma Delrio",
+            "Calderoli",
+            "Lega",
+            "Consiglio dei ministri",
+            "enti locali"
+          ]
+        },
+        {
+          "titolo": "Navi russe colpite in Libia, Zelensky si scusa con Meloni: l'Ucraina non aveva avvisato",
+          "testo": "C'è un seguito all'attacco ucraino contro navi russe in Libia, avvenuto nel fine settimana del 21 e 22 novembre: l'Ucraina aveva colpito una nave della marina russa ormeggiata nel porto di Bengasi e un cargo in mare, a migliaia di chilometri dal fronte. Venerdì il presidente ucraino Volodymyr Zelensky ha telefonato a Giorgia Meloni e, secondo Il Post, di fatto si è scusato.\n\nZelensky ha confermato che l'Ucraina ha agito senza avvertire i governi europei e ha promesso che in futuro condividerà le informazioni. In un comunicato di Palazzo Chigi, Meloni ha ribadito il sostegno italiano alla resistenza ucraina, ma ha aggiunto che questo non può tradursi nell'accettare iniziative che mettono in pericolo la sicurezza dell'Italia e della regione.\n\nLa preoccupazione italiana nasce dal fatto che la Libia è vicina e divisa tra due governi rivali, e Russia e Ucraina appoggiano ciascuna una parte: per questo si teme che la guerra si allarghi al Mediterraneo. Nell'attacco erano morti due militari, come scritto nella rassegna del 25 novembre.\n\nNon sono stati annunciati altri passi, ma la telefonata chiude per ora lo scontro diplomatico tra Roma e Kiev.",
+          "perche": "Perché conta: mostra il limite che il governo italiano pone al sostegno all'Ucraina quando la guerra tocca il Mediterraneo.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/zelensky-scusato-giorgia-meloni-attacco-nave-russa-bengasi-libia/"
+            }
+          ],
+          "parole": [
+            "Zelensky",
+            "Meloni",
+            "Libia",
+            "Bengasi",
+            "Ucraina",
+            "Russia",
+            "Mediterraneo"
+          ]
+        },
+        {
+          "titolo": "Abusi nella Chiesa, il primo rapporto dei vescovi italiani: 426 segnalazioni in vent'anni",
+          "testo": "La Conferenza episcopale italiana (Cei) ha presentato il primo studio nazionale sugli abusi sessuali commessi nella Chiesa. Lo hanno preparato due centri indipendenti, l'Università di Bologna e l'Istituto degli Innocenti di Firenze, sulle segnalazioni arrivate tra il 2001 e il 2021: 426 in tutto, di cui 378 casi analizzati negli archivi delle diocesi, con alcuni episodi che risalgono fino al 1944.\n\nHanno partecipato 198 diocesi su 226: 133 hanno fornito dati sui casi, 65 hanno detto di non averne. Le vittime minorenni individuate sono 385, per circa il 70 per cento maschi, quasi tutti tra i 15 e i 17 anni al primo abuso; gli episodi contati sono 880. Dei sacerdoti accusati, il 44,6 per cento è stato trasferito, mentre 148 non sono stati spostati. In due casi su tre la Chiesa ha aperto un processo canonico, con 86 condanne.\n\nLe diocesi che non hanno partecipato sono soprattutto nel Centro e nel Sud. Francesco Zanardi, dell'associazione di vittime Rete L'Abuso, ha criticato il rapporto perché non indica i nomi delle diocesi né i dettagli dei casi e non affronta i risarcimenti; l'associazione prepara un proprio approfondimento regione per regione.\n\nLo studio è presentato come un primo lavoro «pilota»: i numeri riguardano solo i casi arrivati alle diocesi, non tutti gli abusi realmente avvenuti.",
+          "perche": "Perché conta: è la prima volta che la Chiesa italiana pubblica dati nazionali sugli abusi, ma le associazioni delle vittime li giudicano incompleti.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/rapporto-cei-abusi-sessuali-chiesa-studio-pilota-2026/"
+            }
+          ],
+          "parole": [
+            "Cei",
+            "abusi",
+            "Chiesa",
+            "vittime",
+            "Rete L'Abuso",
+            "diocesi"
+          ]
+        }
+      ]
+    },
+    "mondo": {
+      "articoli": [
+        {
+          "titolo": "Kuwait, Tajani: il drone che ha ucciso i due tecnici italiani era fatto in Iran",
+          "testo": "C'è un passo avanti nell'indagine sull'attacco di giovedì in Kuwait, in cui sono morti Antonio Saccoccio, 65 anni, di Formia, ed Emanuele Lo Russo, 36 anni, di Roma, tecnici di Rheinmetall Italia che facevano manutenzione alle antenne del sistema antiaereo Skyguard. Il ministro degli Esteri Antonio Tajani ha detto che le indagini kuwaitiane confermano che il drone era stato costruito in Iran.\n\nTeheran continua a negare: il ministro degli Esteri Abbas Araghchi aveva già detto a Tajani che il drone non era stato lanciato dalle forze armate iraniane né dal territorio iraniano, e ora l'Iran si è detto disposto a un'inchiesta comune con Italia e Kuwait. Tajani ha osservato che droni di questo tipo sono usati anche dalle milizie alleate dell'Iran nella regione. Le versioni sulla dinamica restano diverse: la Farnesina parla di droni che hanno colpito il luogo dove lavoravano i due, il ministero della Difesa kuwaitiano di detriti di droni intercettati.\n\nL'Iran attacca il Kuwait e gli altri Paesi del Golfo che ospitano forze americane da quando, a febbraio, è cominciata la guerra di Stati Uniti e Israele contro l'Iran; una tregua di ottobre non ha retto. Intanto, secondo i Guardiani della rivoluzione iraniani, due petroliere hanno preso fuoco dopo aver urtato mine vicino a Khasab, in Oman, e nella parte orientale dello stretto di Hormuz.\n\nOra si attende di capire se l'inchiesta comune proposta dall'Iran partirà davvero e chi abbia lanciato il drone.",
+          "perche": "Perché conta: stabilire la responsabilità della morte dei due italiani pesa sui rapporti tra Roma e Teheran e sulla sicurezza degli italiani che lavorano nel Golfo.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/26/kuwait-droni-italiani-uccisi/"
+            }
+          ],
+          "parole": [
+            "Kuwait",
+            "Iran",
+            "Tajani",
+            "Araghchi",
+            "Rheinmetall",
+            "droni",
+            "Hormuz"
+          ]
+        },
+        {
+          "titolo": "Spagna al voto domenica: Sánchez sfida i sondaggi che danno avanti destra e Vox",
+          "testo": "Domenica 29 novembre la Spagna vota per elezioni politiche anticipate. Il presidente del governo socialista Pedro Sánchez, al potere da più di otto anni, sfida il Partito Popolare di Alberto Núñez Feijóo e Vox, l'estrema destra di Santiago Abascal; a sinistra corrono il Frente Amplio guidato da Ada Colau e, separatamente, Podemos. Sabato è giornata di riflessione, senza campagna elettorale.\n\nQuasi tutti i sondaggi pubblicati prima del divieto di legge dei cinque giorni davano avanti una coalizione tra Popolari e Vox; secondo Il Post Vox potrebbe addirittura avere un risultato tale da cambiare gli equilibri a destra. Già nel 2023 il Partito Popolare era stato il più votato ma non era riuscito a formare un governo. Sánchez ha detto alla radio Cadena SER di non concepire una sconfitta e che i dati interni del partito mostrano possibile una maggioranza progressista.\n\nNell'ultimo dibattito televisivo Sánchez si è scontrato con Feijóo, Abascal e Colau, presentando il voto come una scelta tra regresso e progresso; ha anche definito «genocidio» quello che Israele compie a Gaza, mentre Feijóo aveva parlato di «massacro». Pesano sul governo la stanchezza dopo anni al potere, gli scandali di corruzione che hanno toccato il Partito socialista e la gestione dell'ingresso di massa di migranti a Ceuta in estate; tra i temi della campagna ci sono la casa e l'immigrazione.\n\nIl risultato sarà seguito in tutta Europa, che nei prossimi dodici mesi affronta una lunga serie di elezioni.",
+          "perche": "Perché conta: la Spagna è la quarta economia dell'area euro e uno degli ultimi grandi Paesi europei governati dalla sinistra.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/spagna-manifesti-elezioni/"
+            }
+          ],
+          "parole": [
+            "Spagna",
+            "elezioni",
+            "Pedro Sánchez",
+            "Feijóo",
+            "Vox",
+            "Abascal"
+          ]
+        },
+        {
+          "titolo": "Ucraina, Kiev propone una tregua nel Mar Nero mentre gli Stati Uniti preparano nuove proposte di pace",
+          "testo": "Venerdì il ministro degli Esteri ucraino Andrii Sybiha ha presentato una proposta di cessate il fuoco nel Mar Nero, durante una conferenza sulle esportazioni alimentari ucraine: l'obiettivo è garantire la libertà di navigazione e le spedizioni di grano senza interruzioni. Kiev aspetta la risposta di Mosca, che vorrebbe includere anche il trasporto di petrolio; per l'Ucraina questo va discusso in una più ampia tregua sull'energia. Lo stesso giorno Vladimir Putin ha partecipato al varo di un nuovo sottomarino a propulsione nucleare armato con missili Zircon.\n\nSul fronte diplomatico, Al Jazeera riprende il Wall Street Journal secondo cui gli Stati Uniti hanno preparato due opzioni: l'Ucraina cederebbe la cosiddetta «cintura di fortezze» del Donetsk in cambio dell'ingresso pieno nella NATO, oppure si congelerebbe il fronte attuale in cambio di garanzie di sicurezza simili a quelle della NATO. Jared Kushner ha detto che la Russia avrebbe accettato una versione annacquata della seconda. Zelensky rifiuta di cedere la cintura di fortezze e ha detto alla BBC che Putin non può essere un amico, dopo che Trump lo aveva chiamato così il 19 novembre.\n\nSul campo, secondo dati ucraini non verificabili in modo indipendente, l'operazione lanciata il 20 novembre nella regione di Kharkiv avrebbe riconquistato 200 chilometri quadrati e 14 villaggi. Il cancelliere tedesco Friedrich Merz ha detto al Parlamento che la Russia vuole più dell'Ucraina, citando le tensioni nel Baltico, in Polonia e nel Mar Nero; il segretario della NATO Mark Rutte ha chiesto a Mosca di non allargare la guerra.\n\nLe prossime settimane diranno se la proposta sul Mar Nero e i piani americani apriranno una vera trattativa.",
+          "perche": "Perché conta: dal Mar Nero passa una parte importante del grano mondiale, e un accordo di pace cambierebbe la sicurezza di tutta l'Europa.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+            },
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory"
+            }
+          ],
+          "parole": [
+            "Ucraina",
+            "Russia",
+            "Mar Nero",
+            "Zelensky",
+            "Putin",
+            "piano di pace",
+            "NATO"
+          ]
+        },
+        {
+          "titolo": "Il Costa Rica respinge all'aeroporto la relatrice dell'Onu Francesca Albanese",
+          "testo": "Francesca Albanese, relatrice speciale delle Nazioni Unite per i territori palestinesi occupati, è stata fermata all'aeroporto di San José, in Costa Rica, dove era arrivata giovedì da Parigi per ricevere una laurea honoris causa dall'Università del Costa Rica. Dopo un controllo delle impronte digitali le autorità le hanno chiesto di tornare a Parigi; lei ha rifiutato e ha chiesto di proseguire per il Messico. Per ora resta nella zona internazionale dell'aeroporto, senza essere entrata formalmente nel Paese.\n\nIl viceministro dell'Interno Omer Badilla Toledo ha spiegato che su di lei c'era un'allerta internazionale per presunti legami con attività terroristiche e che il suo arrivo avrebbe messo a rischio la sicurezza nazionale. Il Post ricorda che Albanese non è in nessuna lista di terroristi, ma è sotto sanzioni degli Stati Uniti dall'estate del 2025 per aver sostenuto le cause alla Corte penale internazionale contro dirigenti israeliani.\n\nUna deputata del Frente Amplio costaricano, Joselyn Sáenz Núñez, ha fatto ricorso contro il trattenimento: i giudici hanno stabilito che Albanese non può essere espulsa finché non avranno deciso, ma che può andarsene volontariamente. L'ambasciatore italiano ha mandato un funzionario ad assisterla.\n\nLa decisione dei giudici costaricani dirà se Albanese potrà entrare nel Paese o dovrà ripartire.",
+          "perche": "Perché conta: riguarda una funzionaria italiana dell'Onu e mostra il peso delle sanzioni americane anche fuori dagli Stati Uniti.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/albanese-costa-rica/"
+            }
+          ],
+          "parole": [
+            "Francesca Albanese",
+            "Costa Rica",
+            "Onu",
+            "Palestina",
+            "sanzioni",
+            "Stati Uniti"
+          ]
+        },
+        {
+          "titolo": "Attacchi degli Houthi contro l'Arabia Saudita, Pakistan e Turchia promettono di difendere Riad",
+          "testo": "Venerdì a Islamabad si sono riuniti per circa due ore e mezza alti funzionari di Pakistan, Arabia Saudita e Turchia, i tre Paesi del patto di difesa della Mecca. Hanno condannato come atroci gli attacchi degli Houthi yemeniti contro civili e infrastrutture saudite e si sono impegnati a sostenere la sicurezza e l'integrità del regno, in base alla clausola di difesa comune del patto.\n\nSecondo le autorità saudite, dal 23 settembre almeno 26 persone sono state uccise in attacchi con droni e missili attribuiti agli Houthi, 23 delle quali negli aeroporti. Gli Houthi colpiscono città, impianti petroliferi e navi saudite da quando a luglio sono ripresi duramente i combattimenti in Yemen. Lo stesso giorno i media degli Houthi hanno parlato di 27 bombardamenti sulla provincia di Saada, e l'esercito del governo yemenita ha detto di aver inflitto pesanti perdite ai ribelli: nessuna delle due versioni è stata verificata in modo indipendente.\n\nNon sono state annunciate misure concrete. Il patto, firmato il 7 agosto, considera un attacco a uno dei tre Paesi come un attacco a tutti; già il 5 ottobre i membri avevano promesso forze da dispiegare rapidamente. Il Pakistan si è impegnato a difendere il territorio saudita ma ha escluso di attaccare gli Houthi dentro lo Yemen; il ministro degli Esteri turco Hakan Fidan ha detto che non è stato deciso di mandare truppe in Yemen.\n\nResta da vedere se il sostegno degli alleati si tradurrà in un intervento militare o resterà sul piano della difesa.",
+          "perche": "Perché conta: il conflitto in Yemen si somma alla guerra con l'Iran e alla crisi di Hormuz, da cui passa gran parte del petrolio che arriva in Europa.",
+          "fonti": [
+            {
+              "nome": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia"
+            }
+          ],
+          "parole": [
+            "Houthi",
+            "Arabia Saudita",
+            "Yemen",
+            "Pakistan",
+            "Turchia",
+            "patto della Mecca"
+          ]
+        }
+      ]
+    },
+    "economia": {
+      "articoli": [
+        {
+          "titolo": "La Francia è in recessione tecnica: il prodotto interno lordo è sceso per tre trimestri",
+          "testo": "L'istituto di statistica francese ha rivisto i suoi dati e ora dice che nel 2026 il prodotto interno lordo della Francia è diminuito in tutti e tre i primi trimestri: meno 0,2 per cento nel primo, un calo minimo, arrotondato a zero ma negativo, nel secondo e meno 0,2 per cento nel terzo. Due trimestri di calo consecutivi bastano per parlare di recessione tecnica.\n\nÈ la prima volta che succede dal primo trimestre del 2020, all'inizio della pandemia. Il governo aveva previsto per quest'anno una crescita dello 0,5 per cento, un obiettivo che ora appare molto difficile da raggiungere.\n\nSecondo Il Post la debolezza dell'economia è legata anche agli anni di crisi politica, che hanno impedito ai governi di intervenire sul grande debito pubblico, cresciuto dopo la pandemia. Quanto sarà grave il rallentamento dipenderà dall'andamento della produzione industriale, dei consumi, dei redditi delle famiglie e della disoccupazione, dati che non sono ancora disponibili.\n\nNell'articolo non ci sono reazioni del governo francese.",
+          "perche": "Perché conta: la Francia è uno dei principali mercati per le esportazioni italiane, e una sua recessione pesa sulle aziende italiane e sull'economia europea.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/economia-francese-recessione-tecnica/"
+            }
+          ],
+          "parole": [
+            "Francia",
+            "recessione",
+            "Pil",
+            "debito pubblico",
+            "economia europea"
+          ]
+        },
+        {
+          "titolo": "Anthropic torna sopra il prezzo del debutto in Borsa dopo una settimana difficile",
+          "testo": "Alla chiusura di venerdì a New York le azioni di Anthropic, la società di intelligenza artificiale, hanno chiuso a 91,88 dollari, circa l'11 per cento in più rispetto a mercoledì (giovedì le Borse americane erano chiuse per il Ringraziamento). Così il titolo è tornato sopra il prezzo di 83 dollari con cui era stato quotato, dopo due sedute sotto quella soglia.\n\nAnthropic si è quotata al Nasdaq il 19 novembre raccogliendo, secondo le cifre riportate, 81,3 miliardi di dollari, un record. Il primo giorno il titolo era salito fino a circa 115 dollari, poi era sceso con il resto delle azioni tecnologiche: in due giorni l'indice Nasdaq 100 aveva perso circa l'8 per cento, la settimana peggiore dal 2020, e l'indice della paura VIX aveva superato per poco quota 40.\n\nIl recupero è legato soprattutto a Nvidia: lunedì il consiglio di amministrazione ha richiamato come amministratore delegato Jensen Huang, che si era dimesso il 12 novembre, e le azioni Nvidia sono salite di circa il 31,5 per cento in un giorno. Martedì però c'è stato un nuovo calo. I senatori repubblicani hanno annunciato che Huang parlerà il 3 dicembre in un'audizione sui limiti alle esportazioni di chip; i democratici vogliono indagare dal prossimo anno sui rapporti tra il governo e Nvidia.\n\nL'andamento di questi titoli resta il termometro dei timori di una bolla dell'intelligenza artificiale.",
+          "perche": "Perché conta: le grandi società dell'intelligenza artificiale pesano molto sui mercati mondiali, e i loro sbalzi si riflettono anche sui risparmi investiti in fondi azionari.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/azioni-anthropic-chiusura-27-novembre/"
+            },
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/23/nvidia-ritorno-jensen-huang/"
+            }
+          ],
+          "parole": [
+            "Anthropic",
+            "Borsa",
+            "Nasdaq",
+            "Nvidia",
+            "Jensen Huang",
+            "intelligenza artificiale"
+          ]
+        },
+        {
+          "titolo": "Argentina, la banca centrale non potrà più stampare moneta per finanziare il governo",
+          "testo": "Il Parlamento argentino ha approvato il nuovo statuto della banca centrale, che le vieta di stampare moneta per pagare le spese del governo. È un punto centrale del programma del presidente Javier Milei, che da sempre indica in questa pratica una delle cause dell'inflazione altissima che ha segnato per decenni il Paese.\n\nIl nuovo statuto toglie anche dagli obiettivi della banca il sostegno all'occupazione e alla crescita, che erano stati aggiunti durante la presidenza di Cristina Fernández de Kirchner, tra il 2007 e il 2015. Kirchner sta scontando una condanna per corruzione agli arresti domiciliari ma resta una figura importante dell'opposizione.\n\nIn campagna elettorale, nel 2023, Milei aveva promesso di abolire la banca centrale e di adottare il dollaro come moneta, promesse poi molto ridimensionate. Dopo tre anni al governo, secondo Il Post, è riuscito a tagliare molto la spesa pubblica e a frenare l'inflazione fuori controllo, ma non a migliorare l'occupazione e la crescita.\n\nL'articolo non indica i tempi con cui le nuove regole entreranno in vigore.",
+          "perche": "Perché conta: è un cambiamento profondo per un Paese con molti legami con l'Italia e per i risparmiatori che negli anni hanno investito in titoli argentini.",
+          "fonti": [
+            {
+              "nome": "Il Post",
+              "url": "https://www.ilpost.it/2026/11/27/argentina-vieta-banca-centrale-stampare-moneta/"
+            }
+          ],
+          "parole": [
+            "Argentina",
+            "Javier Milei",
+            "banca centrale",
+            "inflazione",
+            "Kirchner"
+          ]
+        }
+      ]
+    },
+    "tech": {
+      "articoli": []
+    },
+    "clima": {
+      "articoli": [
+        {
+          "titolo": "Le grandi città costiere africane sprofondano: sette milioni di persone esposte alle inondazioni entro il 2050",
+          "testo": "Uno studio pubblicato su Science Advances, guidato da Oluwaseyi Dasho del Virginia Tech, ha misurato quanto stanno sprofondando venti tra le città costiere più popolose dell'Africa, usando oltre 4.000 immagini dei satelliti europei Sentinel-1 e le previsioni sull'innalzamento del mare. Ne racconta i risultati Carbon Brief.\n\nIn uno scenario di riscaldamento moderato, un evento di mare eccezionalmente alto potrebbe esporre entro metà secolo circa sette milioni di persone, un milione di edifici e beni per 180 miliardi di dollari. Le città più a rischio sono Lagos, in Nigeria, e Alessandria d'Egitto, che da sole contano cinque milioni di persone e 150 miliardi di beni esposti: Lagos si abbassa di circa 5,2 millimetri all'anno, Alessandria di 6,3, ritmi simili a quelli di Giacarta, Manila e Ho Chi Minh. Gibuti, Mogadiscio e Tripoli risultano invece poco esposte.\n\nGli autori avvertono che le stime tengono ferme popolazione ed edifici ai livelli del 2020 e non considerano le difese costiere: per questo descrivono il loro risultato come il quadro fisico peggiore. Se le città continueranno a crescere, i numeri potrebbero essere più alti; l'Africa è la regione che si urbanizza più in fretta, con una crescita delle città di circa il 3,5 per cento all'anno.\n\nSecondo gli autori il metodo satellitare potrebbe servire anche in altre zone costiere del Sud del mondo dove mancano dati locali sull'abbassamento del suolo.",
+          "perche": "Perché conta: l'abbassamento del suolo moltiplica gli effetti dell'innalzamento del mare, e il problema riguarda da vicino il Mediterraneo, da Alessandria a Tripoli.",
+          "fonti": [
+            {
+              "nome": "Carbon Brief",
+              "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050"
+            }
+          ],
+          "parole": [
+            "Africa",
+            "innalzamento del mare",
+            "Lagos",
+            "Alessandria",
+            "subsidenza",
+            "inondazioni"
+          ]
+        },
+        {
+          "titolo": "Stati Uniti, l'aereo dell'agenzia ambientale per le emergenze chimiche è rimasto a terra nei grandi incidenti",
+          "testo": "Un'inchiesta di Floodlight, ripubblicata da Inside Climate News, racconta il declino di ASPECT, il piccolo aereo dell'Agenzia americana per la protezione dell'ambiente (EPA) dotato di sensori per individuare in pochi minuti le sostanze tossiche dopo fughe chimiche, sversamenti di petrolio o incidenti radioattivi. Dall'inizio del 2021 ha risposto solo a sette emergenze: nei primi vent'anni volava circa quattro volte l'anno, negli ultimi cinque una.\n\nSecondo ex dipendenti l'aereo è rimasto fermo durante incidenti gravi come la fuga di ammoniaca di Weatherford, in Oklahoma, con 74 feriti, l'incendio della raffineria di Port Arthur, in Texas, e le esplosioni di agosto a Toledo, in Ohio, dove sono morti due lavoratori. A giugno l'ispettore generale dell'EPA ha accertato che il sistema non riesce più a identificare le sostanze in pochi minuti: oggi le analisi richiedono circa una settimana. Intanto gli incidenti con rilascio di sostanze registrati dall'ente per la sicurezza chimica sono saliti da 83 nel 2021 a 133 lo scorso anno.\n\nL'EPA ha affidato senza gara un contratto da 1,7 milioni di dollari alla canadese Telops per nuovi sensori, da installare tra l'inizio e la metà del 2027. Gli ex dipendenti sostengono però che i vecchi strumenti funzionano ancora e che il vero problema è la perdita di competenze e un aggiornamento del software mai realizzato; l'azienda risponde che i sistemi sono diversi. L'EPA non ha risposto alle domande dei giornalisti.\n\nL'articolo ricorda che l'amministrazione Trump propone di ridurre le regole federali per la prevenzione degli incidenti chimici.",
+          "perche": "Perché conta: mostra come i tagli e la perdita di competenze negli enti pubblici possano lasciare le comunità senza informazioni nei momenti di pericolo.",
+          "fonti": [
+            {
+              "nome": "Inside Climate News",
+              "url": "https://insideclimatenews.org/news/27112026/how-the-epa-let-a-key-chemical-detection-program-unravel/"
+            }
+          ],
+          "parole": [
+            "EPA",
+            "Stati Uniti",
+            "incidenti chimici",
+            "inquinamento",
+            "Trump"
+          ]
+        }
+      ]
+    }
+  }
+}
